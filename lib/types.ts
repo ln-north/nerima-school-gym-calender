@@ -1,7 +1,7 @@
 /**
- * 体育館開放イベントの型定義
+ * 体育館開放スケジュールイベントの型定義
  */
-export interface GymEvent {
+export interface ScheduleEvent {
   id: string;
   schoolName: string;
   date: string; // YYYY-MM-DD
@@ -12,11 +12,17 @@ export interface GymEvent {
 }
 
 /**
+ * 後方互換性のためのエイリアス
+ * @deprecated ScheduleEventを使用してください
+ */
+export type GymEvent = ScheduleEvent;
+
+/**
  * 学校情報の型定義
  */
 export interface School {
   name: string;
-  events: GymEvent[];
+  events: ScheduleEvent[];
 }
 
 /**
@@ -24,7 +30,17 @@ export interface School {
  */
 export interface Sport {
   name: string;
-  events: GymEvent[];
+  events: ScheduleEvent[];
+}
+
+/**
+ * 全体のスケジュールデータの型定義
+ */
+export interface ScheduleData {
+  events: ScheduleEvent[];
+  schools: School[];
+  sports: Sport[];
+  lastUpdated: string; // ISO 8601形式
 }
 
 /**
@@ -35,7 +51,7 @@ export interface CalendarEvent {
   title: string;
   start: Date;
   end: Date;
-  resource: GymEvent;
+  resource: ScheduleEvent;
 }
 
 /**
