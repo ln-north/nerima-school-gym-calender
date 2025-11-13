@@ -1,20 +1,125 @@
+'use client';
+
+import { useState, useMemo } from 'react';
+import Calendar from '@/components/Calendar';
+import Filter from '@/components/Filter';
+import EventDetail from '@/components/EventDetail';
+import type { ScheduleData, CalendarEvent, FilterOptions, ScheduleEvent } from '@/lib/types';
+import { filterEvents, getSchoolNames, getSportNames } from '@/lib/utils';
+
+// サンプルデータ（実際のデータが無い場合のフォールバック）
+const SAMPLE_DATA: ScheduleData = {
+  events: [],
+  schools: [],
+  sports: [],
+  lastUpdated: new Date().toISOString(),
+};
+
 export default function Home() {
+  const [data] = useState<ScheduleData>(SAMPLE_DATA);
+  const [filters, setFilters] = useState<FilterOptions>({ schools: [], sports: [] });
+  const [selectedEvent, setSelectedEvent] = useState<CalendarEvent | null>(null);
+
+  const schoolNames = useMemo(() => getSchoolNames(data), [data]);
+  const sportNames = useMemo(() => getSportNames(data), [data]);
+
+  const filteredEvents = useMemo(() => {
+    return filterEvents(data.events, filters.schools, filters.sports);
+  }, [data.events, filters]);
+
+  const handleFilterChange = (newFilters: FilterOptions) => {
+    setFilters(newFilters);
+  };
+
+  const handleSelectEvent = (event: CalendarEvent) => {
+    setSelectedEvent(event);
+  };
+
+  const handleCloseDetail = () => {
+    setSelectedEvent(null);
+  };
+
   return (
-    <main className="min-h-screen p-8">
+    <main className="min-h-screen bg-gray-50 p-4 md:p-8">
       <div className="max-w-7xl mx-auto">
-        <h1 className="text-3xl font-bold mb-4">
-          練馬区 学校体育館個人開放カレンダー
-        </h1>
-        <p className="text-gray-600 mb-8">
-          練馬区の学校体育館個人開放日程をカレンダー形式で表示します。
-        </p>
-        <div className="bg-blue-50 border border-blue-200 rounded-lg p-6">
-          <p className="text-blue-800">
-            プロジェクトのセットアップが完了しました。
-            次のステップでカレンダー機能を実装します。
+        <header className="mb-8">
+          <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mb-2">
+            練馬区 学校体育館個人開放カレンダー
+          </h1>
+          <p className="text-gray-600">
+            練馬区の学校体育館個人開放日程をカレンダー形式で表示します。
           </p>
-        </div>
+          {data.lastUpdated && (
+            <p className="text-sm text-gray-500 mt-2">
+              最終更新: {new Date(data.lastUpdated).toLocaleString('ja-JP')}
+            </p>
+          )}
+        </header>
+
+        {data.events.length === 0 ? (
+          <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-6">
+            <h2 className="text-lg font-semibold text-yellow-800 mb-2">
+              データがありません
+            </h2>
+            <p className="text-yellow-700 mb-4">
+              スクレイピングスクリプトを実行してデータを取得してください。
+            </p>
+            <code className="bg-yellow-100 text-yellow-900 px-3 py-1 rounded text-sm">
+              npm run scrape
+            </code>
+          </div>
+        ) : (
+          <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
+            {/* フィルターサイドバー */}
+            <aside className="lg:col-span-1">
+              <Filter
+                schools={schoolNames}
+                sports={sportNames}
+                onFilterChange={handleFilterChange}
+              />
+
+              {/* 統計情報 */}
+              <div className="bg-white rounded-lg shadow-lg p-6 mt-6">
+                <h3 className="text-lg font-semibold text-gray-800 mb-4">統計</h3>
+                <div className="space-y-3">
+                  <div className="flex justify-between">
+                    <span className="text-gray-600">全イベント:</span>
+                    <span className="font-semibold text-gray-800">
+                      {data.events.length}件
+                    </span>
+                  </div>
+                  <div className="flex justify-between">
+                    <span className="text-gray-600">表示中:</span>
+                    <span className="font-semibold text-blue-600">
+                      {filteredEvents.length}件
+                    </span>
+                  </div>
+                  <div className="flex justify-between">
+                    <span className="text-gray-600">学校数:</span>
+                    <span className="font-semibold text-gray-800">
+                      {schoolNames.length}校
+                    </span>
+                  </div>
+                  <div className="flex justify-between">
+                    <span className="text-gray-600">種目数:</span>
+                    <span className="font-semibold text-gray-800">
+                      {sportNames.length}種目
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </aside>
+
+            {/* カレンダー */}
+            <div className="lg:col-span-3">
+              <Calendar events={filteredEvents} onSelectEvent={handleSelectEvent} />
+            </div>
+          </div>
+        )}
+
+        {/* イベント詳細モーダル */}
+        <EventDetail event={selectedEvent} onClose={handleCloseDetail} />
       </div>
     </main>
-  )
+  );
 }

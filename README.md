@@ -77,15 +77,70 @@ npm run build
 
 ### スクレイピング実行
 
+練馬区のWebサイトから体育館開放日程をスクレイピングし、JSONファイルを生成します。
+
 ```bash
 npm run scrape
 ```
 
+生成されるファイル: `public/data/schedule.json`
+
 ### iCalendar生成
+
+JSONデータからiCalendarファイルを生成します。
 
 ```bash
 npm run generate-ical
 ```
+
+生成されるファイル:
+- `public/ical/all.ics` - 全イベント
+- `public/ical/schools/[学校名].ics` - 学校ごと
+- `public/ical/sports/[種目名].ics` - スポーツ種目ごと
+
+### データ更新の流れ
+
+```bash
+# 1. スクレイピング実行
+npm run scrape
+
+# 2. iCalendar生成
+npm run generate-ical
+
+# 3. ビルド
+npm run build
+```
+
+## 自動更新
+
+GitHub Actionsを使用して、週1回自動的にデータを更新します。
+
+### 設定ファイル
+
+`.github/workflows/update-data.yml`
+
+### スケジュール
+
+- **自動実行**: 毎週月曜日 午前9時（JST）
+- **手動実行**: GitHubのActionsタブから「Run workflow」で実行可能
+
+### 実行内容
+
+1. スクレイピングスクリプトを実行（`npm run scrape`）
+2. iCalendarファイルを生成（`npm run generate-ical`）
+3. 変更があれば自動的にコミット＆プッシュ
+4. サイトをビルドしてアーティファクトとして保存
+
+### 手動実行方法
+
+1. GitHubリポジトリの「Actions」タブを開く
+2. 「Update Gym Schedule Data」ワークフローを選択
+3. 「Run workflow」ボタンをクリック
+4. ブランチを選択して実行
+
+### 必要な権限
+
+- `contents: write` - データファイルをコミットするために必要
 
 ## デプロイ
 
