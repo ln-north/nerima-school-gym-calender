@@ -77,14 +77,38 @@ npm run build
 
 ### スクレイピング実行
 
+練馬区のWebサイトから体育館開放日程をスクレイピングし、JSONファイルを生成します。
+
 ```bash
 npm run scrape
 ```
 
+生成されるファイル: `public/data/schedule.json`
+
 ### iCalendar生成
+
+JSONデータからiCalendarファイルを生成します。
 
 ```bash
 npm run generate-ical
+```
+
+生成されるファイル:
+- `public/ical/all.ics` - 全イベント
+- `public/ical/schools/[学校名].ics` - 学校ごと
+- `public/ical/sports/[種目名].ics` - スポーツ種目ごと
+
+### データ更新の流れ
+
+```bash
+# 1. スクレイピング実行
+npm run scrape
+
+# 2. iCalendar生成
+npm run generate-ical
+
+# 3. ビルド
+npm run build
 ```
 
 ## デプロイ
