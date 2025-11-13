@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import Calendar from '@/components/Calendar';
 import Filter from '@/components/Filter';
 import EventDetail from '@/components/EventDetail';
@@ -16,7 +16,22 @@ const SAMPLE_DATA: ScheduleData = {
 };
 
 export default function Home() {
-  const [data] = useState<ScheduleData>(SAMPLE_DATA);
+  const [data, setData] = useState<ScheduleData>(SAMPLE_DATA);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    // JSONデータを読み込む
+    fetch('/data/schedule.json')
+      .then((res) => res.json())
+      .then((jsonData) => {
+        setData(jsonData);
+        setLoading(false);
+      })
+      .catch((error) => {
+        console.error('Failed to load schedule data:', error);
+        setLoading(false);
+      });
+  }, []);
   const [filters, setFilters] = useState<FilterOptions>({ schools: [], sports: [] });
   const [selectedEvent, setSelectedEvent] = useState<CalendarEvent | null>(null);
 
@@ -56,7 +71,14 @@ export default function Home() {
           )}
         </header>
 
-        {data.events.length === 0 ? (
+        {loading ? (
+          <div className="flex items-center justify-center h-64">
+            <div className="text-center">
+              <div className="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid border-blue-600 border-r-transparent"></div>
+              <p className="mt-4 text-gray-600">データを読み込み中...</p>
+            </div>
+          </div>
+        ) : data.events.length === 0 ? (
           <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-6">
             <h2 className="text-lg font-semibold text-yellow-800 mb-2">
               データがありません
