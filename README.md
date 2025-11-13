@@ -144,7 +144,27 @@ GitHub Actionsを使用して、週1回自動的にデータを更新します�
 
 ## デプロイ
 
-静的サイトとしてエクスポートされるため、GitHub Pages、Netlify、Vercelなどの静的ホスティングサービスにデプロイ可能です。
+### GitHub Pages
+
+このプロジェクトはGitHub Pagesに自動デプロイされます。
+
+#### 初回セットアップ
+
+1. GitHubリポジトリの「Settings」→「Pages」を開く
+2. 「Source」で「GitHub Actions」を選択
+3. mainブランチにプッシュすると自動的にデプロイされます
+
+#### デプロイワークフロー
+
+`.github/workflows/deploy-pages.yml`
+
+- **自動実行**: mainブランチへのプッシュ時
+- **手動実行**: GitHubのActionsタブから実行可能
+- **デプロイURL**: `https://[ユーザー名].github.io/nerima-school-gym-calender/`
+
+### その他のホスティングサービス
+
+静的サイトとしてエクスポートされるため、Netlify、Vercelなどの静的ホスティングサービスにもデプロイ可能です。
 
 ```bash
 npm run build
