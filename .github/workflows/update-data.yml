@@ -1,0 +1,63 @@
+name: Update Gym Schedule Data
+
+on:
+  # 毎週月曜日の午前9時（JST）に実行
+  schedule:
+    - cron: '0 0 * * 1'  # UTC 0:00 = JST 9:00
+
+  # 手動実行も可能にする
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run scraping script
+        run: npm run scrape
+        continue-on-error: false
+
+      - name: Generate iCalendar files
+        run: npm run generate-ical
+        continue-on-error: false
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code public/data/ public/ical/ || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add public/data/ public/ical/
+          git commit -m "chore: update gym schedule data [skip ci]"
+          git push
+
+      - name: Build site
+        run: npm run build
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-build
+          path: out/
+          retention-days: 7
