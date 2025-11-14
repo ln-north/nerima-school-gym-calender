@@ -10,18 +10,34 @@ import { filterEvents, getSchoolNames, getSportNames } from '@/lib/utils';
 export default function Home() {
   const [data, setData] = useState<ScheduleData | null>(null);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     // JSONデータを読み込む
     const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
-    fetch(`${basePath}/data/schedule.json`)
-      .then((res) => res.json())
+    const dataUrl = `${basePath}/data/schedule.json`;
+
+    console.log('Fetching data from:', dataUrl);
+    console.log('Base path:', basePath);
+
+    fetch(dataUrl)
+      .then((res) => {
+        console.log('Response status:', res.status);
+        if (!res.ok) {
+          throw new Error(`HTTP error! status: ${res.status}`);
+        }
+        return res.json();
+      })
       .then((jsonData) => {
+        console.log('Data loaded successfully:', jsonData.events?.length, 'events');
         setData(jsonData);
         setLoading(false);
       })
-      .catch((error) => {
-        console.error('Failed to load schedule data:', error);
+      .catch((err) => {
+        const errorMessage = err instanceof Error ? err.message : String(err);
+        console.error('Failed to load schedule data:', errorMessage);
+        console.error('URL attempted:', dataUrl);
+        setError(`データの読み込みに失敗しました: ${errorMessage} (URL: ${dataUrl})`);
         setLoading(false);
       });
   }, []);
@@ -63,6 +79,11 @@ export default function Home() {
               最終更新: {new Date(data.lastUpdated).toLocaleString('ja-JP')}
             </p>
           )}
+          {process.env.NODE_ENV === 'production' && (
+            <p className="text-xs text-gray-400 mt-1">
+              Data URL: {process.env.NEXT_PUBLIC_BASE_PATH || ''}/data/schedule.json
+            </p>
+          )}
         </header>
 
         {loading ? (
@@ -77,9 +98,27 @@ export default function Home() {
             <h2 className="text-lg font-semibold text-yellow-800 mb-2">
               データがありません
             </h2>
-            <p className="text-yellow-700">
+            <p className="text-yellow-700 mb-2">
               データの読み込みに失敗しました。しばらくしてから再度アクセスしてください。
             </p>
+            <details className="mt-4 open">
+              <summary className="cursor-pointer text-sm text-yellow-600 hover:text-yellow-800 font-semibold">
+                デバッグ情報
+              </summary>
+              <div className="mt-2 text-xs text-yellow-800 bg-yellow-100 p-3 rounded space-y-1">
+                <p>data is null: {data === null ? 'YES' : 'NO'}</p>
+                <p>data exists: {data ? 'YES' : 'NO'}</p>
+                {data && (
+                  <>
+                    <p>events count: {data.events?.length || 0}</p>
+                    <p>schools count: {data.schools?.length || 0}</p>
+                    <p>sports count: {data.sports?.length || 0}</p>
+                  </>
+                )}
+                <p>Error: {error || 'なし'}</p>
+                <p>BasePath: {process.env.NEXT_PUBLIC_BASE_PATH || '(empty)'}</p>
+              </div>
+            </details>
           </div>
         ) : (
           <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
