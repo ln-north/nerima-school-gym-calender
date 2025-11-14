@@ -7,16 +7,8 @@ import EventDetail from '@/components/EventDetail';
 import type { ScheduleData, CalendarEvent, FilterOptions, ScheduleEvent } from '@/lib/types';
 import { filterEvents, getSchoolNames, getSportNames } from '@/lib/utils';
 
-// サンプルデータ（実際のデータが無い場合のフォールバック）
-const SAMPLE_DATA: ScheduleData = {
-  events: [],
-  schools: [],
-  sports: [],
-  lastUpdated: new Date().toISOString(),
-};
-
 export default function Home() {
-  const [data, setData] = useState<ScheduleData>(SAMPLE_DATA);
+  const [data, setData] = useState<ScheduleData | null>(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -36,12 +28,13 @@ export default function Home() {
   const [filters, setFilters] = useState<FilterOptions>({ schools: [], sports: [] });
   const [selectedEvent, setSelectedEvent] = useState<CalendarEvent | null>(null);
 
-  const schoolNames = useMemo(() => getSchoolNames(data), [data]);
-  const sportNames = useMemo(() => getSportNames(data), [data]);
+  const schoolNames = useMemo(() => data ? getSchoolNames(data) : [], [data]);
+  const sportNames = useMemo(() => data ? getSportNames(data) : [], [data]);
 
   const filteredEvents = useMemo(() => {
+    if (!data) return [];
     return filterEvents(data.events, filters.schools, filters.sports);
-  }, [data.events, filters]);
+  }, [data, filters]);
 
   const handleFilterChange = (newFilters: FilterOptions) => {
     setFilters(newFilters);
@@ -65,7 +58,7 @@ export default function Home() {
           <p className="text-gray-600">
             練馬区の学校体育館個人開放日程をカレンダー形式で表示します。
           </p>
-          {data.lastUpdated && (
+          {data?.lastUpdated && (
             <p className="text-sm text-gray-500 mt-2">
               最終更新: {new Date(data.lastUpdated).toLocaleString('ja-JP')}
             </p>
@@ -79,17 +72,14 @@ export default function Home() {
               <p className="mt-4 text-gray-600">データを読み込み中...</p>
             </div>
           </div>
-        ) : data.events.length === 0 ? (
+        ) : !data || data.events.length === 0 ? (
           <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-6">
             <h2 className="text-lg font-semibold text-yellow-800 mb-2">
               データがありません
             </h2>
-            <p className="text-yellow-700 mb-4">
-              スクレイピングスクリプトを実行してデータを取得してください。
+            <p className="text-yellow-700">
+              データの読み込みに失敗しました。しばらくしてから再度アクセスしてください。
             </p>
-            <code className="bg-yellow-100 text-yellow-900 px-3 py-1 rounded text-sm">
-              npm run scrape
-            </code>
           </div>
         ) : (
           <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
