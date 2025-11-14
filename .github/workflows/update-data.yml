@@ -31,11 +31,37 @@ jobs:
         run: npm ci
 
       - name: Run scraping script
-        run: npm run scrape
+        run: |
+          echo "========== Starting Scraping =========="
+          npm run scrape
+          echo "========== Scraping Results =========="
+          if [ -f public/data/schedule.json ]; then
+            EVENTS_COUNT=$(grep -o '"id"' public/data/schedule.json | wc -l)
+            SCHOOLS_COUNT=$(grep -o '"id": "school-' public/data/schedule.json | wc -l)
+            SPORTS_COUNT=$(grep -o '"id": "sport-' public/data/schedule.json | wc -l)
+            echo "✓ Data file created successfully"
+            echo "📊 Events: $EVENTS_COUNT"
+            echo "🏫 Schools: $SCHOOLS_COUNT"
+            echo "⚽ Sports: $SPORTS_COUNT"
+            echo "📄 File size: $(du -h public/data/schedule.json | cut -f1)"
+          else
+            echo "❌ ERROR: Data file not created!"
+            exit 1
+          fi
         continue-on-error: false
 
       - name: Generate iCalendar files
-        run: npm run generate-ical
+        run: |
+          echo "========== Generating iCalendar Files =========="
+          npm run generate-ical
+          echo "========== iCalendar Results =========="
+          if [ -d public/ical ]; then
+            ICAL_FILES=$(find public/ical -name "*.ics" | wc -l)
+            echo "✓ Generated $ICAL_FILES iCalendar files"
+            ls -lh public/ical/
+          else
+            echo "⚠️  Warning: iCalendar directory not created"
+          fi
         continue-on-error: false
 
       - name: Check for changes

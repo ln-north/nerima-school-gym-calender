@@ -37,17 +37,13 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      # スクレイピングは一旦無効化（リポジトリの実データを使用）
-      # - name: Run scraping script
-      #   run: npm run scrape
-      #   continue-on-error: true
-
-      # - name: Generate iCalendar files
-      #   run: npm run generate-ical
-      #   continue-on-error: true
-
       - name: Build Next.js site
-        run: npm run build
+        run: |
+          echo "========== Building Site =========="
+          npm run build
+          echo "========== Build Complete =========="
+          echo "📦 Output directory size: $(du -sh out | cut -f1)"
+          echo "📄 Files generated: $(find out -type f | wc -l)"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
