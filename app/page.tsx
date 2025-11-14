@@ -101,16 +101,24 @@ export default function Home() {
             <p className="text-yellow-700 mb-2">
               データの読み込みに失敗しました。しばらくしてから再度アクセスしてください。
             </p>
-            {error && (
-              <details className="mt-4">
-                <summary className="cursor-pointer text-sm text-yellow-600 hover:text-yellow-800">
-                  エラー詳細を表示
-                </summary>
-                <pre className="mt-2 text-xs text-yellow-800 bg-yellow-100 p-3 rounded overflow-auto">
-                  {error}
-                </pre>
-              </details>
-            )}
+            <details className="mt-4 open">
+              <summary className="cursor-pointer text-sm text-yellow-600 hover:text-yellow-800 font-semibold">
+                デバッグ情報
+              </summary>
+              <div className="mt-2 text-xs text-yellow-800 bg-yellow-100 p-3 rounded space-y-1">
+                <p>data is null: {data === null ? 'YES' : 'NO'}</p>
+                <p>data exists: {data ? 'YES' : 'NO'}</p>
+                {data && (
+                  <>
+                    <p>events count: {data.events?.length || 0}</p>
+                    <p>schools count: {data.schools?.length || 0}</p>
+                    <p>sports count: {data.sports?.length || 0}</p>
+                  </>
+                )}
+                <p>Error: {error || 'なし'}</p>
+                <p>BasePath: {process.env.NEXT_PUBLIC_BASE_PATH || '(empty)'}</p>
+              </div>
+            </details>
           </div>
         ) : (
           <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
