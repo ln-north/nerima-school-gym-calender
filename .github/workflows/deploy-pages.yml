@@ -37,6 +37,14 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Run scraping script
+        run: npm run scrape
+        continue-on-error: true
+
+      - name: Generate iCalendar files
+        run: npm run generate-ical
+        continue-on-error: true
+
       - name: Build Next.js site
         run: npm run build
 
