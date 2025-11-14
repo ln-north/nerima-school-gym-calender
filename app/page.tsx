@@ -21,7 +21,8 @@ export default function Home() {
 
   useEffect(() => {
     // JSONデータを読み込む
-    fetch('/data/schedule.json')
+    const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
+    fetch(`${basePath}/data/schedule.json`)
       .then((res) => res.json())
       .then((jsonData) => {
         setData(jsonData);
