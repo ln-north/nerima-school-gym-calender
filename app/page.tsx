@@ -79,6 +79,11 @@ export default function Home() {
               最終更新: {new Date(data.lastUpdated).toLocaleString('ja-JP')}
             </p>
           )}
+          {process.env.NODE_ENV === 'production' && (
+            <p className="text-xs text-gray-400 mt-1">
+              Data URL: {process.env.NEXT_PUBLIC_BASE_PATH || ''}/data/schedule.json
+            </p>
+          )}
         </header>
 
         {loading ? (
