@@ -36,27 +36,79 @@ function delay(ms: number): Promise<void> {
  * インデックスページから月別ページのURLリストを取得
  */
 async function getMonthlyPageUrls(): Promise<string[]> {
-  const html = await fetchPage(DATA_SOURCE.INDEX_URL);
-  const $ = cheerio.load(html);
-  const urls: string[] = [];
+  try {
+    const html = await fetchPage(DATA_SOURCE.INDEX_URL);
+    const $ = cheerio.load(html);
+    const urls: string[] = [];
 
-  // インデックスページから月別ページへのリンクを抽出
-  // 実際のHTMLの構造に応じて調整が必要
-  $('a[href*="gakkokaiho"]').each((_, element) => {
-    const href = $(element).attr('href');
-    if (href && href !== 'index.html' && !href.includes('#')) {
-      const fullUrl = href.startsWith('http')
-        ? href
-        : new URL(href, DATA_SOURCE.BASE_URL).toString();
+    // 「学校体育館個人開放日程表」のリンクを抽出
+    $('a').each((_, element) => {
+      const $link = $(element);
+      const href = $link.attr('href');
+      const text = $link.text();
 
-      if (!urls.includes(fullUrl)) {
-        urls.push(fullUrl);
+      // 「学校体育館個人開放日程表」または「kojinkaihounittei」「taiikukannkaihou」を含むリンクを対象
+      if (
+        href &&
+        (text.includes('学校体育館個人開放日程表') ||
+          href.includes('kojinkaihounittei') ||
+          href.includes('taiikukannkaihou'))
+      ) {
+        const fullUrl = href.startsWith('http')
+          ? href
+          : new URL(href, DATA_SOURCE.BASE_URL).toString();
+
+        if (!urls.includes(fullUrl) && fullUrl.includes('gakkokaiho')) {
+          console.log(`Found schedule page: ${text.trim()} -> ${fullUrl}`);
+          urls.push(fullUrl);
+        }
       }
-    }
-  });
+    });
 
-  console.log(`Found ${urls.length} monthly pages`);
-  return urls;
+    if (urls.length === 0) {
+      console.warn('No monthly schedule pages found. Falling back to known URLs.');
+      // フォールバック: 既知のURLを直接指定
+      urls.push('https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html'); // 10月
+      urls.push('https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html'); // 11月
+    }
+
+    console.log(`Found ${urls.length} monthly pages:`, urls);
+    return urls;
+  } catch (error) {
+    console.error('Error fetching monthly page URLs:', error);
+    // エラー時も既知のURLを返す
+    console.log('Using fallback URLs');
+    return [
+      'https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html',
+      'https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html',
+    ];
+  }
+}
+
+/**
+ * URLから年月を推測
+ */
+function getYearMonthFromUrl(url: string): { year: number; month: number } {
+  const currentDate = new Date();
+  let year = currentDate.getFullYear();
+  let month = currentDate.getMonth() + 1;
+
+  // URLやコンテキストから月を推測
+  // 10月のページの場合
+  if (url.includes('kojinkaihounittei.html')) {
+    month = 10;
+  }
+  // 11月のページの場合
+  else if (url.includes('taiikukannkaihou3.html')) {
+    month = 11;
+  }
+
+  // 年をまたぐ場合の処理（例: 12月に翌年1月のデータがある場合）
+  if (month < currentDate.getMonth() + 1 && month <= 3) {
+    year += 1;
+  }
+
+  return { year, month };
 }
 
 /**
@@ -68,59 +120,71 @@ async function parseMonthlyPage(url: string): Promise<ScheduleEvent[]> {
   const html = await fetchPage(url);
   const $ = cheerio.load(html);
   const events: ScheduleEvent[] = [];
+  const { year, month } = getYearMonthFromUrl(url);
 
-  // テーブルからデータを抽出
-  // 実際のHTMLの構造に応じて調整が必要
+  console.log(`Parsing page for ${year}年${month}月: ${url}`);
+
+  // テーブル構造: 学校名 | 内容 | 時間 | 日 | 備考
   $('table tr').each((_, row) => {
     try {
       const $row = $(row);
       const cells = $row.find('td');
 
-      if (cells.length === 0) return; // ヘッダー行をスキップ
+      if (cells.length < 4) return; // データ行でない場合はスキップ
 
-      // 各列からデータを抽出（実際の構造に合わせて調整）
-      const dateText = $(cells[0]).text().trim();
-      const schoolName = $(cells[1]).text().trim();
+      const schoolNameRaw = $(cells[0]).text().trim();
+      const contentText = $(cells[1]).text().trim(); // 種目
       const timeText = $(cells[2]).text().trim();
-      const sportsText = $(cells[3]).text().trim();
+      const daysText = $(cells[3]).text().trim();
 
-      if (!dateText || !schoolName || !timeText) return;
+      if (!schoolNameRaw || !contentText || !timeText || !daysText) return;
 
-      // 日付のパース（例: "12月15日(金)" -> "2024-12-15"）
-      const dateMatch = dateText.match(/(\d+)月(\d+)日/);
-      if (!dateMatch) return;
+      // 学校名の正規化（「練馬区立」を追加）
+      const schoolName = schoolNameRaw.includes('練馬区立')
+        ? schoolNameRaw
+        : `練馬区立${schoolNameRaw}`;
 
-      const currentYear = new Date().getFullYear();
-      const month = dateMatch[1].padStart(2, '0');
-      const day = dateMatch[2].padStart(2, '0');
-      const date = `${currentYear}-${month}-${day}`;
+      // 時間のパース（例: "19：00～21：00" or "19:00～21:00"）
+      const timeMatch = timeText.match(/(\d+)[：:](\d+).*?(\d+)[：:](\d+)/);
+      if (!timeMatch) {
+        console.warn(`Failed to parse time: ${timeText}`);
+        return;
+      }
 
-      // 時間のパース（例: "18:00～20:00"）
-      const timeMatch = timeText.match(/(\d+:\d+).*?(\d+:\d+)/);
-      if (!timeMatch) return;
+      const startTime = `${timeMatch[1].padStart(2, '0')}:${timeMatch[2].padStart(2, '0')}`;
+      const endTime = `${timeMatch[3].padStart(2, '0')}:${timeMatch[4].padStart(2, '0')}`;
 
-      const startTime = timeMatch[1];
-      const endTime = timeMatch[2];
+      // 日付のパース（例: "2（日）、30（日）" or "3（月）"）
+      const dayMatches = daysText.matchAll(/(\d+)[（(]/g);
+      const days: number[] = [];
+      for (const match of dayMatches) {
+        days.push(parseInt(match[1], 10));
+      }
 
-      // スポーツ種目のパース
-      const sports = sportsText
-        .split(/[、,]/)
-        .map((s) => s.trim())
-        .filter(Boolean);
+      if (days.length === 0) {
+        console.warn(`Failed to parse days: ${daysText}`);
+        return;
+      }
 
-      if (sports.length === 0) return;
+      // 種目のパース（複数ある場合もある）
+      const sports = [contentText.trim()];
 
-      const event: ScheduleEvent = {
-        id: nanoid(),
-        schoolName,
-        date,
-        startTime,
-        endTime,
-        sports,
-        url,
-      };
+      // 各日付に対してイベントを生成
+      for (const day of days) {
+        const date = `${year}-${month.toString().padStart(2, '0')}-${day.toString().padStart(2, '0')}`;
 
-      events.push(event);
+        const event: ScheduleEvent = {
+          id: nanoid(),
+          schoolName,
+          date,
+          startTime,
+          endTime,
+          sports,
+          url,
+        };
+
+        events.push(event);
+      }
     } catch (error) {
       console.error('Error parsing row:', error);
     }
