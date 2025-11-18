@@ -226,14 +226,18 @@ function saveData(events: ScheduleEvent[]): void {
   // ScheduleDataを生成
   const scheduleData = createScheduleData(events);
 
+  // 統計情報を計算（ログ出力用）
+  const uniqueSchools = new Set(events.map(e => e.schoolName)).size;
+  const uniqueSports = new Set(events.flatMap(e => e.sports)).size;
+
   // JSONファイルとして保存
   const outputPath = join(outputDir, 'schedule.json');
   writeFileSync(outputPath, JSON.stringify(scheduleData, null, 2), 'utf-8');
 
   console.log(`Data saved to ${outputPath}`);
   console.log(`Total events: ${scheduleData.events.length}`);
-  console.log(`Total schools: ${scheduleData.schools.length}`);
-  console.log(`Total sports: ${scheduleData.sports.length}`);
+  console.log(`Total schools: ${uniqueSchools}`);
+  console.log(`Total sports: ${uniqueSports}`);
 }
 
 /**

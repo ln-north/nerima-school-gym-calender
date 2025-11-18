@@ -88,6 +88,7 @@ export function extractSchools(events: ScheduleEvent[]): School[] {
 
 /**
  * イベントからスポーツリストを生成
+ * 件数が多い順に並び替える
  */
 export function extractSports(events: ScheduleEvent[]): Sport[] {
   const sportMap = new Map<string, ScheduleEvent[]>();
@@ -106,7 +107,7 @@ export function extractSports(events: ScheduleEvent[]): Sport[] {
       name,
       events: events.sort((a, b) => a.date.localeCompare(b.date)),
     }))
-    .sort((a, b) => a.name.localeCompare(b.name));
+    .sort((a, b) => b.events.length - a.events.length); // 件数の多い順
 }
 
 /**
@@ -115,8 +116,6 @@ export function extractSports(events: ScheduleEvent[]): Sport[] {
 export function createScheduleData(events: ScheduleEvent[]): ScheduleData {
   return {
     events: events.sort((a, b) => a.date.localeCompare(b.date)),
-    schools: extractSchools(events),
-    sports: extractSports(events),
     lastUpdated: new Date().toISOString(),
   };
 }
@@ -125,14 +124,16 @@ export function createScheduleData(events: ScheduleEvent[]): ScheduleData {
  * 学校名のリストを取得
  */
 export function getSchoolNames(data: ScheduleData): string[] {
-  return data.schools.map((school) => school.name);
+  const schools = extractSchools(data.events);
+  return schools.map((school) => school.name);
 }
 
 /**
  * スポーツ種目のリストを取得
  */
 export function getSportNames(data: ScheduleData): string[] {
-  return data.sports.map((sport) => sport.name);
+  const sports = extractSports(data.events);
+  return sports.map((sport) => sport.name);
 }
 
 /**
@@ -158,14 +159,12 @@ export function getEventsBySchool(
   data: ScheduleData,
   schoolName: string
 ): ScheduleEvent[] {
-  const school = data.schools.find((s) => s.name === schoolName);
-  return school ? school.events : [];
+  return data.events.filter((event) => event.schoolName === schoolName);
 }
 
 /**
  * 特定のスポーツのイベントを取得
  */
 export function getEventsBySport(data: ScheduleData, sportName: string): ScheduleEvent[] {
-  const sport = data.sports.find((s) => s.name === sportName);
-  return sport ? sport.events : [];
+  return data.events.filter((event) => event.sports.includes(sportName));
 }

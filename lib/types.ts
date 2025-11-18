@@ -38,8 +38,6 @@ export interface Sport {
  */
 export interface ScheduleData {
   events: ScheduleEvent[];
-  schools: School[];
-  sports: Sport[];
   lastUpdated: string; // ISO 8601形式
 }
 

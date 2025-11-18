@@ -348,16 +348,11 @@ const rawData = {
 
 // 変換処理
 const events = [];
-const schoolsSet = new Set();
-const sportsSet = new Set();
 
 rawData.events.forEach(schoolData => {
   const schoolName = schoolData.school;
-  schoolsSet.add(schoolName);
 
   schoolData.dates.forEach(dateEntry => {
-    dateEntry.activities.forEach(sport => sportsSet.add(sport));
-
     events.push({
       id: nanoid(),
       schoolName: schoolName,
@@ -370,23 +365,15 @@ rawData.events.forEach(schoolData => {
   });
 });
 
-const schools = Array.from(schoolsSet).map((name, index) => ({
-  id: `school-${index + 1}`,
-  name: name
-}));
-
-const sports = Array.from(sportsSet).map((name, index) => ({
-  id: `sport-${index + 1}`,
-  name: name
-}));
+// 統計情報を計算（ログ出力用）
+const uniqueSchools = new Set(events.map(e => e.schoolName)).size;
+const uniqueSports = new Set(events.flatMap(e => e.sports)).size;
 
 const scheduleData = {
   events: events,
-  schools: schools,
-  sports: sports,
   lastUpdated: new Date().toISOString()
 };
 
 fs.writeFileSync('./public/data/schedule.json', JSON.stringify(scheduleData, null, 2));
 
-console.log(`Successfully converted ${events.length} events from ${schools.length} schools with ${sports.length} sports`);
+console.log(`Successfully converted ${events.length} events from ${uniqueSchools} schools with ${uniqueSports} sports`);
