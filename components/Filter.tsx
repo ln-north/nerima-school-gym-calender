@@ -1,19 +1,28 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import type { FilterOptions } from '@/lib/types';
 
 interface FilterProps {
   schools: string[];
   sports: string[];
+  initialFilters?: FilterOptions;
   onFilterChange: (filters: FilterOptions) => void;
 }
 
-export default function Filter({ schools, sports, onFilterChange }: FilterProps) {
-  const [selectedSchools, setSelectedSchools] = useState<string[]>([]);
-  const [selectedSports, setSelectedSports] = useState<string[]>([]);
+export default function Filter({ schools, sports, initialFilters, onFilterChange }: FilterProps) {
+  const [selectedSchools, setSelectedSchools] = useState<string[]>(initialFilters?.schools || []);
+  const [selectedSports, setSelectedSports] = useState<string[]>(initialFilters?.sports || []);
   const [showSchoolFilter, setShowSchoolFilter] = useState(false);
-  const [showSportFilter, setShowSportFilter] = useState(false);
+  const [showSportFilter, setShowSportFilter] = useState(true);
+
+  // 初期フィルターが変更されたら状態を更新
+  useEffect(() => {
+    if (initialFilters) {
+      setSelectedSchools(initialFilters.schools);
+      setSelectedSports(initialFilters.sports);
+    }
+  }, [initialFilters]);
 
   const handleSchoolToggle = (school: string) => {
     const newSelection = selectedSchools.includes(school)
@@ -79,65 +88,6 @@ export default function Filter({ schools, sports, onFilterChange }: FilterProps)
       </div>
 
       <div className="space-y-4">
-        {/* 学校フィルター */}
-        <div>
-          <button
-            onClick={() => setShowSchoolFilter(!showSchoolFilter)}
-            className="flex items-center justify-between w-full text-left font-semibold text-gray-700 hover:text-gray-900"
-          >
-            <span>
-              学校
-              {selectedSchools.length > 0 && (
-                <span className="ml-2 text-sm text-blue-600">
-                  ({selectedSchools.length}件選択中)
-                </span>
-              )}
-            </span>
-            <svg
-              className={`w-5 h-5 transform transition-transform ${
-                showSchoolFilter ? 'rotate-180' : ''
-              }`}
-              fill="none"
-              stroke="currentColor"
-              viewBox="0 0 24 24"
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M19 9l-7 7-7-7"
-              />
-            </svg>
-          </button>
-
-          {showSchoolFilter && (
-            <div className="mt-3 space-y-2 max-h-60 overflow-y-auto">
-              {selectedSchools.length > 0 && (
-                <button
-                  onClick={handleClearSchools}
-                  className="text-xs text-gray-600 hover:text-gray-800 mb-2"
-                >
-                  選択解除
-                </button>
-              )}
-              {schools.map((school) => (
-                <label
-                  key={school}
-                  className="flex items-center space-x-2 cursor-pointer hover:bg-gray-50 p-2 rounded"
-                >
-                  <input
-                    type="checkbox"
-                    checked={selectedSchools.includes(school)}
-                    onChange={() => handleSchoolToggle(school)}
-                    className="w-4 h-4 text-blue-600 rounded focus:ring-blue-500"
-                  />
-                  <span className="text-sm text-gray-700">{school}</span>
-                </label>
-              ))}
-            </div>
-          )}
-        </div>
-
         {/* スポーツ種目フィルター */}
         <div>
           <button
@@ -146,11 +96,6 @@ export default function Filter({ schools, sports, onFilterChange }: FilterProps)
           >
             <span>
               スポーツ種目
-              {selectedSports.length > 0 && (
-                <span className="ml-2 text-sm text-blue-600">
-                  ({selectedSports.length}件選択中)
-                </span>
-              )}
             </span>
             <svg
               className={`w-5 h-5 transform transition-transform ${
@@ -191,6 +136,60 @@ export default function Filter({ schools, sports, onFilterChange }: FilterProps)
                     className="w-4 h-4 text-blue-600 rounded focus:ring-blue-500"
                   />
                   <span className="text-sm text-gray-700">{sport}</span>
+                </label>
+              ))}
+            </div>
+          )}
+        </div>
+
+        {/* 学校フィルター */}
+        <div>
+          <button
+            onClick={() => setShowSchoolFilter(!showSchoolFilter)}
+            className="flex items-center justify-between w-full text-left font-semibold text-gray-700 hover:text-gray-900"
+          >
+            <span>
+              学校
+            </span>
+            <svg
+              className={`w-5 h-5 transform transition-transform ${
+                showSchoolFilter ? 'rotate-180' : ''
+              }`}
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M19 9l-7 7-7-7"
+              />
+            </svg>
+          </button>
+
+          {showSchoolFilter && (
+            <div className="mt-3 space-y-2 max-h-60 overflow-y-auto">
+              {selectedSchools.length > 0 && (
+                <button
+                  onClick={handleClearSchools}
+                  className="text-xs text-gray-600 hover:text-gray-800 mb-2"
+                >
+                  選択解除
+                </button>
+              )}
+              {schools.map((school) => (
+                <label
+                  key={school}
+                  className="flex items-center space-x-2 cursor-pointer hover:bg-gray-50 p-2 rounded"
+                >
+                  <input
+                    type="checkbox"
+                    checked={selectedSchools.includes(school)}
+                    onChange={() => handleSchoolToggle(school)}
+                    className="w-4 h-4 text-blue-600 rounded focus:ring-blue-500"
+                  />
+                  <span className="text-sm text-gray-700">{school}</span>
                 </label>
               ))}
             </div>

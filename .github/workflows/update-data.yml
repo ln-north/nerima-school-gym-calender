@@ -36,9 +36,9 @@ jobs:
           npm run scrape
           echo "========== Scraping Results =========="
           if [ -f public/data/schedule.json ]; then
-            EVENTS_COUNT=$(grep -o '"id"' public/data/schedule.json | wc -l)
-            SCHOOLS_COUNT=$(grep -o '"id": "school-' public/data/schedule.json | wc -l)
-            SPORTS_COUNT=$(grep -o '"id": "sport-' public/data/schedule.json | wc -l)
+            EVENTS_COUNT=$(grep -o '"id":' public/data/schedule.json | wc -l | tr -d ' ')
+            SCHOOLS_COUNT=$(jq -r '[.events[].schoolName] | unique | length' public/data/schedule.json)
+            SPORTS_COUNT=$(jq -r '[.events[].sports[]] | unique | length' public/data/schedule.json)
             echo "✓ Data file created successfully"
             echo "📊 Events: $EVENTS_COUNT"
             echo "🏫 Schools: $SCHOOLS_COUNT"
@@ -48,6 +48,12 @@ jobs:
             echo "❌ ERROR: Data file not created!"
             exit 1
           fi
+        continue-on-error: false
+
+      - name: Verify scraped data
+        run: |
+          echo "========== Verifying Scraped Data =========="
+          npm run verify
         continue-on-error: false
 
       - name: Generate iCalendar files

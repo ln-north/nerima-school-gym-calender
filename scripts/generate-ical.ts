@@ -3,6 +3,7 @@ import { readFileSync, writeFileSync, mkdirSync } from 'fs';
 import { join } from 'path';
 import type { ScheduleData, ScheduleEvent } from '../lib/types';
 import { ICAL_CONFIG } from '../lib/constants';
+import { extractSchools, extractSports } from '../lib/utils';
 
 /**
  * ScheduleEventをiCalイベントデータに変換
@@ -61,7 +62,8 @@ function generateSchoolCalendars(data: ScheduleData, outputDir: string): void {
   const schoolsDir = join(outputDir, 'schools');
   mkdirSync(schoolsDir, { recursive: true });
 
-  data.schools.forEach((school) => {
+  const schools = extractSchools(data.events);
+  schools.forEach((school) => {
     const calendar = createCalendar(
       school.events,
       `${ICAL_CONFIG.CALENDAR_NAME} - ${school.name}`
@@ -86,7 +88,8 @@ function generateSportCalendars(data: ScheduleData, outputDir: string): void {
   const sportsDir = join(outputDir, 'sports');
   mkdirSync(sportsDir, { recursive: true });
 
-  data.sports.forEach((sport) => {
+  const sports = extractSports(data.events);
+  sports.forEach((sport) => {
     const calendar = createCalendar(
       sport.events,
       `${ICAL_CONFIG.CALENDAR_NAME} - ${sport.name}`
@@ -140,10 +143,13 @@ async function main() {
     const outputDir = join(process.cwd(), 'public', 'ical');
     generateAllCalendars(data, outputDir);
 
+    const schools = extractSchools(data.events);
+    const sports = extractSports(data.events);
+
     console.log('\nSummary:');
     console.log(`- Total events: ${data.events.length}`);
-    console.log(`- Schools: ${data.schools.length}`);
-    console.log(`- Sports: ${data.sports.length}`);
+    console.log(`- Schools: ${schools.length}`);
+    console.log(`- Sports: ${sports.length}`);
   } catch (error) {
     console.error('iCalendar generation failed:', error);
     process.exit(1);

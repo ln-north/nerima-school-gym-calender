@@ -1,16 +1,43 @@
 'use client';
 
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect, Suspense } from 'react';
+import { useRouter, useSearchParams } from 'next/navigation';
 import Calendar from '@/components/Calendar';
 import Filter from '@/components/Filter';
 import EventDetail from '@/components/EventDetail';
 import type { ScheduleData, CalendarEvent, FilterOptions, ScheduleEvent } from '@/lib/types';
 import { filterEvents, getSchoolNames, getSportNames } from '@/lib/utils';
 
-export default function Home() {
+function HomeContent() {
+  const router = useRouter();
+  const searchParams = useSearchParams();
   const [data, setData] = useState<ScheduleData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [initialFiltersSet, setInitialFiltersSet] = useState(false);
+
+  // URLからフィルターを読み込む
+  const getFiltersFromURL = (): FilterOptions => {
+    const schoolsParam = searchParams.get('schools');
+    const sportsParam = searchParams.get('sports');
+
+    return {
+      schools: schoolsParam ? schoolsParam.split(',').filter(Boolean) : [],
+      sports: sportsParam ? sportsParam.split(',').filter(Boolean) : [],
+    };
+  };
+
+  // 初期フィルターの設定（URLパラメーターがない場合はバドミントンをデフォルト）
+  const [filters, setFilters] = useState<FilterOptions>(() => {
+    const urlFilters = getFiltersFromURL();
+    // URLパラメーターがない場合はバドミントンをデフォルトで選択
+    if (urlFilters.schools.length === 0 && urlFilters.sports.length === 0) {
+      return { schools: [], sports: ['バドミントン'] };
+    }
+    return urlFilters;
+  });
+
+  const [selectedEvent, setSelectedEvent] = useState<CalendarEvent | null>(null);
 
   useEffect(() => {
     // JSONデータを読み込む
@@ -29,9 +56,9 @@ export default function Home() {
         return res.json();
       })
       .then((jsonData) => {
-        console.log('Data loaded successfully:', jsonData.events?.length, 'events');
         setData(jsonData);
         setLoading(false);
+        setInitialFiltersSet(true);
       })
       .catch((err) => {
         const errorMessage = err instanceof Error ? err.message : String(err);
@@ -41,8 +68,6 @@ export default function Home() {
         setLoading(false);
       });
   }, []);
-  const [filters, setFilters] = useState<FilterOptions>({ schools: [], sports: [] });
-  const [selectedEvent, setSelectedEvent] = useState<CalendarEvent | null>(null);
 
   const schoolNames = useMemo(() => data ? getSchoolNames(data) : [], [data]);
   const sportNames = useMemo(() => data ? getSportNames(data) : [], [data]);
@@ -54,6 +79,19 @@ export default function Home() {
 
   const handleFilterChange = (newFilters: FilterOptions) => {
     setFilters(newFilters);
+
+    // URLクエリパラメーターを更新
+    const params = new URLSearchParams();
+    if (newFilters.schools.length > 0) {
+      params.set('schools', newFilters.schools.join(','));
+    }
+    if (newFilters.sports.length > 0) {
+      params.set('sports', newFilters.sports.join(','));
+    }
+
+    const queryString = params.toString();
+    const newUrl = queryString ? `?${queryString}` : '/';
+    router.push(newUrl, { scroll: false });
   };
 
   const handleSelectEvent = (event: CalendarEvent) => {
@@ -108,13 +146,6 @@ export default function Home() {
               <div className="mt-2 text-xs text-yellow-800 bg-yellow-100 p-3 rounded space-y-1">
                 <p>data is null: {data === null ? 'YES' : 'NO'}</p>
                 <p>data exists: {data ? 'YES' : 'NO'}</p>
-                {data && (
-                  <>
-                    <p>events count: {data.events?.length || 0}</p>
-                    <p>schools count: {data.schools?.length || 0}</p>
-                    <p>sports count: {data.sports?.length || 0}</p>
-                  </>
-                )}
                 <p>Error: {error || 'なし'}</p>
                 <p>BasePath: {process.env.NEXT_PUBLIC_BASE_PATH || '(empty)'}</p>
               </div>
@@ -127,39 +158,10 @@ export default function Home() {
               <Filter
                 schools={schoolNames}
                 sports={sportNames}
+                initialFilters={filters}
                 onFilterChange={handleFilterChange}
               />
 
-              {/* 統計情報 */}
-              <div className="bg-white rounded-lg shadow-lg p-6 mt-6">
-                <h3 className="text-lg font-semibold text-gray-800 mb-4">統計</h3>
-                <div className="space-y-3">
-                  <div className="flex justify-between">
-                    <span className="text-gray-600">全イベント:</span>
-                    <span className="font-semibold text-gray-800">
-                      {data.events.length}件
-                    </span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span className="text-gray-600">表示中:</span>
-                    <span className="font-semibold text-blue-600">
-                      {filteredEvents.length}件
-                    </span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span className="text-gray-600">学校数:</span>
-                    <span className="font-semibold text-gray-800">
-                      {schoolNames.length}校
-                    </span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span className="text-gray-600">種目数:</span>
-                    <span className="font-semibold text-gray-800">
-                      {sportNames.length}種目
-                    </span>
-                  </div>
-                </div>
-              </div>
             </aside>
 
             {/* カレンダー */}
@@ -173,5 +175,20 @@ export default function Home() {
         <EventDetail event={selectedEvent} onClose={handleCloseDetail} />
       </div>
     </main>
+  );
+}
+
+export default function Home() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen bg-gray-50 p-4 md:p-8 flex items-center justify-center">
+        <div className="text-center">
+          <div className="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid border-blue-600 border-r-transparent"></div>
+          <p className="mt-4 text-gray-600">読み込み中...</p>
+        </div>
+      </div>
+    }>
+      <HomeContent />
+    </Suspense>
   );
 }
