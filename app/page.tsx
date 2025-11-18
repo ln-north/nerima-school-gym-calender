@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import Calendar from '@/components/Calendar';
 import Filter from '@/components/Filter';
@@ -8,7 +8,7 @@ import EventDetail from '@/components/EventDetail';
 import type { ScheduleData, CalendarEvent, FilterOptions, ScheduleEvent } from '@/lib/types';
 import { filterEvents, getSchoolNames, getSportNames } from '@/lib/utils';
 
-export default function Home() {
+function HomeContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const [data, setData] = useState<ScheduleData | null>(null);
@@ -175,5 +175,20 @@ export default function Home() {
         <EventDetail event={selectedEvent} onClose={handleCloseDetail} />
       </div>
     </main>
+  );
+}
+
+export default function Home() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen bg-gray-50 p-4 md:p-8 flex items-center justify-center">
+        <div className="text-center">
+          <div className="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid border-blue-600 border-r-transparent"></div>
+          <p className="mt-4 text-gray-600">読み込み中...</p>
+        </div>
+      </div>
+    }>
+      <HomeContent />
+    </Suspense>
   );
 }
