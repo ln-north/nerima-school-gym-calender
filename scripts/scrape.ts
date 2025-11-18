@@ -125,6 +125,7 @@ async function parseMonthlyPage(url: string): Promise<ScheduleEvent[]> {
   console.log(`Parsing page for ${year}年${month}月: ${url}`);
 
   // テーブル構造: 学校名 | 内容 | 時間 | 日 | 備考
+  let currentSchoolName = '';
   $('table tr').each((_, row) => {
     try {
       const $row = $(row);
@@ -132,10 +133,29 @@ async function parseMonthlyPage(url: string): Promise<ScheduleEvent[]> {
 
       if (cells.length < 4) return; // データ行でない場合はスキップ
 
-      const schoolNameRaw = $(cells[0]).text().trim();
-      const contentText = $(cells[1]).text().trim(); // 種目
-      const timeText = $(cells[2]).text().trim();
-      const daysText = $(cells[3]).text().trim();
+      // rowspanで学校名が結合されている可能性を考慮
+      let schoolNameRaw: string;
+      let contentText: string;
+      let timeText: string;
+      let daysText: string;
+
+      if (cells.length === 5) {
+        // 5セル: 学校名がある行
+        schoolNameRaw = $(cells[0]).text().trim();
+        contentText = $(cells[1]).text().trim();
+        timeText = $(cells[2]).text().trim();
+        daysText = $(cells[3]).text().trim();
+        currentSchoolName = schoolNameRaw; // 学校名を保存
+      } else if (cells.length === 4) {
+        // 4セル: 学校名が省略されている行（rowspan）
+        schoolNameRaw = currentSchoolName; // 前の行の学校名を使用
+        contentText = $(cells[0]).text().trim();
+        timeText = $(cells[1]).text().trim();
+        daysText = $(cells[2]).text().trim();
+      } else {
+        // その他のセル数は想定外
+        return;
+      }
 
       if (!schoolNameRaw || !contentText || !timeText || !daysText) return;
 

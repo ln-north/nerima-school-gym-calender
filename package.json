@@ -9,6 +9,8 @@
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
     "scrape": "tsx scripts/scrape.ts",
+    "scrape:verify": "npm run scrape && tsx scripts/verify-scraping.ts",
+    "verify": "tsx scripts/verify-scraping.ts",
     "generate-ical": "tsx scripts/generate-ical.ts"
   },
   "dependencies": {

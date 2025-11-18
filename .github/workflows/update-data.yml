@@ -50,6 +50,12 @@ jobs:
           fi
         continue-on-error: false
 
+      - name: Verify scraped data
+        run: |
+          echo "========== Verifying Scraped Data =========="
+          npm run verify
+        continue-on-error: false
+
       - name: Generate iCalendar files
         run: |
           echo "========== Generating iCalendar Files =========="
