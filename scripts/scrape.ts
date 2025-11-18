@@ -139,10 +139,8 @@ async function parseMonthlyPage(url: string): Promise<ScheduleEvent[]> {
 
       if (!schoolNameRaw || !contentText || !timeText || !daysText) return;
 
-      // 学校名の正規化（「練馬区立」を追加）
-      const schoolName = schoolNameRaw.includes('練馬区立')
-        ? schoolNameRaw
-        : `練馬区立${schoolNameRaw}`;
+      // 学校名をそのまま使用
+      const schoolName = schoolNameRaw;
 
       // 時間のパース（例: "19：00～21：00" or "19:00～21:00"）
       const timeMatch = timeText.match(/(\d+)[：:](\d+).*?(\d+)[：:](\d+)/);

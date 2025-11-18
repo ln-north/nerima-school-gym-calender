@@ -352,7 +352,7 @@ const schoolsSet = new Set();
 const sportsSet = new Set();
 
 rawData.events.forEach(schoolData => {
-  const schoolName = `練馬区立${schoolData.school}`;
+  const schoolName = schoolData.school;
   schoolsSet.add(schoolName);
 
   schoolData.dates.forEach(dateEntry => {
