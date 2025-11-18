@@ -20,7 +20,7 @@ export function toCalendarEvent(event: ScheduleEvent): CalendarEvent {
 
   return {
     id: event.id,
-    title: `${event.schoolName} (${event.sports.join(', ')})`,
+    title: `${formatSchoolName(event.schoolName)} (${event.sports.join(', ')})`,
     start: startDateTime,
     end: endDateTime,
     resource: event,
@@ -167,4 +167,12 @@ export function getEventsBySchool(
  */
 export function getEventsBySport(data: ScheduleData, sportName: string): ScheduleEvent[] {
   return data.events.filter((event) => event.sports.includes(sportName));
+}
+
+/**
+ * 学校名を短縮形式に変換
+ * 例: 「仲町小学校」→「仲町小」、「石神井中学校」→「石神井中」
+ */
+export function formatSchoolName(schoolName: string): string {
+  return schoolName.replace(/小学校$/, '小').replace(/中学校$/, '中');
 }
