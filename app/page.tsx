@@ -152,23 +152,18 @@ function HomeContent() {
             </details>
           </div>
         ) : (
-          <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
-            {/* フィルターサイドバー */}
-            <aside className="lg:col-span-1">
-              <Filter
-                schools={schoolNames}
-                sports={sportNames}
-                initialFilters={filters}
-                onFilterChange={handleFilterChange}
-              />
-
-            </aside>
+          <>
+            {/* フィルター（ヘッダー下） */}
+            <Filter
+              schools={schoolNames}
+              sports={sportNames}
+              initialFilters={filters}
+              onFilterChange={handleFilterChange}
+            />
 
             {/* カレンダー */}
-            <div className="lg:col-span-3">
-              <Calendar events={filteredEvents} onSelectEvent={handleSelectEvent} />
-            </div>
-          </div>
+            <Calendar events={filteredEvents} onSelectEvent={handleSelectEvent} />
+          </>
         )}
 
         {/* イベント詳細モーダル */}
