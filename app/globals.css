@@ -47,3 +47,35 @@
 .rbc-toolbar button.rbc-active:hover {
   background-color: #2563eb;
 }
+
+/* 月表示ですべてのイベントを表示（省略なし） */
+.rbc-month-row {
+  overflow: visible;
+  flex: 1;
+}
+
+.rbc-row-content {
+  flex: 1;
+}
+
+.rbc-row-segment {
+  padding: 2px 0;
+}
+
+.rbc-day-bg {
+  flex: 1;
+}
+
+/* セル内のスクロールを無効化 */
+.rbc-month-view .rbc-event-content {
+  overflow: visible;
+}
+
+.rbc-overlay {
+  min-height: auto;
+}
+
+/* "+N more" リンクを非表示 */
+.rbc-show-more {
+  display: none;
+}

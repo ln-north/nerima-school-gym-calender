@@ -32,6 +32,33 @@ export default function Calendar({ events, onSelectEvent }: CalendarProps) {
 
   const calendarEvents = useMemo(() => toCalendarEvents(events), [events]);
 
+  // 1日あたりの最大イベント数を計算
+  const maxEventsPerDay = useMemo(() => {
+    const eventsByDate = new Map<string, number>();
+
+    events.forEach((event) => {
+      const count = eventsByDate.get(event.date) || 0;
+      eventsByDate.set(event.date, count + 1);
+    });
+
+    return Math.max(...Array.from(eventsByDate.values()), 0);
+  }, [events]);
+
+  // 最大イベント数に基づいて動的に高さを計算
+  // 1イベント = 30px、ヘッダー = 100px、週数 = 5 (通常の月)
+  const calendarHeight = useMemo(() => {
+    const eventHeight = 30; // 1イベントあたりの高さ
+    const baseHeight = 150; // ヘッダーやツールバーの高さ
+    const weekCount = 5; // 1ヶ月の週数（最大6週だが、通常5週で計算）
+    const cellPadding = 40; // セルのパディングと日付表示
+
+    const minCellHeight = cellPadding + (maxEventsPerDay * eventHeight);
+    const totalHeight = baseHeight + (minCellHeight * weekCount);
+
+    // 最小800px、最大2400pxに制限
+    return Math.min(Math.max(totalHeight, 800), 2400);
+  }, [maxEventsPerDay]);
+
   const handleSelectEvent = (event: CalendarEvent) => {
     if (onSelectEvent) {
       onSelectEvent(event);
@@ -53,7 +80,7 @@ export default function Calendar({ events, onSelectEvent }: CalendarProps) {
   };
 
   return (
-    <div className="h-[700px] bg-white rounded-lg shadow-lg p-4">
+    <div className="bg-white rounded-lg shadow-lg p-4" style={{ height: `${calendarHeight}px` }}>
       <BigCalendar
         localizer={localizer}
         events={calendarEvents}
@@ -68,6 +95,7 @@ export default function Calendar({ events, onSelectEvent }: CalendarProps) {
         eventPropGetter={eventStyleGetter}
         messages={CALENDAR_CONFIG.MESSAGES}
         culture="ja"
+        showAllEvents={true}
         formats={{
           dateFormat: 'dd',
           dayFormat: 'dd(E)',
