@@ -45,38 +45,40 @@ const CustomEvent = ({ event }: { event: CalendarEvent }) => {
   return <div>{title}</div>;
 };
 
+// カスタムツールバーコンポーネント
+const CustomToolbar = ({ label, onNavigate }: any) => {
+  return (
+    <div className="flex items-center justify-between mb-4">
+      <button
+        onClick={() => onNavigate('PREV')}
+        className="p-2 hover:bg-gray-100 rounded-lg transition-colors"
+        aria-label="前の月"
+      >
+        <svg className="w-5 h-5 text-gray-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+        </svg>
+      </button>
+
+      <h2 className="text-lg font-bold text-gray-800">{label}</h2>
+
+      <button
+        onClick={() => onNavigate('NEXT')}
+        className="p-2 hover:bg-gray-100 rounded-lg transition-colors"
+        aria-label="次の月"
+      >
+        <svg className="w-5 h-5 text-gray-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+        </svg>
+      </button>
+    </div>
+  );
+};
+
 export default function Calendar({ events, onSelectEvent }: CalendarProps) {
   const [view, setView] = useState<View>('month');
   const [date, setDate] = useState(new Date());
 
   const calendarEvents = useMemo(() => toCalendarEvents(events), [events]);
-
-  // 1日あたりの最大イベント数を計算
-  const maxEventsPerDay = useMemo(() => {
-    const eventsByDate = new Map<string, number>();
-
-    events.forEach((event) => {
-      const count = eventsByDate.get(event.date) || 0;
-      eventsByDate.set(event.date, count + 1);
-    });
-
-    return Math.max(...Array.from(eventsByDate.values()), 0);
-  }, [events]);
-
-  // 最大イベント数に基づいて動的に高さを計算
-  // 1イベント = 30px、ヘッダー = 100px、週数 = 5 (通常の月)
-  const calendarHeight = useMemo(() => {
-    const eventHeight = 30; // 1イベントあたりの高さ
-    const baseHeight = 150; // ヘッダーやツールバーの高さ
-    const weekCount = 5; // 1ヶ月の週数（最大6週だが、通常5週で計算）
-    const cellPadding = 40; // セルのパディングと日付表示
-
-    const minCellHeight = cellPadding + (maxEventsPerDay * eventHeight);
-    const totalHeight = baseHeight + (minCellHeight * weekCount);
-
-    // 最小800px、最大2400pxに制限
-    return Math.min(Math.max(totalHeight, 800), 2400);
-  }, [maxEventsPerDay]);
 
   const handleSelectEvent = (event: CalendarEvent) => {
     if (onSelectEvent) {
@@ -104,7 +106,7 @@ export default function Calendar({ events, onSelectEvent }: CalendarProps) {
   };
 
   return (
-    <div className="bg-white rounded-lg shadow-lg p-4" style={{ height: `${calendarHeight}px` }}>
+    <div className="h-full">
       <BigCalendar
         localizer={localizer}
         events={calendarEvents}
@@ -117,11 +119,13 @@ export default function Calendar({ events, onSelectEvent }: CalendarProps) {
         onNavigate={setDate}
         onSelectEvent={handleSelectEvent}
         eventPropGetter={eventStyleGetter}
+        views={['month']}
         messages={CALENDAR_CONFIG.MESSAGES}
         culture="ja"
         showAllEvents={true}
         components={{
           event: CustomEvent,
+          toolbar: CustomToolbar,
         }}
         formats={{
           dateFormat: 'dd',

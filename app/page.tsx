@@ -103,72 +103,108 @@ function HomeContent() {
   };
 
   return (
-    <main className="min-h-screen bg-gray-50 p-4 md:p-8">
-      <div className="max-w-7xl mx-auto">
-        <header className="mb-8">
-          <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mb-2">
-            練馬区 学校体育館個人開放カレンダー
+    <main className="h-screen flex flex-col lg:flex-row bg-gray-50">
+      {/* PC/Tablet: サイドバー（左側固定） */}
+      <aside className="hidden lg:flex lg:flex-col w-80 bg-white border-r border-gray-200 overflow-y-auto">
+        {/* コンパクトなヘッダー */}
+        <header className="p-4 border-b border-gray-200 flex-shrink-0">
+          <h1 className="text-xl font-bold text-gray-800 mb-1 flex items-center gap-2">
+            個人開放カレンダー
+            <span className="text-sm font-medium bg-gray-100 text-gray-600 px-2 py-1 rounded">
+              練馬区
+            </span>
           </h1>
-          <p className="text-gray-600">
-            練馬区の学校体育館個人開放日程をカレンダー形式で表示します。
-          </p>
           {data?.lastUpdated && (
-            <p className="text-sm text-gray-500 mt-2">
-              最終更新: {new Date(data.lastUpdated).toLocaleString('ja-JP')}
-            </p>
-          )}
-          {process.env.NODE_ENV === 'production' && (
-            <p className="text-xs text-gray-400 mt-1">
-              Data URL: {process.env.NEXT_PUBLIC_BASE_PATH || ''}/data/schedule.json
+            <p className="text-xs text-gray-500 mt-1">
+              最終更新: {new Date(data.lastUpdated).toLocaleString('ja-JP', {
+                month: 'short',
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+              })}
             </p>
           )}
         </header>
 
-        {loading ? (
-          <div className="flex items-center justify-center h-64">
-            <div className="text-center">
-              <div className="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid border-blue-600 border-r-transparent"></div>
-              <p className="mt-4 text-gray-600">データを読み込み中...</p>
-            </div>
-          </div>
-        ) : !data || data.events.length === 0 ? (
-          <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-6">
-            <h2 className="text-lg font-semibold text-yellow-800 mb-2">
-              データがありません
-            </h2>
-            <p className="text-yellow-700 mb-2">
-              データの読み込みに失敗しました。しばらくしてから再度アクセスしてください。
-            </p>
-            <details className="mt-4 open">
-              <summary className="cursor-pointer text-sm text-yellow-600 hover:text-yellow-800 font-semibold">
-                デバッグ情報
-              </summary>
-              <div className="mt-2 text-xs text-yellow-800 bg-yellow-100 p-3 rounded space-y-1">
-                <p>data is null: {data === null ? 'YES' : 'NO'}</p>
-                <p>data exists: {data ? 'YES' : 'NO'}</p>
-                <p>Error: {error || 'なし'}</p>
-                <p>BasePath: {process.env.NEXT_PUBLIC_BASE_PATH || '(empty)'}</p>
-              </div>
-            </details>
-          </div>
-        ) : (
-          <>
-            {/* フィルター（ヘッダー下） */}
+        {/* フィルター（サイドバー内） */}
+        {!loading && data && data.events.length > 0 && (
+          <div className="flex-1 overflow-y-auto">
             <Filter
               schools={schoolNames}
               sports={sportNames}
               initialFilters={filters}
               onFilterChange={handleFilterChange}
             />
+          </div>
+        )}
+      </aside>
 
-            {/* カレンダー */}
-            <Calendar events={filteredEvents} onSelectEvent={handleSelectEvent} />
-          </>
+      {/* メインエリア */}
+      <div className="flex-1 flex flex-col overflow-hidden">
+        {/* SP: ヘッダー（上部） */}
+        <header className="lg:hidden p-3 bg-white border-b border-gray-200 flex-shrink-0">
+          <h1 className="text-lg font-bold text-gray-800 flex items-center gap-2">
+            個人開放カレンダー
+            <span className="text-xs font-medium bg-gray-100 text-gray-600 px-2 py-1 rounded">
+              練馬区
+            </span>
+          </h1>
+        </header>
+
+        {/* SP: フィルター */}
+        {!loading && data && data.events.length > 0 && (
+          <div className="lg:hidden flex-shrink-0">
+            <Filter
+              schools={schoolNames}
+              sports={sportNames}
+              initialFilters={filters}
+              onFilterChange={handleFilterChange}
+            />
+          </div>
         )}
 
-        {/* イベント詳細モーダル */}
-        <EventDetail event={selectedEvent} onClose={handleCloseDetail} />
+        {/* コンテンツエリア */}
+        <div className="flex-1 overflow-y-auto">
+          {loading ? (
+            <div className="flex items-center justify-center h-full">
+              <div className="text-center">
+                <div className="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid border-blue-600 border-r-transparent"></div>
+                <p className="mt-4 text-gray-600">データを読み込み中...</p>
+              </div>
+            </div>
+          ) : !data || data.events.length === 0 ? (
+            <div className="p-4 md:p-8">
+              <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-6">
+                <h2 className="text-lg font-semibold text-yellow-800 mb-2">
+                  データがありません
+                </h2>
+                <p className="text-yellow-700 mb-2">
+                  データの読み込みに失敗しました。しばらくしてから再度アクセスしてください。
+                </p>
+                <details className="mt-4 open">
+                  <summary className="cursor-pointer text-sm text-yellow-600 hover:text-yellow-800 font-semibold">
+                    デバッグ情報
+                  </summary>
+                  <div className="mt-2 text-xs text-yellow-800 bg-yellow-100 p-3 rounded space-y-1">
+                    <p>data is null: {data === null ? 'YES' : 'NO'}</p>
+                    <p>data exists: {data ? 'YES' : 'NO'}</p>
+                    <p>Error: {error || 'なし'}</p>
+                    <p>BasePath: {process.env.NEXT_PUBLIC_BASE_PATH || '(empty)'}</p>
+                  </div>
+                </details>
+              </div>
+            </div>
+          ) : (
+            <div className="h-full">
+              {/* カレンダー */}
+              <Calendar events={filteredEvents} onSelectEvent={handleSelectEvent} />
+            </div>
+          )}
+        </div>
       </div>
+
+      {/* イベント詳細モーダル */}
+      <EventDetail event={selectedEvent} onClose={handleCloseDetail} />
     </main>
   );
 }
