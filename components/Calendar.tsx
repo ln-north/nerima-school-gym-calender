@@ -26,6 +26,25 @@ interface CalendarProps {
   onSelectEvent?: (event: CalendarEvent) => void;
 }
 
+// カスタムイベントコンポーネント
+const CustomEvent = ({ event }: { event: CalendarEvent }) => {
+  const title = event.title;
+  // 時間部分を抽出（最後のスペース以降）
+  const timeMatch = title.match(/^(.+)\s(\d{2}:\d{2}-\d{2}:\d{2})$/);
+
+  if (timeMatch) {
+    const [, mainText, time] = timeMatch;
+    return (
+      <div>
+        <span>{mainText}</span>
+        <span className="text-[0.7rem] opacity-75 ml-1">{time}</span>
+      </div>
+    );
+  }
+
+  return <div>{title}</div>;
+};
+
 export default function Calendar({ events, onSelectEvent }: CalendarProps) {
   const [view, setView] = useState<View>('month');
   const [date, setDate] = useState(new Date());
@@ -66,10 +85,15 @@ export default function Calendar({ events, onSelectEvent }: CalendarProps) {
   };
 
   const eventStyleGetter = (event: CalendarEvent) => {
+    // 当月かどうかを判定
+    const eventDate = new Date(event.start);
+    const isCurrentMonth = eventDate.getMonth() === date.getMonth() &&
+                          eventDate.getFullYear() === date.getFullYear();
+
     const style = {
       backgroundColor: '#3b82f6',
       borderRadius: '4px',
-      opacity: 0.9,
+      opacity: isCurrentMonth ? 0.9 : 0.4,
       color: 'white',
       border: '0px',
       display: 'block',
@@ -96,6 +120,9 @@ export default function Calendar({ events, onSelectEvent }: CalendarProps) {
         messages={CALENDAR_CONFIG.MESSAGES}
         culture="ja"
         showAllEvents={true}
+        components={{
+          event: CustomEvent,
+        }}
         formats={{
           dateFormat: 'dd',
           dayFormat: 'dd(E)',

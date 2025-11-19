@@ -8,6 +8,7 @@
 
 import { useState, useEffect } from 'react';
 import type { FilterOptions } from '@/lib/types';
+import { getSportIcon } from '@/lib/utils';
 
 interface FilterProps {
   schools: string[];
@@ -75,6 +76,8 @@ export default function Filter({ schools, sports, initialFilters, onFilterChange
         {/* スポーツ種目チップ */}
         {displayedSports.map((sport) => {
           const isSelected = selectedSports.includes(sport);
+          const icon = getSportIcon(sport);
+          const hasEmoji = icon !== sport;
           return (
             <button
               key={sport}
@@ -86,7 +89,7 @@ export default function Filter({ schools, sports, initialFilters, onFilterChange
               }`}
             >
               {isSelected && '✓ '}
-              {sport}
+              {hasEmoji ? `${icon} ${sport}` : sport}
             </button>
           );
         })}

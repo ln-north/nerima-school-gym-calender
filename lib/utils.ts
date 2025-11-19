@@ -3,7 +3,25 @@ import { parse, format } from 'date-fns';
 import { ja } from 'date-fns/locale';
 
 /**
+ * スポーツ名に対応する絵文字を返す
+ * 対応する絵文字がない場合はスポーツ名をそのまま返す
+ */
+export function getSportIcon(sport: string): string {
+  const iconMap: Record<string, string> = {
+    'バドミントン': '🏸',
+    '卓球': '🏓',
+    'バレーボール': '🏐',
+    'バスケットボール': '🏀',
+    'テニス': '🎾',
+    'サッカー': '⚽',
+    '野球': '⚾',
+  };
+  return iconMap[sport] || sport;
+}
+
+/**
  * ScheduleEventをCalendarEventに変換
+ * 複数のスポーツがある場合は、各スポーツごとに個別のイベントを作成
  */
 export function toCalendarEvent(event: ScheduleEvent): CalendarEvent {
   const dateStr = event.date;
@@ -18,9 +36,12 @@ export function toCalendarEvent(event: ScheduleEvent): CalendarEvent {
     new Date()
   );
 
+  // スポーツは絵文字のみで表示（スペース節約のため）
+  const sportsIcons = event.sports.map(sport => getSportIcon(sport)).join('');
+
   return {
     id: event.id,
-    title: `${formatSchoolName(event.schoolName)} (${event.sports.join(', ')})`,
+    title: `${sportsIcons} ${formatSchoolName(event.schoolName)}`,
     start: startDateTime,
     end: endDateTime,
     resource: event,
@@ -29,9 +50,37 @@ export function toCalendarEvent(event: ScheduleEvent): CalendarEvent {
 
 /**
  * ScheduleEventの配列をCalendarEventの配列に変換
+ * 複数のスポーツがある場合は、各スポーツごとに個別のイベントを作成
  */
 export function toCalendarEvents(events: ScheduleEvent[]): CalendarEvent[] {
-  return events.map(toCalendarEvent);
+  const calendarEvents: CalendarEvent[] = [];
+
+  events.forEach((event) => {
+    const dateStr = event.date;
+    const startDateTime = parse(
+      `${dateStr} ${event.startTime}`,
+      'yyyy-MM-dd HH:mm',
+      new Date()
+    );
+    const endDateTime = parse(
+      `${dateStr} ${event.endTime}`,
+      'yyyy-MM-dd HH:mm',
+      new Date()
+    );
+
+    // 各スポーツごとに個別のイベントを作成
+    event.sports.forEach((sport, index) => {
+      calendarEvents.push({
+        id: `${event.id}-${index}`,
+        title: `${getSportIcon(sport)} ${formatSchoolName(event.schoolName)} ${event.startTime}-${event.endTime}`,
+        start: startDateTime,
+        end: endDateTime,
+        resource: event,
+      });
+    });
+  });
+
+  return calendarEvents;
 }
 
 /**
