@@ -1,147 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:--//Nerima Gym Calendar//NONSGML v1.0//EN
-NAME:練馬区 学校体育館個人開放 - 軽スポーツ
-X-WR-CALNAME:練馬区 学校体育館個人開放 - 軽スポーツ
+NAME:練馬区 学校体育館個人開放 - 初心者卓球教室
+X-WR-CALNAME:練馬区 学校体育館個人開放 - 初心者卓球教室
 TIMEZONE-ID:Asia/Tokyo
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:A5i2K-AFq_9z3mTzZUuVq
+UID:Baqpu2nmd7AQyr-1oU-4Z
 SEQUENCE:0
-DTSTAMP:20251117T003541
-DTSTART:20251001T190000
-DTEND:20251001T210000
-SUMMARY:練馬区立光が丘夏の雲小学校 - 軽スポーツ
-LOCATION:練馬区立光が丘夏の雲小学校
-DESCRIPTION:学校: 練馬区立光が丘夏の雲小学校\n種目: 軽
- スポーツ\n詳細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogai
- gakushu/gakkokaiho/kojinkaihounittei.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
-END:VEVENT
-BEGIN:VEVENT
-UID:KDQ-RM0CEzxNRThNC66t0
-SEQUENCE:0
-DTSTAMP:20251117T003541
-DTSTART:20251002T190000
-DTEND:20251002T210000
-SUMMARY:練馬区立光が丘秋の陽小学校 - 軽スポーツ
-LOCATION:練馬区立光が丘秋の陽小学校
-DESCRIPTION:学校: 練馬区立光が丘秋の陽小学校\n種目: 軽
- スポーツ\n詳細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogai
- gakushu/gakkokaiho/kojinkaihounittei.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
-END:VEVENT
-BEGIN:VEVENT
-UID:MNUSgf0OPMTNoVHvaGsK2
-SEQUENCE:0
-DTSTAMP:20251117T003541
-DTSTART:20251009T190000
-DTEND:20251009T210000
-SUMMARY:練馬区立光が丘秋の陽小学校 - 軽スポーツ
-LOCATION:練馬区立光が丘秋の陽小学校
-DESCRIPTION:学校: 練馬区立光が丘秋の陽小学校\n種目: 軽
- スポーツ\n詳細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogai
- gakushu/gakkokaiho/kojinkaihounittei.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
-END:VEVENT
-BEGIN:VEVENT
-UID:GNQ4uR5I4dkfJjwRYBc7R
-SEQUENCE:0
-DTSTAMP:20251117T003541
-DTSTART:20251016T190000
-DTEND:20251016T210000
-SUMMARY:練馬区立光が丘秋の陽小学校 - 軽スポーツ
-LOCATION:練馬区立光が丘秋の陽小学校
-DESCRIPTION:学校: 練馬区立光が丘秋の陽小学校\n種目: 軽
- スポーツ\n詳細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogai
- gakushu/gakkokaiho/kojinkaihounittei.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
-END:VEVENT
-BEGIN:VEVENT
-UID:bhggk8bgT1hPNRy3ZBiw4
-SEQUENCE:0
-DTSTAMP:20251117T003541
-DTSTART:20251023T190000
-DTEND:20251023T210000
-SUMMARY:練馬区立光が丘秋の陽小学校 - 軽スポーツ
-LOCATION:練馬区立光が丘秋の陽小学校
-DESCRIPTION:学校: 練馬区立光が丘秋の陽小学校\n種目: 軽
- スポーツ\n詳細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogai
- gakushu/gakkokaiho/kojinkaihounittei.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
-END:VEVENT
-BEGIN:VEVENT
-UID:Lg1u577JvO-J7WpBkow-R
-SEQUENCE:0
-DTSTAMP:20251117T003541
-DTSTART:20251030T190000
-DTEND:20251030T210000
-SUMMARY:練馬区立光が丘秋の陽小学校 - 軽スポーツ
-LOCATION:練馬区立光が丘秋の陽小学校
-DESCRIPTION:学校: 練馬区立光が丘秋の陽小学校\n種目: 軽
- スポーツ\n詳細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogai
- gakushu/gakkokaiho/kojinkaihounittei.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
-END:VEVENT
-BEGIN:VEVENT
-UID:dzBJSSyVDRuqSRp5oXWd7
-SEQUENCE:0
-DTSTAMP:20251117T003541
-DTSTART:20251112T190000
-DTEND:20251112T210000
-SUMMARY:練馬区立光が丘夏の雲小学校 - 軽スポーツ
-LOCATION:練馬区立光が丘夏の雲小学校
-DESCRIPTION:学校: 練馬区立光が丘夏の雲小学校\n種目: 軽
- スポーツ\n詳細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogai
- gakushu/gakkokaiho/taiikukannkaihou3.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/taiikukannkaihou3.html
-END:VEVENT
-BEGIN:VEVENT
-UID:ZB6B6A2RtMM_NhTTYIlsZ
-SEQUENCE:0
-DTSTAMP:20251117T003541
-DTSTART:20251119T190000
-DTEND:20251119T210000
-SUMMARY:練馬区立光が丘夏の雲小学校 - 軽スポーツ
-LOCATION:練馬区立光が丘夏の雲小学校
-DESCRIPTION:学校: 練馬区立光が丘夏の雲小学校\n種目: 軽
- スポーツ\n詳細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogai
- gakushu/gakkokaiho/taiikukannkaihou3.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/taiikukannkaihou3.html
-END:VEVENT
-BEGIN:VEVENT
-UID:4XAEfxm76ukQ9w60fI7-k
-SEQUENCE:0
-DTSTAMP:20251117T003541
-DTSTART:20251126T190000
-DTEND:20251126T210000
-SUMMARY:練馬区立光が丘夏の雲小学校 - 軽スポーツ
-LOCATION:練馬区立光が丘夏の雲小学校
-DESCRIPTION:学校: 練馬区立光が丘夏の雲小学校\n種目: 軽
- スポーツ\n詳細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogai
- gakushu/gakkokaiho/taiikukannkaihou3.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/taiikukannkaihou3.html
-END:VEVENT
-BEGIN:VEVENT
-UID:Znn1q1Le_NMm3oIMJzQzk
-SEQUENCE:0
-DTSTAMP:20251117T003541
-DTSTART:20251127T190000
-DTEND:20251127T210000
-SUMMARY:練馬区立光が丘秋の陽小学校 - 軽スポーツ
-LOCATION:練馬区立光が丘秋の陽小学校
-DESCRIPTION:学校: 練馬区立光が丘秋の陽小学校\n種目: 軽
- スポーツ\n詳細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogai
- gakushu/gakkokaiho/taiikukannkaihou3.html
+DTSTAMP:20251119T002647
+DTSTART:20251124T130000
+DTEND:20251124T150000
+SUMMARY:光和小学校 - 初心者卓球教室
+LOCATION:光和小学校
+DESCRIPTION:学校: 光和小学校\n種目: 初心者卓球教室\n詳細
+ : https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/t
+ aiikukannkaihou3.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
