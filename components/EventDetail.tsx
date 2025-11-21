@@ -1,10 +1,10 @@
 'use client';
 
-import type { CalendarEvent } from '@/lib/types';
+import type { ScheduleEvent } from '@/lib/types';
 import { formatDateJa } from '@/lib/utils';
 
 interface EventDetailProps {
-  event: CalendarEvent | null;
+  event: ScheduleEvent | null;
   onClose: () => void;
 }
 
@@ -40,14 +40,14 @@ export default function EventDetail({ event, onClose }: EventDetailProps) {
           {/* 学校名 */}
           <div>
             <h3 className="text-sm font-semibold text-gray-500 mb-1">学校</h3>
-            <p className="text-lg text-gray-800">{event.resource.schoolName}</p>
+            <p className="text-lg text-gray-800">{event.schoolName}</p>
           </div>
 
           {/* 日付 */}
           <div>
             <h3 className="text-sm font-semibold text-gray-500 mb-1">日付</h3>
             <p className="text-lg text-gray-800">
-              {formatDateJa(event.resource.date)}
+              {formatDateJa(event.date)}
             </p>
           </div>
 
@@ -55,7 +55,7 @@ export default function EventDetail({ event, onClose }: EventDetailProps) {
           <div>
             <h3 className="text-sm font-semibold text-gray-500 mb-1">時間</h3>
             <p className="text-lg text-gray-800">
-              {event.resource.startTime} 〜 {event.resource.endTime}
+              {event.startTime} 〜 {event.endTime}
             </p>
           </div>
 
@@ -65,7 +65,7 @@ export default function EventDetail({ event, onClose }: EventDetailProps) {
               スポーツ種目
             </h3>
             <div className="flex flex-wrap gap-2">
-              {event.resource.sports.map((sport) => (
+              {event.sports.map((sport) => (
                 <span
                   key={sport}
                   className="inline-block bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium"
@@ -77,13 +77,13 @@ export default function EventDetail({ event, onClose }: EventDetailProps) {
           </div>
 
           {/* 詳細URL */}
-          {event.resource.url && (
+          {event.url && (
             <div>
               <h3 className="text-sm font-semibold text-gray-500 mb-1">
                 詳細情報
               </h3>
               <a
-                href={event.resource.url}
+                href={event.url}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-600 hover:text-blue-800 underline text-sm break-all"

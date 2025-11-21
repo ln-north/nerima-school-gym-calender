@@ -5,7 +5,7 @@ import { useRouter, useSearchParams } from 'next/navigation';
 import Calendar from '@/components/Calendar';
 import Filter from '@/components/Filter';
 import EventDetail from '@/components/EventDetail';
-import type { ScheduleData, CalendarEvent, FilterOptions, ScheduleEvent } from '@/lib/types';
+import type { ScheduleData, FilterOptions, ScheduleEvent } from '@/lib/types';
 import { filterEvents, getSchoolNames, getSportNames } from '@/lib/utils';
 
 function HomeContent() {
@@ -37,7 +37,9 @@ function HomeContent() {
     return urlFilters;
   });
 
-  const [selectedEvent, setSelectedEvent] = useState<CalendarEvent | null>(null);
+  const [selectedEvent, setSelectedEvent] = useState<ScheduleEvent | null>(null);
+  const [showTime, setShowTime] = useState(false);
+  const [startOnSunday, setStartOnSunday] = useState(false);
 
   useEffect(() => {
     // JSONデータを読み込む
@@ -94,7 +96,7 @@ function HomeContent() {
     router.push(newUrl, { scroll: false });
   };
 
-  const handleSelectEvent = (event: CalendarEvent) => {
+  const handleSelectEvent = (event: ScheduleEvent) => {
     setSelectedEvent(event);
   };
 
@@ -103,29 +105,23 @@ function HomeContent() {
   };
 
   return (
-    <main className="h-screen flex flex-col lg:flex-row bg-gray-50">
-      {/* PC/Tablet: サイドバー（左側固定） */}
-      <aside className="hidden lg:flex lg:flex-col w-80 bg-white border-r border-gray-200 overflow-y-auto">
-        {/* コンパクトなヘッダー */}
-        <header className="p-4 border-b border-gray-200 flex-shrink-0">
-          <h1 className="text-xl font-bold text-gray-800 mb-1 flex items-center gap-2">
-            個人開放カレンダー
-            <span className="text-sm font-medium bg-gray-100 text-gray-600 px-2 py-1 rounded">
+    <main className="h-screen flex flex-col bg-gray-50">
+      {/* ヘッダー（全画面共通） */}
+      {!loading && data && data.events.length > 0 && (
+        <header className="py-3 px-3 md:py-3 md:px-4 bg-gray-100 border-b border-gray-200 flex-shrink-0">
+          <h1 className="text-sm md:text-[1.0625rem] font-bold text-gray-800 flex items-center gap-1.5 md:gap-2">
+            <span className="text-[0.65rem] md:text-xs font-medium bg-gray-500 text-white px-1 py-0 md:px-1.5 md:py-0.5 rounded">
               練馬区
             </span>
+            開放カレンダー
           </h1>
-          {data?.lastUpdated && (
-            <p className="text-xs text-gray-500 mt-1">
-              最終更新: {new Date(data.lastUpdated).toLocaleString('ja-JP', {
-                month: 'short',
-                day: 'numeric',
-                hour: '2-digit',
-                minute: '2-digit'
-              })}
-            </p>
-          )}
         </header>
+      )}
 
+      {/* サイドバーとメインエリア */}
+      <div className="flex-1 flex flex-col lg:flex-row overflow-hidden">
+        {/* PC/Tablet: サイドバー（左側固定） */}
+        <aside className="hidden lg:flex lg:flex-col w-64 bg-white border-r border-gray-200 overflow-y-auto">
         {/* フィルター（サイドバー内） */}
         {!loading && data && data.events.length > 0 && (
           <div className="flex-1 overflow-y-auto">
@@ -134,6 +130,10 @@ function HomeContent() {
               sports={sportNames}
               initialFilters={filters}
               onFilterChange={handleFilterChange}
+              showTime={showTime}
+              onShowTimeChange={setShowTime}
+              startOnSunday={startOnSunday}
+              onStartOnSundayChange={setStartOnSunday}
             />
           </div>
         )}
@@ -141,28 +141,6 @@ function HomeContent() {
 
       {/* メインエリア */}
       <div className="flex-1 flex flex-col overflow-hidden">
-        {/* SP: ヘッダー（上部） */}
-        <header className="lg:hidden p-3 bg-white border-b border-gray-200 flex-shrink-0">
-          <h1 className="text-lg font-bold text-gray-800 flex items-center gap-2">
-            個人開放カレンダー
-            <span className="text-xs font-medium bg-gray-100 text-gray-600 px-2 py-1 rounded">
-              練馬区
-            </span>
-          </h1>
-        </header>
-
-        {/* SP: フィルター */}
-        {!loading && data && data.events.length > 0 && (
-          <div className="lg:hidden flex-shrink-0">
-            <Filter
-              schools={schoolNames}
-              sports={sportNames}
-              initialFilters={filters}
-              onFilterChange={handleFilterChange}
-            />
-          </div>
-        )}
-
         {/* コンテンツエリア */}
         <div className="flex-1 overflow-y-auto">
           {loading ? (
@@ -197,10 +175,22 @@ function HomeContent() {
           ) : (
             <div className="h-full">
               {/* カレンダー */}
-              <Calendar events={filteredEvents} onSelectEvent={handleSelectEvent} />
+              <Calendar
+                events={filteredEvents}
+                onSelectEvent={handleSelectEvent}
+                selectedSportsCount={filters.sports.length}
+                showTime={showTime}
+                startOnSunday={startOnSunday}
+                selectedSports={filters.sports}
+                selectedSchools={filters.schools}
+                schools={schoolNames}
+                sports={sportNames}
+                onFilterChange={handleFilterChange}
+              />
             </div>
           )}
         </div>
+      </div>
       </div>
 
       {/* イベント詳細モーダル */}
