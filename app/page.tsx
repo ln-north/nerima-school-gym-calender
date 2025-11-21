@@ -105,7 +105,7 @@ function HomeContent() {
   };
 
   return (
-    <main className="h-screen flex flex-col bg-gray-50">
+    <main className="h-dvh flex flex-col bg-gray-50">
       {/* ヘッダー（全画面共通） */}
       {!loading && data && data.events.length > 0 && (
         <header className="py-3 px-3 md:py-3 md:px-4 bg-gray-100 border-b border-gray-200 flex-shrink-0">
@@ -202,7 +202,7 @@ function HomeContent() {
 export default function Home() {
   return (
     <Suspense fallback={
-      <div className="min-h-screen bg-gray-50 p-4 md:p-8 flex items-center justify-center">
+      <div className="min-h-dvh bg-gray-50 p-4 md:p-8 flex items-center justify-center">
         <div className="text-center">
           <div className="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid border-blue-600 border-r-transparent"></div>
           <p className="mt-4 text-gray-600">読み込み中...</p>
