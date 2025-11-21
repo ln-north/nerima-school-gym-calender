@@ -8,24 +8,32 @@
 
 import { useState, useEffect } from 'react';
 import type { FilterOptions } from '@/lib/types';
-import { getSportIcon } from '@/lib/utils';
 
 interface FilterProps {
   schools: string[];
   sports: string[];
   initialFilters?: FilterOptions;
   onFilterChange: (filters: FilterOptions) => void;
+  showTime: boolean;
+  onShowTimeChange: (showTime: boolean) => void;
+  startOnSunday: boolean;
+  onStartOnSundayChange: (startOnSunday: boolean) => void;
 }
 
-export default function Filter({ schools, sports, initialFilters, onFilterChange }: FilterProps) {
+export default function Filter({ schools, sports, initialFilters, onFilterChange, showTime, onShowTimeChange, startOnSunday, onStartOnSundayChange }: FilterProps) {
   const [selectedSchools, setSelectedSchools] = useState<string[]>(initialFilters?.schools || []);
   const [selectedSports, setSelectedSports] = useState<string[]>(initialFilters?.sports || []);
   const [showSchoolModal, setShowSchoolModal] = useState(false);
   const [showSportModal, setShowSportModal] = useState(false);
   const [showAllSports, setShowAllSports] = useState(false);
+  // PC用：未選択項目の折りたたみ状態
+  const [showUnselectedSports, setShowUnselectedSports] = useState(false);
+  const [showUnselectedSchools, setShowUnselectedSchools] = useState(false);
 
   // 初期表示するスポーツ種目数（SP用）
   const initialDisplayCount = 4;
+  // PC用：未選択項目の初期表示数
+  const unselectedPreviewCount = 3;
 
   // 初期フィルターが変更されたら状態を更新
   useEffect(() => {
@@ -108,6 +116,12 @@ export default function Filter({ schools, sports, initialFilters, onFilterChange
   const displayedSports = showAllSports ? sortedSports : sortedSports.slice(0, initialDisplayCount);
   const hasMoreSports = sortedSports.length > initialDisplayCount;
 
+  // PC用：選択済み/未選択の分離
+  const selectedSportsList = sortedSports.filter(sport => selectedSports.includes(sport));
+  const unselectedSportsList = sortedSports.filter(sport => !selectedSports.includes(sport));
+  const selectedSchoolsList = schools.filter(school => selectedSchools.includes(school));
+  const unselectedSchoolsList = schools.filter(school => !selectedSchools.includes(school));
+
   return (
     <>
       {/* PC/Tablet: サイドバー用縦並びリスト */}
@@ -116,17 +130,10 @@ export default function Filter({ schools, sports, initialFilters, onFilterChange
         <div className="mb-6">
           <h3 className="text-sm font-semibold text-gray-700 mb-3">
             スポーツ種目
-            {selectedSports.length > 0 && (
-              <span className="ml-2 px-2 py-0.5 bg-blue-600 text-white rounded-full text-xs">
-                {selectedSports.length}
-              </span>
-            )}
           </h3>
           <div className="space-y-1">
-            {sortedSports.map((sport) => {
-              const isSelected = selectedSports.includes(sport);
-              const icon = getSportIcon(sport);
-              const hasEmoji = icon !== sport;
+            {/* 選択済み項目 */}
+            {selectedSportsList.map((sport) => {
               return (
                 <label
                   key={sport}
@@ -134,16 +141,87 @@ export default function Filter({ schools, sports, initialFilters, onFilterChange
                 >
                   <input
                     type="checkbox"
-                    checked={isSelected}
+                    checked={true}
                     onChange={() => handleSportToggle(sport)}
                     className="w-4 h-4 text-blue-600 rounded focus:ring-blue-500"
                   />
-                  <span className="text-xs text-gray-700">
-                    {hasEmoji ? `${icon} ${sport}` : sport}
+                  <span className="text-sm text-gray-700">
+                    {sport}
                   </span>
                 </label>
               );
             })}
+
+            {/* 未選択項目 */}
+            {unselectedSportsList.length > 0 && (
+              <>
+                {!showUnselectedSports ? (
+                  // 折りたたみ時：プレビューのみ（グラデーション付き）
+                  <div className="relative">
+                    {unselectedSportsList.slice(0, unselectedPreviewCount).map((sport) => {
+                      return (
+                        <label
+                          key={sport}
+                          className="flex items-center space-x-2 cursor-pointer hover:bg-gray-50 p-2 rounded-lg"
+                        >
+                          <input
+                            type="checkbox"
+                            checked={false}
+                            onChange={() => handleSportToggle(sport)}
+                            className="w-4 h-4 text-blue-600 rounded focus:ring-blue-500"
+                          />
+                          <span className="text-sm text-gray-700">
+                            {sport}
+                          </span>
+                        </label>
+                      );
+                    })}
+                    {/* グラデーションオーバーレイ */}
+                    {unselectedSportsList.length > unselectedPreviewCount && (
+                      <div className="absolute bottom-0 left-0 right-0 h-12 bg-gradient-to-b from-transparent to-white pointer-events-none" />
+                    )}
+                  </div>
+                ) : (
+                  // 展開時：全未選択項目
+                  unselectedSportsList.map((sport) => {
+                    return (
+                      <label
+                        key={sport}
+                        className="flex items-center space-x-2 cursor-pointer hover:bg-gray-50 p-2 rounded-lg"
+                      >
+                        <input
+                          type="checkbox"
+                          checked={false}
+                          onChange={() => handleSportToggle(sport)}
+                          className="w-4 h-4 text-blue-600 rounded focus:ring-blue-500"
+                        />
+                        <span className="text-sm text-gray-700">
+                          {sport}
+                        </span>
+                      </label>
+                    );
+                  })
+                )}
+
+                {/* 項目を表示/非表示ボタン */}
+                {unselectedSportsList.length > unselectedPreviewCount && (
+                  <button
+                    onClick={() => setShowUnselectedSports(!showUnselectedSports)}
+                    className="flex items-center space-x-2 w-full text-left p-2 hover:bg-gray-50 rounded-lg text-sm text-gray-600"
+                  >
+                    <span>{showUnselectedSports ? '項目を非表示' : 'さらに表示'}</span>
+                    <svg
+                      className={`w-4 h-4 transition-transform ${showUnselectedSports ? 'rotate-180' : ''}`}
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </button>
+                )}
+              </>
+            )}
           </div>
         </div>
 
@@ -152,11 +230,6 @@ export default function Filter({ schools, sports, initialFilters, onFilterChange
           <div className="flex items-center justify-between mb-3">
             <h3 className="text-sm font-semibold text-gray-700">
               学校
-              {selectedSchools.length > 0 && (
-                <span className="ml-2 px-2 py-0.5 bg-blue-600 text-white rounded-full text-xs">
-                  {selectedSchools.length}
-                </span>
-              )}
             </h3>
             {selectedSchools.length > 0 && (
               <button
@@ -168,20 +241,111 @@ export default function Filter({ schools, sports, initialFilters, onFilterChange
             )}
           </div>
           <div className="space-y-1">
-            {schools.map((school) => (
+            {/* 選択済み項目 */}
+            {selectedSchoolsList.map((school) => (
               <label
                 key={school}
                 className="flex items-center space-x-2 cursor-pointer hover:bg-gray-50 p-2 rounded-lg"
               >
                 <input
                   type="checkbox"
-                  checked={selectedSchools.includes(school)}
+                  checked={true}
                   onChange={() => handleSchoolToggle(school)}
                   className="w-4 h-4 text-blue-600 rounded focus:ring-blue-500"
                 />
-                <span className="text-xs text-gray-700">{school}</span>
+                <span className="text-sm text-gray-700">{school}</span>
               </label>
             ))}
+
+            {/* 未選択項目 */}
+            {unselectedSchoolsList.length > 0 && (
+              <>
+                {!showUnselectedSchools ? (
+                  // 折りたたみ時：プレビューのみ（グラデーション付き）
+                  <div className="relative">
+                    {unselectedSchoolsList.slice(0, unselectedPreviewCount).map((school) => (
+                      <label
+                        key={school}
+                        className="flex items-center space-x-2 cursor-pointer hover:bg-gray-50 p-2 rounded-lg"
+                      >
+                        <input
+                          type="checkbox"
+                          checked={false}
+                          onChange={() => handleSchoolToggle(school)}
+                          className="w-4 h-4 text-blue-600 rounded focus:ring-blue-500"
+                        />
+                        <span className="text-sm text-gray-700">{school}</span>
+                      </label>
+                    ))}
+                    {/* グラデーションオーバーレイ */}
+                    {unselectedSchoolsList.length > unselectedPreviewCount && (
+                      <div className="absolute bottom-0 left-0 right-0 h-12 bg-gradient-to-b from-transparent to-white pointer-events-none" />
+                    )}
+                  </div>
+                ) : (
+                  // 展開時：全未選択項目
+                  unselectedSchoolsList.map((school) => (
+                    <label
+                      key={school}
+                      className="flex items-center space-x-2 cursor-pointer hover:bg-gray-50 p-2 rounded-lg"
+                    >
+                      <input
+                        type="checkbox"
+                        checked={false}
+                        onChange={() => handleSchoolToggle(school)}
+                        className="w-4 h-4 text-blue-600 rounded focus:ring-blue-500"
+                      />
+                      <span className="text-sm text-gray-700">{school}</span>
+                    </label>
+                  ))
+                )}
+
+                {/* 項目を表示/非表示ボタン */}
+                {unselectedSchoolsList.length > unselectedPreviewCount && (
+                  <button
+                    onClick={() => setShowUnselectedSchools(!showUnselectedSchools)}
+                    className="flex items-center space-x-2 w-full text-left p-2 hover:bg-gray-50 rounded-lg text-sm text-gray-600"
+                  >
+                    <span>{showUnselectedSchools ? '項目を非表示' : 'さらに表示'}</span>
+                    <svg
+                      className={`w-4 h-4 transition-transform ${showUnselectedSchools ? 'rotate-180' : ''}`}
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </button>
+                )}
+              </>
+            )}
+          </div>
+        </div>
+
+        {/* 表示設定セクション */}
+        <div className="mt-6">
+          <h3 className="text-sm font-semibold text-gray-700 mb-3">
+            表示設定
+          </h3>
+          <div className="space-y-1">
+            <label className="flex items-center space-x-2 cursor-pointer hover:bg-gray-50 p-2 rounded-lg">
+              <input
+                type="checkbox"
+                checked={showTime}
+                onChange={(e) => onShowTimeChange(e.target.checked)}
+                className="w-4 h-4 text-blue-600 rounded focus:ring-blue-500"
+              />
+              <span className="text-sm text-gray-700">時間を表示する</span>
+            </label>
+            <label className="flex items-center space-x-2 cursor-pointer hover:bg-gray-50 p-2 rounded-lg">
+              <input
+                type="checkbox"
+                checked={startOnSunday}
+                onChange={(e) => onStartOnSundayChange(e.target.checked)}
+                className="w-4 h-4 text-blue-600 rounded focus:ring-blue-500"
+              />
+              <span className="text-sm text-gray-700">日曜始まり</span>
+            </label>
           </div>
         </div>
       </div>
@@ -195,11 +359,6 @@ export default function Filter({ schools, sports, initialFilters, onFilterChange
             className="flex items-center gap-2 px-3 py-2 text-sm font-medium text-gray-700 hover:bg-gray-50 rounded-lg transition-colors"
           >
             <span>スポーツ</span>
-            {selectedSports.length > 0 && (
-              <span className="px-2 py-0.5 bg-blue-600 text-white rounded text-xs">
-                {selectedSports.length}
-              </span>
-            )}
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
             </svg>
@@ -211,11 +370,6 @@ export default function Filter({ schools, sports, initialFilters, onFilterChange
             className="flex items-center gap-2 px-3 py-2 text-sm font-medium text-gray-700 hover:bg-gray-50 rounded-lg transition-colors"
           >
             <span>学校</span>
-            {selectedSchools.length > 0 && (
-              <span className="px-2 py-0.5 bg-blue-600 text-white rounded text-xs">
-                {selectedSchools.length}
-              </span>
-            )}
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
             </svg>
@@ -259,8 +413,6 @@ export default function Filter({ schools, sports, initialFilters, onFilterChange
             {/* スポーツリスト */}
             <div className="p-4 space-y-2">
               {sortedSports.map((sport) => {
-                const icon = getSportIcon(sport);
-                const hasEmoji = icon !== sport;
                 return (
                   <label
                     key={sport}
@@ -273,7 +425,7 @@ export default function Filter({ schools, sports, initialFilters, onFilterChange
                       className="w-5 h-5 text-blue-600 rounded focus:ring-blue-500"
                     />
                     <span className="text-sm text-gray-700">
-                      {hasEmoji ? `${icon} ${sport}` : sport}
+                      {sport}
                     </span>
                   </label>
                 );
