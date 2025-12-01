@@ -1,9 +1,9 @@
 name: Update Gym Schedule Data
 
 on:
-  # 毎日午前9時（JST）に実行
+  # 1時間に1回実行
   schedule:
-    - cron: '0 0 * * *'  # UTC 0:00 = JST 9:00
+    - cron: '0 * * * *'  # 毎時0分に実行
 
   # 手動実行も可能にする
   workflow_dispatch:
