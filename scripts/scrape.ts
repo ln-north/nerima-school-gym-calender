@@ -86,28 +86,46 @@ async function getMonthlyPageUrls(): Promise<string[]> {
 }
 
 /**
- * URLから年月を推測
+ * 令和年を西暦に変換
+ */
+function reiwaToGregorian(reiwaYear: number): number {
+  return 2018 + reiwaYear;
+}
+
+/**
+ * HTMLコンテンツから年月を抽出
+ * ページタイトルや見出しから「令和X年Y月」を探す
+ */
+function extractYearMonthFromHtml(html: string): { year: number; month: number } | null {
+  // 「令和X年Y月」パターンを検索
+  const reiwaMatch = html.match(/令和(\d+)年(\d+)月/);
+  if (reiwaMatch) {
+    const reiwaYear = parseInt(reiwaMatch[1], 10);
+    const month = parseInt(reiwaMatch[2], 10);
+    const year = reiwaToGregorian(reiwaYear);
+    return { year, month };
+  }
+
+  // 「XXXX年Y月」パターンを検索
+  const gregorianMatch = html.match(/(\d{4})年(\d+)月/);
+  if (gregorianMatch) {
+    const year = parseInt(gregorianMatch[1], 10);
+    const month = parseInt(gregorianMatch[2], 10);
+    return { year, month };
+  }
+
+  return null;
+}
+
+/**
+ * URLから年月を推測（フォールバック用）
  */
 function getYearMonthFromUrl(url: string): { year: number; month: number } {
   const currentDate = new Date();
-  let year = currentDate.getFullYear();
-  let month = currentDate.getMonth() + 1;
+  const year = currentDate.getFullYear();
+  const month = currentDate.getMonth() + 1;
 
-  // URLやコンテキストから月を推測
-  // 10月のページの場合
-  if (url.includes('kojinkaihounittei.html')) {
-    month = 10;
-  }
-  // 11月のページの場合
-  else if (url.includes('taiikukannkaihou3.html')) {
-    month = 11;
-  }
-
-  // 年をまたぐ場合の処理（例: 12月に翌年1月のデータがある場合）
-  if (month < currentDate.getMonth() + 1 && month <= 3) {
-    year += 1;
-  }
-
+  // デフォルトで現在の年月を返す
   return { year, month };
 }
 
@@ -120,7 +138,10 @@ async function parseMonthlyPage(url: string): Promise<ScheduleEvent[]> {
   const html = await fetchPage(url);
   const $ = cheerio.load(html);
   const events: ScheduleEvent[] = [];
-  const { year, month } = getYearMonthFromUrl(url);
+
+  // HTMLから年月を抽出、失敗したらURLから推測
+  const extracted = extractYearMonthFromHtml(html);
+  const { year, month } = extracted || getYearMonthFromUrl(url);
 
   console.log(`Parsing page for ${year}年${month}月: ${url}`);
 
