@@ -1,203 +1,259 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:--//Nerima Gym Calendar//NONSGML v1.0//EN
-NAME:練馬区 学校体育館個人開放 - 練馬第三小学校
-X-WR-CALNAME:練馬区 学校体育館個人開放 - 練馬第三小学校
+NAME:練馬区 学校体育館個人開放 - 関中学校
+X-WR-CALNAME:練馬区 学校体育館個人開放 - 関中学校
 TIMEZONE-ID:Asia/Tokyo
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:d5RBX4k6Nt6T8s1NlDYo2
+UID:LEm-Tw-GT0X3TpliGpXp_
 SEQUENCE:0
-DTSTAMP:20251201T094756
-DTSTART:20251111T190000
-DTEND:20251111T210000
-SUMMARY:練馬第三小学校 - 卓球
-LOCATION:練馬第三小学校
-DESCRIPTION:学校: 練馬第三小学校\n種目: 卓球\n詳細: https:/
- /www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukann
- kaihou3.html
+DTSTAMP:20251201T013252
+DTSTART:20251107T190000
+DTEND:20251107T210000
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikuk
+ annkaihou3.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:i5NKg5OkdPMn-TfZR4tjy
+UID:v6cA_RVCVYbDk-6LeTvC_
 SEQUENCE:0
-DTSTAMP:20251201T094756
+DTSTAMP:20251201T013252
+DTSTART:20251109T123000
+DTEND:20251109T143000
+SUMMARY:関中学校 - バレーボール
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バレーボール\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikuk
+ annkaihou3.html
+URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
+ gakkokaiho/taiikukannkaihou3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:VjXHyW0RHL8nBRCecv020
+SEQUENCE:0
+DTSTAMP:20251201T013252
+DTSTART:20251110T190000
+DTEND:20251110T210000
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikuk
+ annkaihou3.html
+URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
+ gakkokaiho/taiikukannkaihou3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:3KxPhLkBEnQxUqoWotHyb
+SEQUENCE:0
+DTSTAMP:20251201T013252
 DTSTART:20251114T190000
 DTEND:20251114T210000
-SUMMARY:練馬第三小学校 - バレーボール
-LOCATION:練馬第三小学校
-DESCRIPTION:学校: 練馬第三小学校\n種目: バレーボール\n詳
- 細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaih
- o/taiikukannkaihou3.html
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikuk
+ annkaihou3.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:OCE0YEA5lafDZcsFcpW_6
+UID:rRWULXLEdKDf71X8fbML6
 SEQUENCE:0
-DTSTAMP:20251201T094756
-DTSTART:20251118T190000
-DTEND:20251118T210000
-SUMMARY:練馬第三小学校 - 卓球
-LOCATION:練馬第三小学校
-DESCRIPTION:学校: 練馬第三小学校\n種目: 卓球\n詳細: https:/
- /www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukann
- kaihou3.html
+DTSTAMP:20251201T013252
+DTSTART:20251117T190000
+DTEND:20251117T210000
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikuk
+ annkaihou3.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:XAvmMrn2lutvGeOO7DCwg
+UID:riGmx1vi2nj_e8p8wqLOl
 SEQUENCE:0
-DTSTAMP:20251201T094756
+DTSTAMP:20251201T013252
 DTSTART:20251121T190000
 DTEND:20251121T210000
-SUMMARY:練馬第三小学校 - バレーボール
-LOCATION:練馬第三小学校
-DESCRIPTION:学校: 練馬第三小学校\n種目: バレーボール\n詳
- 細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaih
- o/taiikukannkaihou3.html
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikuk
+ annkaihou3.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:1Twe474SE_69jte4ivh9g
+UID:Cxpu7gmoJ2WdwBgCGuAso
 SEQUENCE:0
-DTSTAMP:20251201T094756
-DTSTART:20251125T190000
-DTEND:20251125T210000
-SUMMARY:練馬第三小学校 - 卓球
-LOCATION:練馬第三小学校
-DESCRIPTION:学校: 練馬第三小学校\n種目: 卓球\n詳細: https:/
- /www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukann
- kaihou3.html
+DTSTAMP:20251201T013252
+DTSTART:20251123T123000
+DTEND:20251123T143000
+SUMMARY:関中学校 - バレーボール
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バレーボール\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikuk
+ annkaihou3.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:bJMHRXaYdgV4or-teuv9F
+UID:BqZKaxqlGAugwjU6seK9E
 SEQUENCE:0
-DTSTAMP:20251201T094756
+DTSTAMP:20251201T013252
+DTSTART:20251124T190000
+DTEND:20251124T210000
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikuk
+ annkaihou3.html
+URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
+ gakkokaiho/taiikukannkaihou3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:8E9LXCT85w8F7edlKlO6h
+SEQUENCE:0
+DTSTAMP:20251201T013252
 DTSTART:20251128T190000
 DTEND:20251128T210000
-SUMMARY:練馬第三小学校 - バレーボール
-LOCATION:練馬第三小学校
-DESCRIPTION:学校: 練馬第三小学校\n種目: バレーボール\n詳
- 細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaih
- o/taiikukannkaihou3.html
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikuk
+ annkaihou3.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:c81_fXCTWdoKAMva8GzjH
+UID:v959uyNF0Tnl9Ppl_vSI7
 SEQUENCE:0
-DTSTAMP:20251201T094756
-DTSTART:20251202T190000
-DTEND:20251202T210000
-SUMMARY:練馬第三小学校 - 卓球
-LOCATION:練馬第三小学校
-DESCRIPTION:学校: 練馬第三小学校\n種目: 卓球\n詳細: https:/
- /www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaiho
- unittei.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
-END:VEVENT
-BEGIN:VEVENT
-UID:CcbnZyXI09nZ3N1pxPn3H
-SEQUENCE:0
-DTSTAMP:20251201T094756
+DTSTAMP:20251201T013252
 DTSTART:20251205T190000
 DTEND:20251205T210000
-SUMMARY:練馬第三小学校 - バレーボール
-LOCATION:練馬第三小学校
-DESCRIPTION:学校: 練馬第三小学校\n種目: バレーボール\n詳
- 細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaih
- o/kojinkaihounittei.html
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:s7FP-sLAz5GImV5i2JThr
+UID:icLb1o1H5VDV1j5wCbN2p
 SEQUENCE:0
-DTSTAMP:20251201T094756
-DTSTART:20251209T190000
-DTEND:20251209T210000
-SUMMARY:練馬第三小学校 - 卓球
-LOCATION:練馬第三小学校
-DESCRIPTION:学校: 練馬第三小学校\n種目: 卓球\n詳細: https:/
- /www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaiho
- unittei.html
+DTSTAMP:20251201T013252
+DTSTART:20251208T190000
+DTEND:20251208T210000
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:uuRiPW3e0I1__ACiSLBGG
+UID:0Sl7jc-RhcINYSJ1jGNlO
 SEQUENCE:0
-DTSTAMP:20251201T094756
+DTSTAMP:20251201T013252
 DTSTART:20251212T190000
 DTEND:20251212T210000
-SUMMARY:練馬第三小学校 - バレーボール
-LOCATION:練馬第三小学校
-DESCRIPTION:学校: 練馬第三小学校\n種目: バレーボール\n詳
- 細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaih
- o/kojinkaihounittei.html
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Kp2sQdM-Nv01SWL-uttb6
+UID:Wlkt9PEJw1nZ5EjLrcKtx
 SEQUENCE:0
-DTSTAMP:20251201T094756
-DTSTART:20251216T190000
-DTEND:20251216T210000
-SUMMARY:練馬第三小学校 - 卓球
-LOCATION:練馬第三小学校
-DESCRIPTION:学校: 練馬第三小学校\n種目: 卓球\n詳細: https:/
- /www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaiho
- unittei.html
+DTSTAMP:20251201T013252
+DTSTART:20251214T123000
+DTEND:20251214T143000
+SUMMARY:関中学校 - バレーボール
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バレーボール\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:WCxkLC8IAbAyaC2d1iM74
+UID:Y34OpxHqToZoDkr20L6Ep
 SEQUENCE:0
-DTSTAMP:20251201T094756
+DTSTAMP:20251201T013252
+DTSTART:20251215T190000
+DTEND:20251215T210000
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
+URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
+ gakkokaiho/kojinkaihounittei.html
+END:VEVENT
+BEGIN:VEVENT
+UID:rMUjLCFj3BBoML1XmmDK6
+SEQUENCE:0
+DTSTAMP:20251201T013252
 DTSTART:20251219T190000
 DTEND:20251219T210000
-SUMMARY:練馬第三小学校 - バレーボール
-LOCATION:練馬第三小学校
-DESCRIPTION:学校: 練馬第三小学校\n種目: バレーボール\n詳
- 細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaih
- o/kojinkaihounittei.html
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:WzU_N6Kly73xiUYnXUn29
+UID:Z6lTFrUENL022GhX6HIQL
 SEQUENCE:0
-DTSTAMP:20251201T094756
-DTSTART:20251223T190000
-DTEND:20251223T210000
-SUMMARY:練馬第三小学校 - 卓球
-LOCATION:練馬第三小学校
-DESCRIPTION:学校: 練馬第三小学校\n種目: 卓球\n詳細: https:/
- /www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaiho
- unittei.html
+DTSTAMP:20251201T013252
+DTSTART:20251221T123000
+DTEND:20251221T143000
+SUMMARY:関中学校 - バレーボール
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バレーボール\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Hvh2c3Gn4m4vfCZ9bDzmb
+UID:7OIgLrtX2_dj8jryRT34F
 SEQUENCE:0
-DTSTAMP:20251201T094756
+DTSTAMP:20251201T013252
+DTSTART:20251222T190000
+DTEND:20251222T210000
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
+URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
+ gakkokaiho/kojinkaihounittei.html
+END:VEVENT
+BEGIN:VEVENT
+UID:IsdVv-_Ry11qi7N0X0rWE
+SEQUENCE:0
+DTSTAMP:20251201T013252
 DTSTART:20251226T190000
 DTEND:20251226T210000
-SUMMARY:練馬第三小学校 - バレーボール
-LOCATION:練馬第三小学校
-DESCRIPTION:学校: 練馬第三小学校\n種目: バレーボール\n詳
- 細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaih
- o/kojinkaihounittei.html
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
