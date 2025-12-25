@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:--//Nerima Gym Calendar//NONSGML v1.0//EN
-NAME:練馬区 学校体育館個人開放 - 初心者卓球教室
-X-WR-CALNAME:練馬区 学校体育館個人開放 - 初心者卓球教室
+NAME:練馬区 学校体育館個人開放 - ミニテニス
+X-WR-CALNAME:練馬区 学校体育館個人開放 - ミニテニス
 TIMEZONE-ID:Asia/Tokyo
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:YKnwoYOrJE2hNZM6Fj9xj
+UID:a1tEJ-7znTqbXq0wfMTKs
 SEQUENCE:0
-DTSTAMP:20251225T080433
-DTSTART:20251124T130000
-DTEND:20251124T150000
-SUMMARY:光和小学校 - 初心者卓球教室
-LOCATION:光和小学校
-DESCRIPTION:学校: 光和小学校\n種目: 初心者卓球教室\n詳細
- : https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/t
- aiikukannkaihou3.html
+DTSTAMP:20251225T094439
+DTSTART:20260117T180000
+DTEND:20260117T210000
+SUMMARY:旭町小学校 - ミニテニス
+LOCATION:旭町小学校
+DESCRIPTION:学校: 旭町小学校\n種目: ミニテニス\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikuk
+ annkaihou3.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
