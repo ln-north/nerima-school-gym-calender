@@ -106,13 +106,22 @@ function validateMonthDistribution(data: ScheduleData): ValidationResult {
 
 /**
  * 日付の妥当性検証
+ * 月初を基準にすることで、月の途中でも前月のデータを正しく許容する
  */
 function validateDateRange(data: ScheduleData): ValidationResult {
   const now = new Date();
-  const minDate = new Date(now);
-  minDate.setMonth(minDate.getMonth() - VALIDATION_THRESHOLDS.MAX_MONTHS_IN_PAST);
-  const maxDate = new Date(now);
-  maxDate.setMonth(maxDate.getMonth() + VALIDATION_THRESHOLDS.MAX_MONTHS_IN_FUTURE);
+  // 月初を基準にする（N ヶ月前の1日）
+  const minDate = new Date(
+    now.getFullYear(),
+    now.getMonth() - VALIDATION_THRESHOLDS.MAX_MONTHS_IN_PAST,
+    1
+  );
+  // 月末を基準にする（N ヶ月先の月末）
+  const maxDate = new Date(
+    now.getFullYear(),
+    now.getMonth() + VALIDATION_THRESHOLDS.MAX_MONTHS_IN_FUTURE + 1,
+    0
+  );
 
   const invalidEvents = data.events.filter((e) => {
     const date = new Date(e.date);
