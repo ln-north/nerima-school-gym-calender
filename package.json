@@ -14,6 +14,7 @@
     "generate-ical": "tsx scripts/generate-ical.ts"
   },
   "dependencies": {
+    "@holiday-jp/holiday_jp": "^2.5.1",
     "date-fns": "^3.0.0",
     "lucide-react": "^0.554.0",
     "next": "^14.0.0",

@@ -11,6 +11,7 @@
 import { useState, useEffect } from 'react';
 import { format, startOfMonth, endOfMonth, startOfWeek, endOfWeek, addDays, isSameMonth, isSameDay, addMonths, subMonths } from 'date-fns';
 import { ja } from 'date-fns/locale';
+import { isHoliday } from '@holiday-jp/holiday_jp';
 import type { ScheduleEvent, FilterOptions } from '@/lib/types';
 import { getSportIcon } from '@/lib/utils';
 
@@ -372,7 +373,7 @@ export default function Calendar({ events, onSelectEvent, selectedSportsCount = 
                           ? 'bg-blue-600 text-white w-5 h-5 md:w-7 md:h-7 rounded-full flex items-center justify-center mx-auto md:mx-0'
                           : 'md:text-left md:pl-1'
                       } ${
-                        !isToday && dayOfWeek === 0
+                        !isToday && (dayOfWeek === 0 || isHoliday(day))
                           ? 'text-red-600'
                           : !isToday && dayOfWeek === 6
                           ? 'text-blue-600'
@@ -450,7 +451,13 @@ export default function Calendar({ events, onSelectEvent, selectedSportsCount = 
                     </div>
                     <div
                       className={`text-2xl font-bold ${
-                        isToday ? 'text-blue-600' : 'text-gray-800'
+                        isToday
+                          ? 'text-blue-600'
+                          : day.getDay() === 0 || isHoliday(day)
+                          ? 'text-red-600'
+                          : day.getDay() === 6
+                          ? 'text-blue-600'
+                          : 'text-gray-800'
                       }`}
                     >
                       {format(day, 'd', { locale: ja })}
