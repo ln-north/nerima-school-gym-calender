@@ -1,2735 +1,7 @@
 {
   "events": [
     {
-      "id": "S25G8SyBSkq_Ntd_BslHi",
-      "schoolName": "南町小学校",
-      "date": "2026-02-01",
-      "startTime": "13:00",
-      "endTime": "15:00",
-      "sports": [
-        "パドルテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "lh5qGggN27MI0q0EZrvyk",
-      "schoolName": "北町西小学校",
-      "date": "2026-02-01",
-      "startTime": "12:00",
-      "endTime": "14:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "Y1dQHFHdVQ_d1wApI_VgW",
-      "schoolName": "石神井小学校",
-      "date": "2026-02-01",
-      "startTime": "14:00",
-      "endTime": "16:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "EJdoTv2UT-YTOMrHOAawK",
-      "schoolName": "関中学校",
-      "date": "2026-02-01",
-      "startTime": "12:30",
-      "endTime": "14:30",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "HtWpW_wqfYZZzTAAH4e0o",
-      "schoolName": "豊玉小学校",
-      "date": "2026-02-02",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "vK0ajGnISoSNPwsjFu2xV",
-      "schoolName": "早宮小学校",
-      "date": "2026-02-02",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "xP5XwDwKKEa4Tu--DhBwc",
-      "schoolName": "開進第一小学校",
-      "date": "2026-02-02",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "sports": [
-        "キャッチバレー"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "qas3IYzIGtbJnxtGJ9oOp",
-      "schoolName": "開進第一小学校",
-      "date": "2026-02-02",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "KcAnZslUdHcpwbA8CgBTp",
-      "schoolName": "南町小学校",
-      "date": "2026-02-02",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "テニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "HHELxQ7-QZJBADlzSJwMM",
-      "schoolName": "春日小学校",
-      "date": "2026-02-02",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ボッチャ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "Zmhvm2Mfu5o4BzcLlPEnf",
-      "schoolName": "春日小学校",
-      "date": "2026-02-02",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "1E5kP-mhm_PxQbrk1c5fw",
-      "schoolName": "光が丘秋の陽小学校",
-      "date": "2026-02-02",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "INB_vSwDLDT2nNwT4En1W",
-      "schoolName": "石神井小学校",
-      "date": "2026-02-02",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "bZF3S9jj0O3Z4KfGzG9iP",
-      "schoolName": "上石神井北小学校",
-      "date": "2026-02-02",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ソフトバレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "ZdeoUlh8gCjConJ2J40El",
-      "schoolName": "大泉第四小学校",
-      "date": "2026-02-02",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "wkc-6mmqQkansv443YpaZ",
-      "schoolName": "大泉第四小学校",
-      "date": "2026-02-02",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "i8evlo1b7w7Z9SAFuBleb",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-02",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "k2kHnaEWn3AwSNtDrRQ3Z",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-02",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "TAHJ6F0xLj1kA_YxiELQ5",
-      "schoolName": "小竹小学校",
-      "date": "2026-02-03",
-      "startTime": "19:00",
-      "endTime": "21:01",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "N1ZmedA44pzU-g2-_Nkqc",
-      "schoolName": "豊玉東小学校",
-      "date": "2026-02-03",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "2jZtcTGC2CMFwiyeWcREO",
-      "schoolName": "開進第一小学校",
-      "date": "2026-02-03",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "f9JN2VgMiU0UaaxbDYpM4",
-      "schoolName": "開進第一小学校",
-      "date": "2026-02-03",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "2YIRZcxteCLgcuZKvhK6m",
-      "schoolName": "開進第四小学校",
-      "date": "2026-02-03",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "y10u2VwK7x5xdNSM8Bj20",
-      "schoolName": "南町小学校",
-      "date": "2026-02-03",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "1975g9goqY_JHemMyfYa9",
-      "schoolName": "練馬小学校",
-      "date": "2026-02-03",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "-SQWPHl9azEXv1VxFvRDl",
-      "schoolName": "練馬小学校",
-      "date": "2026-02-03",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "1w694iENlJmhqPBaR2H_9",
-      "schoolName": "練馬第三小学校",
-      "date": "2026-02-03",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "6N7Gk5orAE5cZgCa2aEJ3",
-      "schoolName": "光が丘四季の香小学校",
-      "date": "2026-02-03",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "UozSJzaDd5O_UHX1aFrYS",
-      "schoolName": "大泉学園桜小学校",
-      "date": "2026-02-03",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "erHlEbuuV1ZKqLoobLr2c",
-      "schoolName": "大泉学園桜小学校",
-      "date": "2026-02-03",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "6pvtEKihT4f4I56i-qN03",
-      "schoolName": "開進第三中学校",
-      "date": "2026-02-03",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "硬式テニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "qj41sTymemNtdZqDMy9rI",
-      "schoolName": "仲町小学校",
-      "date": "2026-02-04",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "6RXQsxqSdT_et5ZE08Ns3",
-      "schoolName": "南町小学校",
-      "date": "2026-02-04",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "DIR38hJO4a5t2QebhyFO4",
-      "schoolName": "北町西小学校",
-      "date": "2026-02-04",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "_J-lYmV6QkSJMBOoGSMtP",
-      "schoolName": "旭町小学校",
-      "date": "2026-02-04",
-      "startTime": "18:30",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "gMyn5dd6YezMtl4m6yke1",
-      "schoolName": "春日小学校",
-      "date": "2026-02-04",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "E3qDzXyLqvdfv0gfddMwJ",
-      "schoolName": "光が丘四季の香小学校",
-      "date": "2026-02-04",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "lp5cfiRiTTXbcjEGyYTv4",
-      "schoolName": "光が丘春の風小学校",
-      "date": "2026-02-04",
-      "startTime": "18:00",
-      "endTime": "20:00",
-      "sports": [
-        "バスケットボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "bfZAkW-raplg1-1JikKJX",
-      "schoolName": "光が丘夏の雲小学校",
-      "date": "2026-02-04",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "軽スポーツ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "yxaXy06MCo1sLrRDrlFlk",
-      "schoolName": "石神井小学校",
-      "date": "2026-02-04",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "WRUPk4y3GlYQnoh-L9llA",
-      "schoolName": "石神井小学校",
-      "date": "2026-02-04",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "インディアカ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "CCn1btRS-OY4kXUEyrZAp",
-      "schoolName": "上石神井北小学校",
-      "date": "2026-02-04",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "xmCoNGC1HyxmFpEkXJcDo",
-      "schoolName": "大泉西小学校",
-      "date": "2026-02-04",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "C-P_krSuiHs7bnUOWVUy0",
-      "schoolName": "橋戸小学校",
-      "date": "2026-02-04",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "gDoPeDK93n-QYhElDsV-i",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-04",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "Kk4a6JAOgVDkZAN2LOhxg",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-04",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "MW-7wMBnPoRqZD1Dg00tV",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-04",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "gffz-ToqwqGWltKwt4qBO",
-      "schoolName": "豊玉小学校",
-      "date": "2026-02-05",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "VUVMVD_4kV_u9lfolERcS",
-      "schoolName": "豊玉東小学校",
-      "date": "2026-02-05",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "SXteOsgCf6semflc_JKbj",
-      "schoolName": "練馬小学校",
-      "date": "2026-02-05",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "軽スポーツ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "ULsae6j3_YTzNXWAFvdvz",
-      "schoolName": "光が丘春の風小学校",
-      "date": "2026-02-05",
-      "startTime": "18:00",
-      "endTime": "20:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "_yJ_R7wdOjvWw3prgtdCy",
-      "schoolName": "光が丘夏の雲小学校",
-      "date": "2026-02-05",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "g1fT4KF6tMcwbwZjh_iEd",
-      "schoolName": "光が丘夏の雲小学校",
-      "date": "2026-02-05",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "IFjsdTgd6Z9wWj8aZ9wui",
-      "schoolName": "光が丘秋の陽小学校",
-      "date": "2026-02-05",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "軽スポーツ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "FznuQxOhq18rh3CnsFmGp",
-      "schoolName": "石神井台小学校",
-      "date": "2026-02-05",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "e3VCgmM6nuXJMpvzWL2TK",
-      "schoolName": "上石神井北小学校",
-      "date": "2026-02-05",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "XXgoF-QOstnytcL0QDWu9",
-      "schoolName": "光和小学校",
-      "date": "2026-02-05",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "jbRDxn5b6hECyWc-ds0Si",
-      "schoolName": "開進第三中学校",
-      "date": "2026-02-05",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "硬式テニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "DR16h6yba5pDT5g5OuFVQ",
-      "schoolName": "小竹小学校",
-      "date": "2026-02-06",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "fEpkzUA0-fgbhxqZCu2ob",
-      "schoolName": "豊玉小学校",
-      "date": "2026-02-06",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "ti2ru65XgsPTVdCF4B7cG",
-      "schoolName": "早宮小学校",
-      "date": "2026-02-06",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "キャッチバレー"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "x0y6AkTVK4mQuJ-uixZCg",
-      "schoolName": "開進第四小学校",
-      "date": "2026-02-06",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "nCAmdAI5r7ZhwWuuK_NY8",
-      "schoolName": "北町西小学校",
-      "date": "2026-02-06",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "軽スポーツ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "edzkYtv2ychZKOnmE1x77",
-      "schoolName": "練馬第三小学校",
-      "date": "2026-02-06",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "ZRsgP4jkhuE0nBl75ejLU",
-      "schoolName": "春日小学校",
-      "date": "2026-02-06",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "Xdx0qNDXqdxKGYc7ZJUXg",
-      "schoolName": "春日小学校",
-      "date": "2026-02-06",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "UWB4n9aR2yb2tNEGk6QcB",
-      "schoolName": "光が丘四季の香小学校",
-      "date": "2026-02-06",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "aRhbmDp34EzaTX5DJGBBL",
-      "schoolName": "大泉南小学校",
-      "date": "2026-02-06",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "yKU4Se1CrDl1ejST-FL6-",
-      "schoolName": "大泉西小学校",
-      "date": "2026-02-07",
-      "startTime": "14:00",
-      "endTime": "16:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "UwyfgHar4r-fXh2JdMVCA",
-      "schoolName": "大泉南小学校",
-      "date": "2026-02-07",
-      "startTime": "16:00",
-      "endTime": "18:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "sCB4_ZLP00sYwOWVAhEme",
-      "schoolName": "橋戸小学校",
-      "date": "2026-02-07",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ミニバスケット"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "8eqvenZWQXOfRXKp4c2EN",
-      "schoolName": "石神井小学校",
-      "date": "2026-02-08",
-      "startTime": "14:00",
-      "endTime": "16:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "Dce1Zz-Jxzx__34SqV2cB",
-      "schoolName": "関中学校",
-      "date": "2026-02-08",
-      "startTime": "12:30",
-      "endTime": "14:30",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "Sqb9Tm8nYlfoJuoREsAlh",
-      "schoolName": "豊玉小学校",
-      "date": "2026-02-09",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "D0SPrd6VTiMCTNe-bvKfN",
-      "schoolName": "開進第一小学校",
-      "date": "2026-02-09",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "sports": [
-        "キャッチバレー"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "eyn-jDvMPzuwAOytvWyGv",
-      "schoolName": "開進第一小学校",
-      "date": "2026-02-09",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "Y99fy7WZv9uKXiNqFlYhg",
-      "schoolName": "春日小学校",
-      "date": "2026-02-09",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ボッチャ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "gETLKf0oT8l_mbBvhbzUj",
-      "schoolName": "春日小学校",
-      "date": "2026-02-09",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "3nbOqwDkvpBut8hLX72Qf",
-      "schoolName": "光が丘秋の陽小学校",
-      "date": "2026-02-09",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "jVAIwgZ-NLL8rPnJYV0V3",
-      "schoolName": "石神井小学校",
-      "date": "2026-02-09",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "8Wt3qa0Al0lmDjxgQmw6q",
-      "schoolName": "上石神井北小学校",
-      "date": "2026-02-09",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ソフトバレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "XRdrkP_Unnl8uP1BiUu65",
-      "schoolName": "大泉第四小学校",
-      "date": "2026-02-09",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "oRsgQBkd6TsWpg1P1Vusj",
-      "schoolName": "大泉第四小学校",
-      "date": "2026-02-09",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "1_YvSReHZjOJmstfA2upB",
-      "schoolName": "大泉学園緑小学校",
-      "date": "2026-02-09",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ソフトバレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "_9NL_FsPOwTz6olGRUOxT",
-      "schoolName": "大泉学園緑小学校",
-      "date": "2026-02-09",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "wqqiwfAamSZSS-aBNx45K",
-      "schoolName": "豊玉中学校",
-      "date": "2026-02-09",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "gy8lAaidkBfOZJCqPnpoq",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-09",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "avYaEUnm8FgM5f791Gc-0",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-09",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "6ZTRmHNo70qFqfHJYgEiy",
-      "schoolName": "関中学校",
-      "date": "2026-02-09",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "R9V2mnr_3Fj0O8GN7ipq0",
-      "schoolName": "小竹小学校",
-      "date": "2026-02-10",
-      "startTime": "19:00",
-      "endTime": "21:01",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "4HLMiacfrv8UbPMnsaK6P",
-      "schoolName": "豊玉東小学校",
-      "date": "2026-02-10",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "qFUIZ8hK3FkOM3BvJdH1M",
-      "schoolName": "開進第一小学校",
-      "date": "2026-02-10",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "QCcTVIqC78Q3vkeFE4xtA",
-      "schoolName": "開進第一小学校",
-      "date": "2026-02-10",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "EGQRIlPcYgY2qTtEMNH0Z",
-      "schoolName": "開進第四小学校",
-      "date": "2026-02-10",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "tzF60SkVaUIYL_X0I9Guf",
-      "schoolName": "練馬小学校",
-      "date": "2026-02-10",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "XYZJQuoiWxNCfnYuWDNMB",
-      "schoolName": "練馬小学校",
-      "date": "2026-02-10",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "F0jSFkHGRFY4IQ_Meu582",
-      "schoolName": "練馬第三小学校",
-      "date": "2026-02-10",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "ThFzT0uLAEawzeEQhnbWg",
-      "schoolName": "光が丘四季の香小学校",
-      "date": "2026-02-10",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "-U9okDr8zfotFFMNnFtKu",
-      "schoolName": "大泉第一小学校",
-      "date": "2026-02-10",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "fzJGRcZdPF2lsDdVF-fAG",
-      "schoolName": "大泉学園桜小学校",
-      "date": "2026-02-10",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "A7bPJrsQlQQle8ZoRxiPa",
-      "schoolName": "大泉学園桜小学校",
-      "date": "2026-02-10",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "NDk6qdrreVvbZBEfRLilW",
-      "schoolName": "開進第三中学校",
-      "date": "2026-02-10",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "硬式テニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "9-3sV2flhzcGPkwoc7uwc",
-      "schoolName": "早宮小学校",
-      "date": "2026-02-11",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "mQ37c2VO-U0tSidBdQwbw",
-      "schoolName": "仲町小学校",
-      "date": "2026-02-11",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "6RBc5pFBSCGEg8jHY8BU0",
-      "schoolName": "北町西小学校",
-      "date": "2026-02-11",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "ZxxEPzT9u6k6OadSklNRs",
-      "schoolName": "旭町小学校",
-      "date": "2026-02-11",
-      "startTime": "18:30",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "HZHq2dy7EZX1pjyBAeSRM",
-      "schoolName": "春日小学校",
-      "date": "2026-02-11",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "ZDeVft-c-U09YqF9KSsS_",
-      "schoolName": "光が丘春の風小学校",
-      "date": "2026-02-11",
-      "startTime": "18:00",
-      "endTime": "20:00",
-      "sports": [
-        "バスケットボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "M615A6dhRXEtK0em4kFI4",
-      "schoolName": "光が丘夏の雲小学校",
-      "date": "2026-02-11",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "軽スポーツ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "cr16cIGssGz3GNPxRRA2h",
-      "schoolName": "石神井小学校",
-      "date": "2026-02-11",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "NqTxdmGinYtgscV4ZIT-G",
-      "schoolName": "石神井小学校",
-      "date": "2026-02-11",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "インディアカ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "17yQsvKdWnwYFLnhmHzTX",
-      "schoolName": "上石神井北小学校",
-      "date": "2026-02-11",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "ojkn3ox-YKOB8jl8orCb_",
-      "schoolName": "大泉西小学校",
-      "date": "2026-02-11",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "Y81q2aYFcouikaINNS1N8",
-      "schoolName": "橋戸小学校",
-      "date": "2026-02-11",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "QoXpzbcM5M0G7OD50AIRy",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-11",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "wghka1ooOrg50IQCQFEGT",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-11",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "3kU2Pmvco4NsTzSWFrgix",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-11",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "AHomR-kSikaoH4pzyjOcf",
-      "schoolName": "練馬小学校",
-      "date": "2026-02-12",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "軽スポーツ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "2o9wr_lZRj8HFah9yW4Zq",
-      "schoolName": "光が丘春の風小学校",
-      "date": "2026-02-12",
-      "startTime": "18:00",
-      "endTime": "20:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "k5n2DJQBHuivmqngQn4NK",
-      "schoolName": "光が丘夏の雲小学校",
-      "date": "2026-02-12",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "R9HVFApYwKjVA88eXWkH4",
-      "schoolName": "光が丘夏の雲小学校",
-      "date": "2026-02-12",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "bq57QKXOiGy5fUXIETzpU",
-      "schoolName": "光が丘秋の陽小学校",
-      "date": "2026-02-12",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "軽スポーツ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "_1UyrZzDOLyE2eTqfGtGU",
-      "schoolName": "上石神井北小学校",
-      "date": "2026-02-12",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "u01dFZ788_UaKHwfNC1d9",
-      "schoolName": "光和小学校",
-      "date": "2026-02-12",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "n8YaR-mW8epdVU7Tri2x6",
-      "schoolName": "開進第三中学校",
-      "date": "2026-02-12",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "硬式テニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "3_rI0ZOzOIn0H7JbJDvDl",
-      "schoolName": "早宮小学校",
-      "date": "2026-02-13",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "-yWeX6ZQqrj2SMNDVPy_5",
-      "schoolName": "開進第四小学校",
-      "date": "2026-02-13",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "OJFcQvbZHjnqwIL66QAdN",
-      "schoolName": "仲町小学校",
-      "date": "2026-02-13",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "Xl3XiYedXr-ymlR8K8gls",
-      "schoolName": "北町西小学校",
-      "date": "2026-02-13",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "軽スポーツ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "zd73woJAySYqex6HxB2xY",
-      "schoolName": "練馬第三小学校",
-      "date": "2026-02-13",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "O3ibmg3i86-Pp5w27fLq-",
-      "schoolName": "光が丘四季の香小学校",
-      "date": "2026-02-13",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "thhyuVo6eImLu9Rh0dLCM",
-      "schoolName": "大泉南小学校",
-      "date": "2026-02-13",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "oLOz7gGYBKItXFmfck9ev",
-      "schoolName": "関中学校",
-      "date": "2026-02-13",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "82ZJB4v8SAMhHlpR_m8c0",
-      "schoolName": "大泉第四小学校",
-      "date": "2026-02-14",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "2vgddVj-AIk6CgD0s6a8I",
-      "schoolName": "大泉第四小学校",
-      "date": "2026-02-14",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "x3Sz0H-anF69qHmL2oqOv",
-      "schoolName": "大泉西小学校",
-      "date": "2026-02-14",
-      "startTime": "14:00",
-      "endTime": "16:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "zJorbepB1IkS3ymaJQaRK",
-      "schoolName": "大泉学園桜小学校",
-      "date": "2026-02-14",
-      "startTime": "18:30",
-      "endTime": "20:30",
-      "sports": [
-        "バスケットボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "jevsvHY1ciwV-nCw6Ucro",
-      "schoolName": "橋戸小学校",
-      "date": "2026-02-14",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ミニバスケット"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "7JKkCZKyXjYXBnKkm0NsX",
-      "schoolName": "南町小学校",
-      "date": "2026-02-15",
-      "startTime": "13:00",
-      "endTime": "15:00",
-      "sports": [
-        "パドルテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "Ca1floyKAYPrINd2IZYaA",
-      "schoolName": "北町西小学校",
-      "date": "2026-02-15",
-      "startTime": "12:00",
-      "endTime": "14:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "oIoHc4etR79dFIwcyZsuJ",
-      "schoolName": "石神井小学校",
-      "date": "2026-02-15",
-      "startTime": "14:00",
-      "endTime": "16:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "3jlM_AbNV_fr_XhWl7Eor",
-      "schoolName": "石神井西小学校",
-      "date": "2026-02-15",
-      "startTime": "10:00",
-      "endTime": "12:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "71foeDfF6EBuWJKn4-0E-",
-      "schoolName": "早宮小学校",
-      "date": "2026-02-16",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "GW2HaAwSX685ey-16LvQI",
-      "schoolName": "開進第一小学校",
-      "date": "2026-02-16",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "sports": [
-        "キャッチバレー"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "z5_oGL_OtCeSELBuOi9BV",
-      "schoolName": "開進第一小学校",
-      "date": "2026-02-16",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "J9einh26cX71p9NWuT6MG",
-      "schoolName": "旭町小学校",
-      "date": "2026-02-16",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "583tjqzYdjpEOPvYNR1_c",
-      "schoolName": "石神井小学校",
-      "date": "2026-02-16",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "4OnIGw5Rr8kkU3o6tNpwA",
-      "schoolName": "上石神井北小学校",
-      "date": "2026-02-16",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ソフトバレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "c5_dhG1lbk4R_H2Z6Qgu2",
-      "schoolName": "大泉第四小学校",
-      "date": "2026-02-16",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "0E4JIPy0HfA5DzO4OygnP",
-      "schoolName": "大泉第四小学校",
-      "date": "2026-02-16",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "SexSlJxv_9jqTa4t2jmDD",
-      "schoolName": "大泉学園緑小学校",
-      "date": "2026-02-16",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ソフトバレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "OppCPMyQcdXQfXyPskSec",
-      "schoolName": "大泉学園緑小学校",
-      "date": "2026-02-16",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "smzb01dxCazpWqBJMKLCT",
-      "schoolName": "豊玉中学校",
-      "date": "2026-02-16",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "DeqcXsQSnTuowl7wYMxRE",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-16",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "B7ThTCve9vkmCP_BClfrU",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-16",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "s-b3gQndeTYSf32JR8iSk",
-      "schoolName": "関中学校",
-      "date": "2026-02-16",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "-7fiqQsZzcAXMDJkbt5e6",
-      "schoolName": "開進第一小学校",
-      "date": "2026-02-17",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "HmsjAtwCnd2b6C07txjN9",
-      "schoolName": "開進第一小学校",
-      "date": "2026-02-17",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "zdZehlfMj50K0mpmpnrZn",
-      "schoolName": "練馬小学校",
-      "date": "2026-02-17",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "WEZZToHC6LiKeEtF3d6GG",
-      "schoolName": "練馬小学校",
-      "date": "2026-02-17",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "R6EanCfDBHfnPuVdE8lg9",
-      "schoolName": "練馬第三小学校",
-      "date": "2026-02-17",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "d9Ky-5VQYN7hPxJggMR1X",
-      "schoolName": "大泉学園桜小学校",
-      "date": "2026-02-17",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "tS3QY1hh3jFm_SAbQSBtp",
-      "schoolName": "大泉学園桜小学校",
-      "date": "2026-02-17",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "AeUuRCkNrS44U2AKdKql-",
-      "schoolName": "開進第三中学校",
-      "date": "2026-02-17",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "硬式テニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "9zTkMBSdYzE7Hm-wmHQQT",
-      "schoolName": "南町小学校",
-      "date": "2026-02-18",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "qgexY-WdN0H1cOKtNgiAp",
-      "schoolName": "北町西小学校",
-      "date": "2026-02-18",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "sBeu5FQ0vn-cYjx7JrsTo",
-      "schoolName": "豊渓小学校",
-      "date": "2026-02-18",
-      "startTime": "18:30",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "6x37VQePJaHzIb4itHOu4",
-      "schoolName": "旭町小学校",
-      "date": "2026-02-18",
-      "startTime": "18:30",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "N0e3b3XDPrDFyT7f3uLmx",
-      "schoolName": "光が丘夏の雲小学校",
-      "date": "2026-02-18",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "軽スポーツ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "0YwGDr8fIWOby8zxaQNUb",
-      "schoolName": "上石神井北小学校",
-      "date": "2026-02-18",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "OK5ymGllZqGDewIPp2C8k",
-      "schoolName": "大泉西小学校",
-      "date": "2026-02-18",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "eNMS2T8fRgcRg1MPji3Ll",
-      "schoolName": "橋戸小学校",
-      "date": "2026-02-18",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "2mcj-nYqeqKcwhPGFJYK2",
-      "schoolName": "豊玉中学校",
-      "date": "2026-02-18",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "硬式テニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "6Zafo35BzlQXe8j8-8dzk",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-18",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "DXK4ozbmeFoS-I2OVWvBe",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-18",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "9Ee3BKp99WEUCd6yN7dr7",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-18",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "Rc98ve6cdCKjFKGjNX4t5",
-      "schoolName": "練馬小学校",
-      "date": "2026-02-19",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "軽スポーツ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "R6dCMK6CoEURcOStsTHqq",
-      "schoolName": "豊渓小学校",
-      "date": "2026-02-19",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "FY5jCG-BsZzFWFhw30aod",
-      "schoolName": "光が丘夏の雲小学校",
-      "date": "2026-02-19",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "YLSLtxbvf6kBbkIriKOfZ",
-      "schoolName": "光が丘夏の雲小学校",
-      "date": "2026-02-19",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "guc8g5ZrNQ1_fGA8HcEGQ",
-      "schoolName": "光和小学校",
-      "date": "2026-02-19",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "r2V9_hF5EyX9kJDxsIexr",
-      "schoolName": "開進第三中学校",
-      "date": "2026-02-19",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "硬式テニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "hhuF4Ne7Ow-u9myYNH6Zl",
-      "schoolName": "早宮小学校",
-      "date": "2026-02-20",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "キャッチバレー"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "lPaxCy0obOcHt8f8ub8-u",
-      "schoolName": "北町西小学校",
-      "date": "2026-02-20",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "軽スポーツ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "PYv36d1YHISBbIVbJxsEw",
-      "schoolName": "練馬第三小学校",
-      "date": "2026-02-20",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "ZITb8p1ODNUxCVUpDgeel",
-      "schoolName": "関中学校",
-      "date": "2026-02-20",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "qHMrf_uFN0QYkkZzUmLW2",
-      "schoolName": "早宮小学校",
-      "date": "2026-02-21",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "インディアカ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "wyWpMwr87vJ-nB9ze1wGZ",
-      "schoolName": "旭町小学校",
-      "date": "2026-02-21",
-      "startTime": "18:00",
-      "endTime": "21:00",
-      "sports": [
-        "ミニテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "WBoPDqlHCo4D76LV8K3_m",
-      "schoolName": "石神井西小学校",
-      "date": "2026-02-21",
-      "startTime": "13:00",
-      "endTime": "15:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "pJEcFrtaF58PrZsLS2b0J",
-      "schoolName": "大泉第四小学校",
-      "date": "2026-02-21",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "ZXr7WhZDjpk8tf9r-O8tl",
-      "schoolName": "大泉第四小学校",
-      "date": "2026-02-21",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "BDn1hErqsjt9cTg89qz1d",
-      "schoolName": "大泉西小学校",
-      "date": "2026-02-21",
-      "startTime": "14:00",
-      "endTime": "16:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "0ytTr1LDUtQ-IyIIYikVS",
-      "schoolName": "大泉学園桜小学校",
-      "date": "2026-02-21",
-      "startTime": "18:30",
-      "endTime": "20:30",
-      "sports": [
-        "バスケットボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "8lamQznzIrpdDcfvy3rDa",
-      "schoolName": "橋戸小学校",
-      "date": "2026-02-21",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ミニバスケット"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "LyDx5r-IBIRsYHDjynC5y",
-      "schoolName": "南町小学校",
-      "date": "2026-02-22",
-      "startTime": "13:00",
-      "endTime": "15:00",
-      "sports": [
-        "パドルテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "PlN3enn68v2v6yPCd1eaX",
-      "schoolName": "北町西小学校",
-      "date": "2026-02-22",
-      "startTime": "12:00",
-      "endTime": "14:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "0mePjoouHfsxU3wlXZ7hz",
-      "schoolName": "石神井西小学校",
-      "date": "2026-02-22",
-      "startTime": "10:00",
-      "endTime": "12:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "SPfk3STKL7863dfRM1C4k",
-      "schoolName": "光和小学校",
-      "date": "2026-02-22",
-      "startTime": "15:00",
-      "endTime": "17:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "5LE8hBIuhHFd3GhTMY0ew",
-      "schoolName": "関中学校",
-      "date": "2026-02-22",
-      "startTime": "12:30",
-      "endTime": "14:30",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "u92RwwZwY2j0tv2Xds3Zy",
-      "schoolName": "開進第一小学校",
-      "date": "2026-02-23",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "sports": [
-        "キャッチバレー"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "BgHWe2ycuiOBkv_4h7QCq",
-      "schoolName": "開進第一小学校",
-      "date": "2026-02-23",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "q8ghBRK8N38fSbt3XAixl",
-      "schoolName": "南町小学校",
-      "date": "2026-02-23",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "テニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "zkFahYeTlUYBxkgwOOXdM",
-      "schoolName": "旭町小学校",
-      "date": "2026-02-23",
-      "startTime": "18:30",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "ltEYrq_AG_3_cYxKkGAhQ",
-      "schoolName": "大泉第四小学校",
-      "date": "2026-02-23",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "eY5uUG6U3YWEdN1HSMTIa",
-      "schoolName": "大泉第四小学校",
-      "date": "2026-02-23",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "BmTxEBfyZyGpEEOHR4ySz",
-      "schoolName": "大泉学園緑小学校",
-      "date": "2026-02-23",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ソフトバレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "Ck-YpBfFnIybCjW3-oxoe",
-      "schoolName": "大泉学園緑小学校",
-      "date": "2026-02-23",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "lg8mMjBTC0hpm_GFpAncW",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-23",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "SSWlnNsZCO8KxdE6DY-zw",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-23",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "sPoR5yv86qsIHzcaThN9e",
-      "schoolName": "関中学校",
-      "date": "2026-02-23",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "HENVKCptQYuImH3VohRXu",
-      "schoolName": "南町小学校",
-      "date": "2026-02-24",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "GWcGmc_Yhb909KwSGG1sS",
-      "schoolName": "練馬小学校",
-      "date": "2026-02-24",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "APtsp2wtxyy9ivw2BH8NZ",
-      "schoolName": "練馬小学校",
-      "date": "2026-02-24",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "9tTHnhuXgkgPwMWk3S4x-",
-      "schoolName": "練馬第三小学校",
-      "date": "2026-02-24",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "kFyQlkH3CjDNCThpSueS3",
-      "schoolName": "豊渓小学校",
-      "date": "2026-02-24",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "zS07VASUHZ8eLfTv7-LC7",
-      "schoolName": "大泉学園桜小学校",
-      "date": "2026-02-24",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "FFdYnGHPzacboNxPJBr77",
-      "schoolName": "大泉学園桜小学校",
-      "date": "2026-02-24",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "v2uuRO-1xBlfIVvQ6jY7y",
-      "schoolName": "開進第三中学校",
-      "date": "2026-02-24",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "硬式テニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "ilxEYCfVi4gMSm_sGp9yh",
-      "schoolName": "早宮小学校",
-      "date": "2026-02-25",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "28RgDGhreJnmEwpsKYxeu",
-      "schoolName": "南町小学校",
-      "date": "2026-02-25",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "sE8w5nuPyD9XzlXRirGhk",
-      "schoolName": "北町西小学校",
-      "date": "2026-02-25",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "nqJrlGrcsfroch-Gnezvg",
-      "schoolName": "豊渓小学校",
-      "date": "2026-02-25",
-      "startTime": "18:30",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "FOXbAHUUNAyRTbdG1fZXR",
-      "schoolName": "春日小学校",
-      "date": "2026-02-25",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "LGUE6ZoH9dDYE0EgRG8hg",
-      "schoolName": "光が丘夏の雲小学校",
-      "date": "2026-02-25",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "軽スポーツ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "ofj3NITBsL4sc-gbvKR-R",
-      "schoolName": "大泉西小学校",
-      "date": "2026-02-25",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "WJk_jyUmjCKhM2EF6wrO1",
-      "schoolName": "橋戸小学校",
-      "date": "2026-02-25",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "uhLw29Xkxp_Iv48rh2lvi",
-      "schoolName": "豊玉中学校",
-      "date": "2026-02-25",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "硬式テニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "v_6DmvSmeHzSgbDCHR6UM",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-25",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "5uAKQUFp7LACkv-uGT3hE",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-25",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "C2IlytZYP5Dri_rQ7dkPa",
-      "schoolName": "大泉中学校",
-      "date": "2026-02-25",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "5xf2GGDjuk_PKUKQnp6pU",
-      "schoolName": "練馬小学校",
-      "date": "2026-02-26",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "軽スポーツ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "7B78YF7vvqGerR7NN4kqc",
-      "schoolName": "光が丘夏の雲小学校",
-      "date": "2026-02-26",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "2MsdJBwUxYlZP75_2qema",
-      "schoolName": "光が丘夏の雲小学校",
-      "date": "2026-02-26",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "QTNzrVG4byWnXV1Y0LRJD",
-      "schoolName": "光が丘秋の陽小学校",
-      "date": "2026-02-26",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "軽スポーツ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "VP_DyWkOZnA36Zl9suEQJ",
-      "schoolName": "開進第三中学校",
-      "date": "2026-02-26",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "硬式テニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "DjTlDRSKGIU1C6wgiRCCT",
-      "schoolName": "早宮小学校",
-      "date": "2026-02-27",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "7rT_FWLrLPlLXyvs8jNY0",
-      "schoolName": "北町西小学校",
-      "date": "2026-02-27",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "軽スポーツ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "R9adZCtm-XrVusbX1wtKr",
-      "schoolName": "練馬第三小学校",
-      "date": "2026-02-27",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "JSZVBHV6wG_e-nirXpFtY",
-      "schoolName": "春日小学校",
-      "date": "2026-02-27",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "4-Zxe1oXApemEI4FflgLr",
-      "schoolName": "春日小学校",
-      "date": "2026-02-27",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "74iw1sa7Ow-QBxBNzPzRB",
-      "schoolName": "関中学校",
-      "date": "2026-02-27",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "cOEAL6hWGImr3RPs88zRO",
-      "schoolName": "早宮小学校",
-      "date": "2026-02-28",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "インディアカ"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "hNQj2pjti52qP40TFSAaS",
-      "schoolName": "石神井西小学校",
-      "date": "2026-02-28",
-      "startTime": "13:00",
-      "endTime": "15:00",
-      "sports": [
-        "ラケットテニス"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "QZV_MfTft7_1o2k2fdZfQ",
-      "schoolName": "大泉第四小学校",
-      "date": "2026-02-28",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "卓球"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "4FcOvLHecczHWAC9ngCN4",
-      "schoolName": "大泉第四小学校",
-      "date": "2026-02-28",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "バドミントン"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "txrQrV-MhUH7Z_RfZG8hI",
-      "schoolName": "大泉西小学校",
-      "date": "2026-02-28",
-      "startTime": "14:00",
-      "endTime": "16:00",
-      "sports": [
-        "バレーボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "Dux0VZ4r1OUKKJbyUB4pW",
-      "schoolName": "大泉学園桜小学校",
-      "date": "2026-02-28",
-      "startTime": "18:30",
-      "endTime": "20:30",
-      "sports": [
-        "バスケットボール"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "zKhzRwWNBM_ZDPNaMJE6m",
-      "schoolName": "橋戸小学校",
-      "date": "2026-02-28",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "sports": [
-        "ミニバスケット"
-      ],
-      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
-    },
-    {
-      "id": "-6yES0StanCVwsSAr4Fsi",
+      "id": "3QYyj5dgybCj4s50gRAzp",
       "schoolName": "光和小学校",
       "date": "2026-03-01",
       "startTime": "15:00",
@@ -2740,7 +12,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "7iKZEYcj2KTvkKPmeZxJV",
+      "id": "iYkwXfLIvywB0otv6Vqd2",
       "schoolName": "関中学校",
       "date": "2026-03-01",
       "startTime": "12:30",
@@ -2751,7 +23,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "UAE3aFreFgoCLN7dR5m6B",
+      "id": "Ru8KUn_mmUzEid1Ve0iyE",
       "schoolName": "春日小学校",
       "date": "2026-03-02",
       "startTime": "19:00",
@@ -2762,7 +34,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "PzsVzYxbTqfXHqaPcKzhV",
+      "id": "iWNNTvOIXa7rZQ7Oi6WS0",
       "schoolName": "春日小学校",
       "date": "2026-03-02",
       "startTime": "19:00",
@@ -2773,7 +45,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "rK9LSIjPufXFQGqJHx499",
+      "id": "1bk7a0zb7XxCrHICfB4iU",
       "schoolName": "豊玉中学校",
       "date": "2026-03-02",
       "startTime": "19:00",
@@ -2784,7 +56,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "L07Gxwa9sdn3JJm3GNwM1",
+      "id": "m2iLN41aXpsqgHFsfJbRh",
       "schoolName": "大泉中学校",
       "date": "2026-03-02",
       "startTime": "19:00",
@@ -2795,7 +67,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "JcldiGnE484FhDI7CslBa",
+      "id": "3CUlH56CkcSZ2_ICDxD5t",
       "schoolName": "大泉中学校",
       "date": "2026-03-02",
       "startTime": "19:00",
@@ -2806,7 +78,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "2NkzV-y_pP6AfUxQr8qzJ",
+      "id": "RM99BGIhzU3YboZi8feI9",
       "schoolName": "豊渓小学校",
       "date": "2026-03-03",
       "startTime": "19:00",
@@ -2817,7 +89,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "vejTghovwydM4HKUWHPJ3",
+      "id": "VFlgLa0h5xqgtGTyNIIkh",
       "schoolName": "大泉学園桜小学校",
       "date": "2026-03-03",
       "startTime": "19:00",
@@ -2828,7 +100,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "37z92hP2mXv7C7mnKPYvA",
+      "id": "6ry9xSRSOWh3Jz1TWAAxs",
       "schoolName": "大泉学園桜小学校",
       "date": "2026-03-03",
       "startTime": "19:00",
@@ -2839,7 +111,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "xiw2MG9LKhEjwlo3WLT0x",
+      "id": "gmNJe5zQyehtG9rW4uNcW",
       "schoolName": "開進第三中学校",
       "date": "2026-03-03",
       "startTime": "19:00",
@@ -2850,7 +122,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "8jhT-4o7DJRTFan3b_uPP",
+      "id": "meELNtEquod5qH32Koo25",
       "schoolName": "南町小学校",
       "date": "2026-03-04",
       "startTime": "19:00",
@@ -2861,7 +133,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "ADz19dvhIPskRqs5nG8E9",
+      "id": "l96T-Pff6AAIGLiBJCKwG",
       "schoolName": "南町小学校",
       "date": "2026-03-04",
       "startTime": "19:00",
@@ -2872,7 +144,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "T3o0yM2KzjL11ORliqM-B",
+      "id": "xLIM3xcnZOAQJqCEphG1m",
       "schoolName": "北町西小学校",
       "date": "2026-03-04",
       "startTime": "19:00",
@@ -2883,7 +155,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "_2d3aWM3r87x85j4hZxWd",
+      "id": "kzA8fzhNDWUY7fgeI3_ua",
       "schoolName": "春日小学校",
       "date": "2026-03-04",
       "startTime": "19:00",
@@ -2894,7 +166,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "W_DInZHWoNkoB2d45YWsF",
+      "id": "iKpIZNKfV1bJRFENm_8-u",
       "schoolName": "光が丘夏の雲小学校",
       "date": "2026-03-04",
       "startTime": "19:00",
@@ -2905,7 +177,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "YDhPnWOUGt9QRh1FetEjO",
+      "id": "HV8g-JmqmGFtxAWySVGox",
       "schoolName": "橋戸小学校",
       "date": "2026-03-04",
       "startTime": "19:00",
@@ -2916,7 +188,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "tZ0wTPaWP5ChiUG461WPq",
+      "id": "0EKyKcFwcK9BF3dHI7y4z",
       "schoolName": "豊玉中学校",
       "date": "2026-03-04",
       "startTime": "19:00",
@@ -2927,7 +199,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "JGdBJ8jpiavkEvEfFsuoj",
+      "id": "kHlySVqItuNaIZgsf3s76",
       "schoolName": "豊渓小学校",
       "date": "2026-03-05",
       "startTime": "19:00",
@@ -2938,7 +210,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "FJHtoF4APvcO_hzwAUaZ1",
+      "id": "al3TyNPqxC1m8nj8c5aeW",
       "schoolName": "光が丘夏の雲小学校",
       "date": "2026-03-05",
       "startTime": "19:00",
@@ -2949,7 +221,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "HpZzjXZKQM5mm5gjK0Rps",
+      "id": "l_tnC9_xT3dbhCCmlhNOG",
       "schoolName": "光が丘夏の雲小学校",
       "date": "2026-03-05",
       "startTime": "19:00",
@@ -2960,7 +232,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "-sm-4r4b6j8rkehULDTmW",
+      "id": "VyfE4ON4Qeq7B6xUT5HGb",
       "schoolName": "北町西小学校",
       "date": "2026-03-06",
       "startTime": "19:00",
@@ -2971,7 +243,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "tLYF8F3y2e_MYglCnHFMn",
+      "id": "6Jr93e9FsLF-h38l7FGMB",
       "schoolName": "春日小学校",
       "date": "2026-03-06",
       "startTime": "19:00",
@@ -2982,7 +254,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "fh5TWQPoTCIOGDpIk-594",
+      "id": "uOyKh0SCtruVIu-xZVasI",
       "schoolName": "春日小学校",
       "date": "2026-03-06",
       "startTime": "19:00",
@@ -2993,7 +265,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "XTXMBWyp42iNLiPgKaaKn",
+      "id": "V3hWpg6yBIceKJV3gfbdx",
       "schoolName": "関中学校",
       "date": "2026-03-06",
       "startTime": "19:00",
@@ -3004,7 +276,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "HQyq0xhfyl0d1Ojj_TCke",
+      "id": "km759yrRj9ch5KgVmTEsz",
       "schoolName": "大泉学園桜小学校",
       "date": "2026-03-07",
       "startTime": "18:30",
@@ -3015,7 +287,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "1AiayUEdq4i-8o-fgzE16",
+      "id": "W1lvre0xsDKsFKRM87zUQ",
       "schoolName": "豊玉中学校",
       "date": "2026-03-07",
       "startTime": "19:00",
@@ -3026,7 +298,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "smRBbzBP1ozhxz66tSgTl",
+      "id": "UA5O922oAKgJPI8BwISnv",
       "schoolName": "豊玉中学校",
       "date": "2026-03-09",
       "startTime": "19:00",
@@ -3037,7 +309,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "BTgG4gnmeCVKSZiqlhZF2",
+      "id": "WDQhJh-hSNc0FZgrb70UT",
       "schoolName": "関中学校",
       "date": "2026-03-09",
       "startTime": "19:00",
@@ -3048,7 +320,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "CVCQmYkJcOf72UxWoLZVu",
+      "id": "dfslq9g59SuMLkWC0GDR1",
       "schoolName": "大泉学園桜小学校",
       "date": "2026-03-10",
       "startTime": "19:00",
@@ -3059,7 +331,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "W_SwzeskI6NziaDmGRo-i",
+      "id": "vuK5qYwr5iu5iUMnaAyyX",
       "schoolName": "大泉学園桜小学校",
       "date": "2026-03-10",
       "startTime": "19:00",
@@ -3070,7 +342,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "6sNNmNs5oX9oOVqYz9mFC",
+      "id": "pmmr_2p0Fv7fxm8mjQT-C",
       "schoolName": "開進第三中学校",
       "date": "2026-03-10",
       "startTime": "19:00",
@@ -3081,7 +353,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "xuaFb7PV_qUy9VBcHo_1f",
+      "id": "E2EveX9eGqTfzDmbjrLQc",
       "schoolName": "豊玉中学校",
       "date": "2026-03-11",
       "startTime": "19:00",
@@ -3092,7 +364,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "PTo1yhQ_X1agMORZY4qqv",
+      "id": "og9BV5WLvCpkCqXHnQaFb",
       "schoolName": "開進第三中学校",
       "date": "2026-03-12",
       "startTime": "19:00",
@@ -3103,7 +375,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "KXsOEV6t6u_aD_OVf7_be",
+      "id": "oaBKbdM0skDxFUFa6ILq6",
       "schoolName": "関中学校",
       "date": "2026-03-13",
       "startTime": "19:00",
@@ -3114,7 +386,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "We02lg-S-zmB3rFuieFwr",
+      "id": "C4-LMx0NnJXANctz_v5c4",
       "schoolName": "大泉学園桜小学校",
       "date": "2026-03-14",
       "startTime": "18:30",
@@ -3125,7 +397,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "hZgGbuAfDBOh49rm4aoHw",
+      "id": "nuzTFlIKMrTXhQs3TigOE",
       "schoolName": "大泉学園桜小学校",
       "date": "2026-03-17",
       "startTime": "19:00",
@@ -3136,7 +408,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "HojRaYDdgXoDDKAGG5qyk",
+      "id": "3Mf98ALMn0Q-wwRM6uEpF",
       "schoolName": "大泉学園桜小学校",
       "date": "2026-03-17",
       "startTime": "19:00",
@@ -3147,7 +419,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "8WqOnusvcnWSITDZLXOS8",
+      "id": "o1n1BTv29AYEUSjqjQFoH",
       "schoolName": "開進第三中学校",
       "date": "2026-03-19",
       "startTime": "19:00",
@@ -3158,7 +430,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "lVcJuQ_tZAkLhFVZoMr7R",
+      "id": "XH1a3O2AmzBTUTGKWNyhN",
       "schoolName": "関中学校",
       "date": "2026-03-20",
       "startTime": "19:00",
@@ -3169,7 +441,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "yEKkQ_ZTpQBpBB9QMrKVM",
+      "id": "ZrPWv9t3eIzqUrLu4ZKpD",
       "schoolName": "大泉学園桜小学校",
       "date": "2026-03-21",
       "startTime": "18:30",
@@ -3180,7 +452,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "01jBICKT7jWWr3Jyebb0Y",
+      "id": "NHzvjJTYDamyHLLSZaPmU",
       "schoolName": "豊玉中学校",
       "date": "2026-03-23",
       "startTime": "19:00",
@@ -3191,7 +463,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "gmQx6yHgi3zaW-P3Bt2zz",
+      "id": "aSjLBks_jUIGUXSumfQg6",
       "schoolName": "関中学校",
       "date": "2026-03-23",
       "startTime": "19:00",
@@ -3202,7 +474,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "UtSqjjonnVHNC1rBsVFl2",
+      "id": "sVhFo70XlxXa9u0PuBPJL",
       "schoolName": "大泉学園桜小学校",
       "date": "2026-03-24",
       "startTime": "19:00",
@@ -3213,7 +485,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "Z902UMsEN-ltzCQdc6bUZ",
+      "id": "bMAFjxoDAuCpqo1cyOTu9",
       "schoolName": "大泉学園桜小学校",
       "date": "2026-03-24",
       "startTime": "19:00",
@@ -3224,7 +496,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "Sgsg6virUkjlKXRtBVcA_",
+      "id": "w7ddyQK62HaXl4dCcoytB",
       "schoolName": "開進第三中学校",
       "date": "2026-03-24",
       "startTime": "19:00",
@@ -3235,7 +507,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "GMtOZLBW5aCZNC1DTDKyZ",
+      "id": "Pn-ZE2QBXqpGUNJuo-LOi",
       "schoolName": "光が丘夏の雲小学校",
       "date": "2026-03-25",
       "startTime": "19:00",
@@ -3246,7 +518,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "npOnFjfquhCBETuK_4F_K",
+      "id": "QaLtE2k_vPtn6cmdR5Cp-",
       "schoolName": "豊玉中学校",
       "date": "2026-03-25",
       "startTime": "19:00",
@@ -3257,7 +529,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "2VKKaWJpeOLDm-z7s15kI",
+      "id": "lz39goKYJW5uOTUVHIQ1l",
       "schoolName": "大泉中学校",
       "date": "2026-03-25",
       "startTime": "19:00",
@@ -3268,7 +540,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "XQHd7VdSIXDstEJpkk5x8",
+      "id": "k2IW7wFxsu-wGPuGmzxEK",
       "schoolName": "大泉中学校",
       "date": "2026-03-25",
       "startTime": "19:00",
@@ -3279,7 +551,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "Cd-kBkoG0dxJZ3erxVC1w",
+      "id": "Q2IPnHChgH03K6iprUZZx",
       "schoolName": "大泉中学校",
       "date": "2026-03-25",
       "startTime": "19:00",
@@ -3290,7 +562,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "LmQIj423ZiCpyFP4JD7IH",
+      "id": "cE6JjMOTucHkFdpUJOnq_",
       "schoolName": "光が丘夏の雲小学校",
       "date": "2026-03-26",
       "startTime": "19:00",
@@ -3301,7 +573,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "yQ2h7ttn-dIpEIT1wVerU",
+      "id": "z8DZzy4vZoOsAcojGubxz",
       "schoolName": "光が丘夏の雲小学校",
       "date": "2026-03-26",
       "startTime": "19:00",
@@ -3312,7 +584,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "6IoDf6bye3HL_UnIL7JRn",
+      "id": "cZgHRKItB02HTI3cqXUnz",
       "schoolName": "光和小学校",
       "date": "2026-03-26",
       "startTime": "19:00",
@@ -3323,7 +595,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "Z2LmNALZAcG3xJrzGn8nh",
+      "id": "iT1RNDIbMyQz-fxZokJ_7",
       "schoolName": "開進第三中学校",
       "date": "2026-03-26",
       "startTime": "19:00",
@@ -3334,7 +606,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "KtDlH3zfE6DYVOr7Le608",
+      "id": "GlW853auasvFBGi1Vb-hT",
       "schoolName": "関中学校",
       "date": "2026-03-27",
       "startTime": "19:00",
@@ -3345,7 +617,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "nKscceFv9fNpvYF3LpLdj",
+      "id": "p4VRD9Ytr6FVeG7Dp-BfK",
       "schoolName": "大泉学園桜小学校",
       "date": "2026-03-28",
       "startTime": "18:30",
@@ -3356,7 +628,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "Xq72yqrEccMCkSeVCDRR8",
+      "id": "7uSc95nEc8PSqEMUI7G_d",
       "schoolName": "光和小学校",
       "date": "2026-03-29",
       "startTime": "15:00",
@@ -3367,7 +639,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "LkLb6ZuzR7gQu-BmbhVNx",
+      "id": "Oyq7_A3rarpbFtp7HKIel",
       "schoolName": "豊玉中学校",
       "date": "2026-03-30",
       "startTime": "19:00",
@@ -3378,7 +650,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "8HFl9S8oDoI2LvnrehSpR",
+      "id": "fdtSS-yec4eEMlNc8DYfP",
       "schoolName": "大泉中学校",
       "date": "2026-03-30",
       "startTime": "19:00",
@@ -3389,7 +661,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "DGzoBY0jQi_DT7zVFxuz8",
+      "id": "11V1X2QHQjFaVdxFH9ctQ",
       "schoolName": "大泉中学校",
       "date": "2026-03-30",
       "startTime": "19:00",
@@ -3400,7 +672,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "flhgbsHcWPagbCCmYsJWy",
+      "id": "ZuDJ_Z8tj15SpcujPtxWm",
       "schoolName": "大泉学園桜小学校",
       "date": "2026-03-31",
       "startTime": "19:00",
@@ -3411,7 +683,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "xgn9Kmd4mhhMVq80dr4Jp",
+      "id": "AIJgnUDLXHqRExGHD-dW2",
       "schoolName": "大泉学園桜小学校",
       "date": "2026-03-31",
       "startTime": "19:00",
@@ -3422,7 +694,7 @@
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
     },
     {
-      "id": "qeZJV6P84C4DO4JISAZaY",
+      "id": "Msx_5N5HI0a0d249Tbdee",
       "schoolName": "開進第三中学校",
       "date": "2026-03-31",
       "startTime": "19:00",
@@ -3431,7 +703,2856 @@
         "硬式テニス"
       ],
       "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukannkaihou3.html"
+    },
+    {
+      "id": "eEPYGBtMXVT7hG8f7chP0",
+      "schoolName": "光が丘夏の雲小学校",
+      "date": "2026-04-01",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "41gumsgf9fev4-xiKhl34",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-01",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "aI5txnXhjAPyIhL4jGwPM",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-01",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "xrHp4FeweVyRdI3Llus3g",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-01",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "CQtnTKIlRyGYiuvablCY5",
+      "schoolName": "光が丘夏の雲小学校",
+      "date": "2026-04-02",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "1cGcf2EZtASO2nYxV65Jg",
+      "schoolName": "光が丘夏の雲小学校",
+      "date": "2026-04-02",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "612lMLOk_SZLq1d_ZdnHf",
+      "schoolName": "光和小学校",
+      "date": "2026-04-02",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "qiMEOGM6V6CfEJVM4bJl8",
+      "schoolName": "開進第三中学校",
+      "date": "2026-04-02",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "硬式テニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "mcORHAJoDOSmeLbmA5_H3",
+      "schoolName": "関中学校",
+      "date": "2026-04-03",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "MMUyO6-PT9hUU4gLLTcI5",
+      "schoolName": "大泉学園桜小学校",
+      "date": "2026-04-04",
+      "startTime": "18:30",
+      "endTime": "20:30",
+      "sports": [
+        "バスケットボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "KUm6MmhpdqphNGddvK5-n",
+      "schoolName": "光和小学校",
+      "date": "2026-04-05",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "_AbPMYVvz8mh1UsRK1oun",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-06",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "OX--kwdcCnKfBHaOZ3217",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-06",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "01sS4yIvABBm0XuRnPyPi",
+      "schoolName": "関中学校",
+      "date": "2026-04-06",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "7ppsPpxvEf1lpBwzxjl_i",
+      "schoolName": "大泉学園桜小学校",
+      "date": "2026-04-07",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "RYp56nV0-h5U2uIaMPfj5",
+      "schoolName": "大泉学園桜小学校",
+      "date": "2026-04-07",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "dLUAiTD48U2vPzxGr-qq9",
+      "schoolName": "旭町小学校",
+      "date": "2026-04-08",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "NXQpq1r6sDRXgqclVee17",
+      "schoolName": "光が丘夏の雲小学校",
+      "date": "2026-04-08",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "ToM8WPSFm-iTUZwC1LOl7",
+      "schoolName": "豊玉小学校",
+      "date": "2026-04-09",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "zooE2xtAb0kGfmZQ4a73y",
+      "schoolName": "豊玉東小学校",
+      "date": "2026-04-09",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "vtGCZwDpoves3Zo6UrITA",
+      "schoolName": "練馬小学校",
+      "date": "2026-04-09",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "NeK2BRRamFRIiLhhZlPUs",
+      "schoolName": "光が丘春の風小学校",
+      "date": "2026-04-09",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "wA2JGV-2i2ji53oSYugKD",
+      "schoolName": "光が丘夏の雲小学校",
+      "date": "2026-04-09",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "CV5DeZmyeF4fMXwpSaXlv",
+      "schoolName": "光が丘夏の雲小学校",
+      "date": "2026-04-09",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "lpWFu3YfCO-jyyiXJT738",
+      "schoolName": "光が丘秋の陽小学校",
+      "date": "2026-04-09",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "-YA5bKynqlaEMZ3JDYX_N",
+      "schoolName": "上石神井北小学校",
+      "date": "2026-04-09",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "_1wMKIyz7fEQwldoMPLTH",
+      "schoolName": "光和小学校",
+      "date": "2026-04-09",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "O58tdfzcLbq14QyzQuHw9",
+      "schoolName": "大泉南小学校",
+      "date": "2026-04-09",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "a9mZtuFL5_7pqTwk1E7fD",
+      "schoolName": "南が丘小学校",
+      "date": "2026-04-09",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "インディアカ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "sW5GcVm4updsRJa5Gjm5l",
+      "schoolName": "開進第三中学校",
+      "date": "2026-04-09",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "硬式テニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "IuIBsVKL1ag7TOhNW_YcR",
+      "schoolName": "豊玉小学校",
+      "date": "2026-04-10",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "sYN4V9eRNA8zdYOw2G3lU",
+      "schoolName": "早宮小学校",
+      "date": "2026-04-10",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "_qIvguKVKL1xWTSBxA6Mq",
+      "schoolName": "光が丘四季の香小学校",
+      "date": "2026-04-10",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "D6gxrYsicMmgyQ81vcY_h",
+      "schoolName": "大泉南小学校",
+      "date": "2026-04-10",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "39nhrFEsKOtwv7jgWB10E",
+      "schoolName": "関中学校",
+      "date": "2026-04-10",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "2dqgR4YpLPbGPEk-P23Qz",
+      "schoolName": "橋戸小学校",
+      "date": "2026-04-11",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "N6y8pGc95xhGxmTomfwTi",
+      "schoolName": "石神井小学校",
+      "date": "2026-04-12",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "LWKXvXqex5UI6dIX_uZww",
+      "schoolName": "関中学校",
+      "date": "2026-04-12",
+      "startTime": "12:30",
+      "endTime": "14:30",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "V1PupaDUc8vRMovylOltW",
+      "schoolName": "豊玉小学校",
+      "date": "2026-04-13",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "mMhqPh8FrSv0TqVmnHsA_",
+      "schoolName": "早宮小学校",
+      "date": "2026-04-13",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "y4EMoDmA_0RNKP-_5IzQA",
+      "schoolName": "開進第一小学校",
+      "date": "2026-04-13",
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "sports": [
+        "キャッチバレー"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "2z-sMB6ohjScqJJMmFe8P",
+      "schoolName": "開進第一小学校",
+      "date": "2026-04-13",
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "RW5Y5rpODQDHVFSRa0rlU",
+      "schoolName": "南町小学校",
+      "date": "2026-04-13",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "テニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "IifaneXNATUBZIRDJAAaj",
+      "schoolName": "春日小学校",
+      "date": "2026-04-13",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ボッチャ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "0fMVnTLTZL5wRa-TMG0lb",
+      "schoolName": "春日小学校",
+      "date": "2026-04-13",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "rGKFdGBzOSOj4fHoYqWKw",
+      "schoolName": "光が丘秋の陽小学校",
+      "date": "2026-04-13",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "iboWyJUpAlNfY9Al0Nt3Q",
+      "schoolName": "石神井小学校",
+      "date": "2026-04-13",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "aH2mXhmLe38KxDCPNZSWV",
+      "schoolName": "上石神井北小学校",
+      "date": "2026-04-13",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ソフトバレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "DjewjSX4mipv1VJHi0_LL",
+      "schoolName": "大泉第四小学校",
+      "date": "2026-04-13",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "vF10NN2o7WhsdVPQ5coSD",
+      "schoolName": "大泉第四小学校",
+      "date": "2026-04-13",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "jF8isdexF_9fjeoeWi6CX",
+      "schoolName": "南が丘小学校",
+      "date": "2026-04-13",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "インディアカ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "f8r2IiJ3Yp0RdyKWgdOlj",
+      "schoolName": "豊玉中学校",
+      "date": "2026-04-13",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "JzvdnzqTSHHL9I58UVgoD",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-13",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "I7aO2HZvSQyQ3P1wLIYwA",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-13",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "FC3kRLsdxA0RdM4UPfdLj",
+      "schoolName": "豊玉東小学校",
+      "date": "2026-04-14",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "QS0xQMkOqMpkbITJdxszK",
+      "schoolName": "開進第一小学校",
+      "date": "2026-04-14",
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "lF72pcqcxnxk6df8uKn8Z",
+      "schoolName": "開進第一小学校",
+      "date": "2026-04-14",
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "l4QSmOYui_2cAdtdegQxZ",
+      "schoolName": "南町小学校",
+      "date": "2026-04-14",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "_WKskWqgY_zPO8T36JHh4",
+      "schoolName": "練馬小学校",
+      "date": "2026-04-14",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Ukeaq70djWVdYk6MPZykz",
+      "schoolName": "練馬小学校",
+      "date": "2026-04-14",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "9z-cqjJ_FWmWmVketUBMG",
+      "schoolName": "豊渓小学校",
+      "date": "2026-04-14",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "XM-hoCqYfBg6-VuaviAGE",
+      "schoolName": "光が丘四季の香小学校",
+      "date": "2026-04-14",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "g8Hr6RcLn4BcbU3uODZz3",
+      "schoolName": "大泉第一小学校",
+      "date": "2026-04-14",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "zkdzsAkHG0xfNDYRZWjnb",
+      "schoolName": "大泉学園桜小学校",
+      "date": "2026-04-14",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "v6TTI50RwtFdfhbDxOcHm",
+      "schoolName": "大泉学園桜小学校",
+      "date": "2026-04-14",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "tri1WIx59BnmA3H2yCNhC",
+      "schoolName": "南が丘小学校",
+      "date": "2026-04-14",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "YJZs60R88LOB4SARgbigm",
+      "schoolName": "仲町小学校",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "yvFswwqySL5B2HQJfi9UC",
+      "schoolName": "南町小学校",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "bld3WxypTt8LfYxHraHCx",
+      "schoolName": "北町西小学校",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "SjYr_0Tg4pfdz-nDZ2oSr",
+      "schoolName": "旭町小学校",
+      "date": "2026-04-15",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "gGsixj21XKDBWdtOXzPwa",
+      "schoolName": "春日小学校",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "z5Cnr8kHlAqRUCCYltcTi",
+      "schoolName": "光が丘四季の香小学校",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Arv9nTZXAmtAEYbZhuMuV",
+      "schoolName": "光が丘春の風小学校",
+      "date": "2026-04-15",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "sports": [
+        "バスケットボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "0pPuurb6WDSd1r8mKRg1T",
+      "schoolName": "光が丘夏の雲小学校",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "EkOWfiI_mgg3f_ZA2lkpm",
+      "schoolName": "石神井小学校",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "_CkGDNfiWJuBQl1rHBJ5O",
+      "schoolName": "石神井小学校",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "インディアカ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "MmrVvFQMrv_kKQ9C1QL6R",
+      "schoolName": "上石神井北小学校",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "fGdJjAISNw6j94AdobAqK",
+      "schoolName": "大泉西小学校",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "OaUW5USLXdN3wAjBsUoNq",
+      "schoolName": "豊玉中学校",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "硬式テニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "GdxB5qhXrPc9tHu8EpwrM",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "nVlMM0G1KpcGi_9ni-kTn",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "oRVeGvTUPo0wyjMDuyh_S",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "3XaU2jEitpljNFAOAqS-2",
+      "schoolName": "豊玉小学校",
+      "date": "2026-04-16",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Yzi7R6B9ue_Td8jbeeW4b",
+      "schoolName": "豊玉東小学校",
+      "date": "2026-04-16",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Yy7vzBE3wk_8AGKb5G2Z2",
+      "schoolName": "豊玉東小学校",
+      "date": "2026-04-16",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "1i2gGZpmSLT40Ta5DyD8C",
+      "schoolName": "練馬小学校",
+      "date": "2026-04-16",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "ioidAYjjVgptrKOAA6ZSN",
+      "schoolName": "豊渓小学校",
+      "date": "2026-04-16",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Xak4x4v9ZTsYeQ4uvOkkC",
+      "schoolName": "光が丘春の風小学校",
+      "date": "2026-04-16",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "zmV3VYFJMxRkWpx3yO2i7",
+      "schoolName": "光が丘夏の雲小学校",
+      "date": "2026-04-16",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "ud6-aHWLGRLNfknb1Ir_i",
+      "schoolName": "光が丘夏の雲小学校",
+      "date": "2026-04-16",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "EF6BL2P2Aml-FFmVCtQ1o",
+      "schoolName": "光が丘秋の陽小学校",
+      "date": "2026-04-16",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "wG8FA7gTIwhSHO8ig43J4",
+      "schoolName": "石神井台小学校",
+      "date": "2026-04-16",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "oumO2j67ExJXMmpEg9moR",
+      "schoolName": "上石神井北小学校",
+      "date": "2026-04-16",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "mEMyB70wXe-BVLwai9TjM",
+      "schoolName": "光和小学校",
+      "date": "2026-04-16",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "9ZxVvJx0k7UUuWTLmOIxk",
+      "schoolName": "大泉南小学校",
+      "date": "2026-04-16",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "QPQ007NJX0LxcG-YFxEky",
+      "schoolName": "南が丘小学校",
+      "date": "2026-04-16",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "インディアカ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "2L2K-Qfn7WjL7k3_tyMqg",
+      "schoolName": "開進第三中学校",
+      "date": "2026-04-16",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "硬式テニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "N6-w82KFFkoN8hWAwzII5",
+      "schoolName": "豊玉小学校",
+      "date": "2026-04-17",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "FuVyn6QzWJQcz-gePAFWR",
+      "schoolName": "早宮小学校",
+      "date": "2026-04-17",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "キャッチバレー"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "pkOj8uBmCthu34Uio-6vb",
+      "schoolName": "仲町小学校",
+      "date": "2026-04-17",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "TGw8AHq4KML53I6mbJExj",
+      "schoolName": "北町西小学校",
+      "date": "2026-04-17",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "YjPKukrlUrCcwiEZp1qC_",
+      "schoolName": "練馬第三小学校",
+      "date": "2026-04-17",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "YXy6xPEMj2Y9yPsTmH8Ag",
+      "schoolName": "春日小学校",
+      "date": "2026-04-17",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "RycSDtR84LIEINahJmmhd",
+      "schoolName": "春日小学校",
+      "date": "2026-04-17",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "eWq1jG2bGj9rj03cPxFhC",
+      "schoolName": "光が丘四季の香小学校",
+      "date": "2026-04-17",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "dkoydJkIUDUk_l4n4yciL",
+      "schoolName": "大泉南小学校",
+      "date": "2026-04-17",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "vqk7MObHDb_hgBs6mi_Xw",
+      "schoolName": "関中学校",
+      "date": "2026-04-17",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "LJmwjDG2UEa6yGPAvhuYa",
+      "schoolName": "早宮小学校",
+      "date": "2026-04-18",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "インディアカ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "xy5MzIDnd1-eFcBTFUfqV",
+      "schoolName": "旭町小学校",
+      "date": "2026-04-18",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "sports": [
+        "ミニテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "zgHBz_kte7-Ky8ub0ZbzX",
+      "schoolName": "光が丘春の風小学校",
+      "date": "2026-04-18",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "ZUMJ3oUCaxHOtw6xduDTa",
+      "schoolName": "石神井西小学校",
+      "date": "2026-04-18",
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "zJd62-5ESCpOx5tcI4HbP",
+      "schoolName": "大泉第四小学校",
+      "date": "2026-04-18",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "FKxyUvxRaQDzNKthBWCep",
+      "schoolName": "大泉第四小学校",
+      "date": "2026-04-18",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "kauXx-UvhhGjk-opDHdpz",
+      "schoolName": "大泉西小学校",
+      "date": "2026-04-18",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "W-kVo20I9MTldpMIrCsHO",
+      "schoolName": "大泉学園桜小学校",
+      "date": "2026-04-18",
+      "startTime": "18:30",
+      "endTime": "20:30",
+      "sports": [
+        "バスケットボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "l5NAq8yv4LhAA06nFlWK_",
+      "schoolName": "橋戸小学校",
+      "date": "2026-04-18",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "nua1Dy9_CMaxR3YehkFgp",
+      "schoolName": "豊玉中学校",
+      "date": "2026-04-18",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "フットサル"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "syJxZffqtOy7OSXSw52Ws",
+      "schoolName": "南町小学校",
+      "date": "2026-04-19",
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "sports": [
+        "パドルテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "XFLEDi6pKXoBoO5rIDst5",
+      "schoolName": "北町西小学校",
+      "date": "2026-04-19",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Jd8nlU--EDNT88IxPvuiE",
+      "schoolName": "石神井小学校",
+      "date": "2026-04-19",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "_3UOuGdXV28IPJnGRNber",
+      "schoolName": "石神井西小学校",
+      "date": "2026-04-19",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "EXmhHVHAcOoCr1yyGP0xB",
+      "schoolName": "光和小学校",
+      "date": "2026-04-19",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "3EicIt4hLaj7Y9ArQouHi",
+      "schoolName": "豊玉小学校",
+      "date": "2026-04-20",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Q3szYInUPHmbbyiRfe3Cx",
+      "schoolName": "開進第一小学校",
+      "date": "2026-04-20",
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "sports": [
+        "キャッチバレー"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "YbdFnRilsjqiCQRRpv7od",
+      "schoolName": "開進第一小学校",
+      "date": "2026-04-20",
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "ydimrcfK8V2eIqP_VUjme",
+      "schoolName": "春日小学校",
+      "date": "2026-04-20",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ボッチャ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "3g5vAHXT09Ymtme3e6g4-",
+      "schoolName": "春日小学校",
+      "date": "2026-04-20",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "N8b6wvS4Jgj2OigyBTwAO",
+      "schoolName": "光が丘秋の陽小学校",
+      "date": "2026-04-20",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "_0ROQaRLOrbvyVC5gXuUz",
+      "schoolName": "石神井小学校",
+      "date": "2026-04-20",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "7-yV-NP-dyiZq6kJ9N3UG",
+      "schoolName": "上石神井北小学校",
+      "date": "2026-04-20",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ソフトバレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "P7Ck0715j4SYdLnrVfhyD",
+      "schoolName": "大泉第四小学校",
+      "date": "2026-04-20",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "ov37ck6Orpb2VvwoqLS3F",
+      "schoolName": "大泉第四小学校",
+      "date": "2026-04-20",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "LWuYOvR8ZmsKkUFgB_n4O",
+      "schoolName": "南が丘小学校",
+      "date": "2026-04-20",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "インディアカ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Vbv6roS2oblf76NvAsXU7",
+      "schoolName": "豊玉中学校",
+      "date": "2026-04-20",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Scpf_Cz8t596c5VkOHgXc",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-20",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "ufQh1Qjba7rdArF889eYT",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-20",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "_E_pAWTt_srL2WqZTYZ92",
+      "schoolName": "豊玉東小学校",
+      "date": "2026-04-21",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "cNaT_j4Kk8zGFUMXtS0g-",
+      "schoolName": "開進第一小学校",
+      "date": "2026-04-21",
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "hr-qQccYjhEt8oHwzfDEC",
+      "schoolName": "開進第一小学校",
+      "date": "2026-04-21",
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "dzkHpjY5N7Wdn5Q3vXh_a",
+      "schoolName": "開進第四小学校",
+      "date": "2026-04-21",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "oDbkdLqx8TICVXhTFf1Nm",
+      "schoolName": "練馬小学校",
+      "date": "2026-04-21",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "C5l0AWBRArmu2Sv-HJ00V",
+      "schoolName": "練馬小学校",
+      "date": "2026-04-21",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "jKx91Y_DnnINl_eZqsYeT",
+      "schoolName": "練馬第三小学校",
+      "date": "2026-04-21",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "8DJBHLHxNg8CmUU_d01Rr",
+      "schoolName": "豊渓小学校",
+      "date": "2026-04-21",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "maRvwIUus949HqXz58xTi",
+      "schoolName": "光が丘四季の香小学校",
+      "date": "2026-04-21",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "4ozloRjPnmsRlvDqZ9NVy",
+      "schoolName": "大泉第一小学校",
+      "date": "2026-04-21",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "ItjX3u7aladJ66MhLYRuM",
+      "schoolName": "大泉学園桜小学校",
+      "date": "2026-04-21",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "eCbcXuVDIK4MuulxOM69B",
+      "schoolName": "大泉学園桜小学校",
+      "date": "2026-04-21",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "RrW6CBErVhbf_ypu99P10",
+      "schoolName": "南が丘小学校",
+      "date": "2026-04-21",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "RpNLoEZ4TloXS0OQTB7ZT",
+      "schoolName": "開進第三中学校",
+      "date": "2026-04-21",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "硬式テニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "DlaQjN1KjBoQ5ICh2vQCx",
+      "schoolName": "早宮小学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "liXwa-24VILjNLpkgEIs0",
+      "schoolName": "仲町小学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "KpH6XQZp9o-m-szWm8yXd",
+      "schoolName": "南町小学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "7BeYSb7xxn5TLcEaHAE59",
+      "schoolName": "北町西小学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "oKVowVyFnxKDiuYa_R628",
+      "schoolName": "豊渓小学校",
+      "date": "2026-04-22",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "laLATOxRLOB9eomk2FBD7",
+      "schoolName": "旭町小学校",
+      "date": "2026-04-22",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "kuYdp1s8elXsmhj0ynFr6",
+      "schoolName": "春日小学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "0o4PVbHU0n8F4cI4daKOP",
+      "schoolName": "光が丘四季の香小学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Tvd5gAQ6e6k5miT95adxQ",
+      "schoolName": "光が丘春の風小学校",
+      "date": "2026-04-22",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "sports": [
+        "バスケットボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "gkHWHETsN6pVqw1pIMtmD",
+      "schoolName": "光が丘夏の雲小学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "nUvb-6m2n92c9PoH-0IMV",
+      "schoolName": "石神井小学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Te-B4J3-0a57FRyZtb8Ao",
+      "schoolName": "石神井小学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "インディアカ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Tl1aOrhLHtp6bsUOJmxT7",
+      "schoolName": "上石神井北小学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "mHtEmj2yMlhTdbYtxVd09",
+      "schoolName": "大泉西小学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "veIIupxNpOO-mF2ZN9Z4v",
+      "schoolName": "大泉学園緑小学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ソフトバレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "BlwRSxiguva-5wtZ2H7dk",
+      "schoolName": "大泉学園緑小学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "WV4Y8fqIHdMVPw8aYd5br",
+      "schoolName": "豊玉中学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "硬式テニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "BK96_9U97p5Vto3XoedHT",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "-ypbSnL19Gpm3oHLKMejX",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "wdGx7-Hrp8x_qdh4JtcMI",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "6zDDIa8qb2V1yg59F7cOI",
+      "schoolName": "豊玉小学校",
+      "date": "2026-04-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "vOvGDMwwru-5FRPSPb3xS",
+      "schoolName": "豊玉東小学校",
+      "date": "2026-04-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "SmImYAd_Weu5K5jbPlV3s",
+      "schoolName": "練馬小学校",
+      "date": "2026-04-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "1GSnUnyIzdqeY6iYJzRnI",
+      "schoolName": "光が丘春の風小学校",
+      "date": "2026-04-23",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "2g783mHYzxhTyJb3OSW3T",
+      "schoolName": "光が丘夏の雲小学校",
+      "date": "2026-04-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "ev1QOit5yo3aI4CIKCkZ5",
+      "schoolName": "光が丘夏の雲小学校",
+      "date": "2026-04-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "5oK_xr9x-7xf17NVm93B0",
+      "schoolName": "光が丘秋の陽小学校",
+      "date": "2026-04-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "lGTt4EBOSAP23OEghQ8q0",
+      "schoolName": "石神井台小学校",
+      "date": "2026-04-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "pLjS3teg9r6naJp_JR8Dj",
+      "schoolName": "上石神井北小学校",
+      "date": "2026-04-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "iQiEhBUbLpbDjT0YEW2xM",
+      "schoolName": "光和小学校",
+      "date": "2026-04-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "wOkZlvJGDzqb22cf05Vpy",
+      "schoolName": "大泉第一小学校",
+      "date": "2026-04-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "3mH5B9cPwQxyAGjli7tWp",
+      "schoolName": "大泉第一小学校",
+      "date": "2026-04-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "t5sOPxLPkh8aMgb-LfJQU",
+      "schoolName": "大泉南小学校",
+      "date": "2026-04-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "HUyyf-aYeaPJtsX6L62X-",
+      "schoolName": "南が丘小学校",
+      "date": "2026-04-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "インディアカ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "5g4ceFZ-PcWCsOHJkZK-y",
+      "schoolName": "開進第三中学校",
+      "date": "2026-04-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "硬式テニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "-ZdPqHS6WbBwj6puMnVP0",
+      "schoolName": "豊玉小学校",
+      "date": "2026-04-24",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "_qxxod3MuAJu_ZCNZYTTL",
+      "schoolName": "早宮小学校",
+      "date": "2026-04-24",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "4UtL6VbseBpUOocvAjF-D",
+      "schoolName": "開進第四小学校",
+      "date": "2026-04-24",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Xn2MnQO8GKA98pkOz8Kzv",
+      "schoolName": "仲町小学校",
+      "date": "2026-04-24",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "ZEcjhbxVQE4uUZtv3Fdf2",
+      "schoolName": "北町西小学校",
+      "date": "2026-04-24",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "ueewVo7LGa6ABFW6h1aDs",
+      "schoolName": "練馬第三小学校",
+      "date": "2026-04-24",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "knFqyGm0SZMWpSegwQzgi",
+      "schoolName": "春日小学校",
+      "date": "2026-04-24",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "tgsMy77-fWIHWbTyaTE3J",
+      "schoolName": "春日小学校",
+      "date": "2026-04-24",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "XUwnUnvyk2-xCRNoMsWtv",
+      "schoolName": "光が丘四季の香小学校",
+      "date": "2026-04-24",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "wm7VhtE4Wb0rTmCdIRIhw",
+      "schoolName": "大泉南小学校",
+      "date": "2026-04-24",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "oUL1S2cPsxrKSVbZlBWHm",
+      "schoolName": "関中学校",
+      "date": "2026-04-24",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "RiV6NkQTnbwM15Mkmbhqq",
+      "schoolName": "早宮小学校",
+      "date": "2026-04-25",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "インディアカ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "8Qo1flflufvKhf6cutKVF",
+      "schoolName": "光が丘春の風小学校",
+      "date": "2026-04-25",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "m3UNAVeoGcVn3CR7YxQjN",
+      "schoolName": "石神井西小学校",
+      "date": "2026-04-25",
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "I7KR0O0RGe28vAKGOx15e",
+      "schoolName": "大泉第四小学校",
+      "date": "2026-04-25",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "vD71SGsk-iyHKXmXDsNr_",
+      "schoolName": "大泉第四小学校",
+      "date": "2026-04-25",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Y8_MqX2spgRMa8wAjvWvd",
+      "schoolName": "大泉西小学校",
+      "date": "2026-04-25",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "cDTUAr3j_YA2bvHxLY3J3",
+      "schoolName": "大泉学園桜小学校",
+      "date": "2026-04-25",
+      "startTime": "18:30",
+      "endTime": "20:30",
+      "sports": [
+        "バスケットボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "_lAlVfhwMYwu9jU4KiHEj",
+      "schoolName": "橋戸小学校",
+      "date": "2026-04-25",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "CR69z8t-vO1u5StV4j0Oa",
+      "schoolName": "北町西小学校",
+      "date": "2026-04-26",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "u4gwZGR7eRtgp7spph9ea",
+      "schoolName": "石神井小学校",
+      "date": "2026-04-26",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "nVtvNVjWgcN31Jw3YkiGC",
+      "schoolName": "石神井西小学校",
+      "date": "2026-04-26",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "b62hlaLdaI4moHtWbC18r",
+      "schoolName": "関中学校",
+      "date": "2026-04-26",
+      "startTime": "12:30",
+      "endTime": "14:30",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "oHiN5o4oMs7BQgM2d-qlC",
+      "schoolName": "豊玉小学校",
+      "date": "2026-04-27",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "wU91xy8aGZ72uuf_DFoot",
+      "schoolName": "開進第一小学校",
+      "date": "2026-04-27",
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "sports": [
+        "キャッチバレー"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "O7pTpwpzNokS9Svy--k9h",
+      "schoolName": "開進第一小学校",
+      "date": "2026-04-27",
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "n_KMZ9H6cNmO18hIVayYI",
+      "schoolName": "春日小学校",
+      "date": "2026-04-27",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ボッチャ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "UbcLsJV8xjZV_qpdTeWPe",
+      "schoolName": "春日小学校",
+      "date": "2026-04-27",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Sx8Cgpa3Zl3OslUMxlARv",
+      "schoolName": "光が丘秋の陽小学校",
+      "date": "2026-04-27",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "FnDOHfro9_UXJ2_iSVuMx",
+      "schoolName": "石神井小学校",
+      "date": "2026-04-27",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "f2w3HVANhjblmtRHTL1RN",
+      "schoolName": "上石神井北小学校",
+      "date": "2026-04-27",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ソフトバレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Cww3mxKiCXd1BqegiggSs",
+      "schoolName": "大泉第四小学校",
+      "date": "2026-04-27",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "oqud7XM351YLs73fOXtQi",
+      "schoolName": "大泉第四小学校",
+      "date": "2026-04-27",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "f6mLAAa1qQjgX81B21K6d",
+      "schoolName": "南が丘小学校",
+      "date": "2026-04-27",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "インディアカ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "phbx3hqbSvXRukvJr_u4M",
+      "schoolName": "豊玉中学校",
+      "date": "2026-04-27",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "nj-x4NlaH2STt3Hv6oJnz",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-27",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "EFFvOarQ8XGQ8Qr3wyVUN",
+      "schoolName": "大泉中学校",
+      "date": "2026-04-27",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "-0bEIzmt8BIFuMEeCXnfH",
+      "schoolName": "関中学校",
+      "date": "2026-04-27",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "byWUUEBGwC0Ek6CO5dPRd",
+      "schoolName": "豊玉東小学校",
+      "date": "2026-04-28",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "X-ZNa_pB2ANnBS0dZHNYa",
+      "schoolName": "開進第一小学校",
+      "date": "2026-04-28",
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "l0On4jPGPIjerm8xQFqNU",
+      "schoolName": "開進第一小学校",
+      "date": "2026-04-28",
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "XIglO8h1agHSVBugiCty3",
+      "schoolName": "開進第四小学校",
+      "date": "2026-04-28",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "J6vASLNeR5xE2hF-NP3dm",
+      "schoolName": "練馬小学校",
+      "date": "2026-04-28",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "JEZ41q4r2lur07FMG3MNv",
+      "schoolName": "練馬小学校",
+      "date": "2026-04-28",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "5WB05X-D2XrjRPGCKR0v4",
+      "schoolName": "練馬第三小学校",
+      "date": "2026-04-28",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "jtAykLDVXOBLwamG2JOY4",
+      "schoolName": "豊渓小学校",
+      "date": "2026-04-28",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "EMVOVtn1RVbCMjTKwtgaw",
+      "schoolName": "光が丘四季の香小学校",
+      "date": "2026-04-28",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "znfa9AMeKJHQ35uI-MDLW",
+      "schoolName": "大泉第一小学校",
+      "date": "2026-04-28",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "nfVZ6NclsVj2bChcq08IY",
+      "schoolName": "大泉学園桜小学校",
+      "date": "2026-04-28",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "5O_DFcoYnWbaZ__gYCoO8",
+      "schoolName": "大泉学園桜小学校",
+      "date": "2026-04-28",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "VFaYd8CUNSz3NwKSrkclC",
+      "schoolName": "南が丘小学校",
+      "date": "2026-04-28",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "4p03AY44N4_tcDKLfQMim",
+      "schoolName": "開進第三中学校",
+      "date": "2026-04-28",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "硬式テニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "jkrDSybJZFQ1EP2YSrIm6",
+      "schoolName": "北町西小学校",
+      "date": "2026-04-29",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "n0XN8-GLQj7O1LfbtGdCo",
+      "schoolName": "旭町小学校",
+      "date": "2026-04-29",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "5w37SqtfoXCuoBMG37w-j",
+      "schoolName": "春日小学校",
+      "date": "2026-04-29",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バレーボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "wpnFB0QkSn74_22sinPs7",
+      "schoolName": "光が丘春の風小学校",
+      "date": "2026-04-29",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "sports": [
+        "バスケットボール"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "8nsVHy5zZWDdlKLtrkza5",
+      "schoolName": "光が丘夏の雲小学校",
+      "date": "2026-04-29",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "_z7p9o3KnRH-Kudxbb4_X",
+      "schoolName": "石神井小学校",
+      "date": "2026-04-29",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "dSNf4GkJSwr6_5CDPDPsV",
+      "schoolName": "石神井小学校",
+      "date": "2026-04-29",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "インディアカ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "IzCQzur7iONHQqBmtGOyU",
+      "schoolName": "上石神井北小学校",
+      "date": "2026-04-29",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "un3Iba37wMQ4YPS7pjBL2",
+      "schoolName": "大泉西小学校",
+      "date": "2026-04-29",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "Q4zTy6a3GtaFAzzm-b3Lf",
+      "schoolName": "豊玉小学校",
+      "date": "2026-04-30",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "zom9iziC0rPfQtaBDbquR",
+      "schoolName": "豊玉東小学校",
+      "date": "2026-04-30",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "ラケットテニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "ki2MNkZvi71NvPSQXFeSG",
+      "schoolName": "練馬小学校",
+      "date": "2026-04-30",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "軽スポーツ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "B0aVG31NEuZYmAbQVWKAG",
+      "schoolName": "豊渓小学校",
+      "date": "2026-04-30",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "j5zXYLWtaEcloinFTrMO4",
+      "schoolName": "光が丘春の風小学校",
+      "date": "2026-04-30",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "TIY2M68sU39LhuhesIdDN",
+      "schoolName": "石神井台小学校",
+      "date": "2026-04-30",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "kAFpJgh5BEraLlvIXcia5",
+      "schoolName": "上石神井北小学校",
+      "date": "2026-04-30",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "IPRhifpMmYVIjyTIjyyeV",
+      "schoolName": "光和小学校",
+      "date": "2026-04-30",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "8L1xDS6VLSj9K7bqOLH6j",
+      "schoolName": "大泉第一小学校",
+      "date": "2026-04-30",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "卓球"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "kCUL_oXmrtlmRd87aVNuX",
+      "schoolName": "大泉第一小学校",
+      "date": "2026-04-30",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "wIVoz6a_ojwzkivy8x6k0",
+      "schoolName": "大泉南小学校",
+      "date": "2026-04-30",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "バドミントン"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "9Q9LUACAYDAilRy_g7YuP",
+      "schoolName": "南が丘小学校",
+      "date": "2026-04-30",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "インディアカ"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
+    },
+    {
+      "id": "hBk7tL28gzIuCNwBdhWDK",
+      "schoolName": "開進第三中学校",
+      "date": "2026-04-30",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "sports": [
+        "硬式テニス"
+      ],
+      "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html"
     }
   ],
-  "lastUpdated": "2026-03-26T01:38:54.055Z"
+  "lastUpdated": "2026-03-26T03:09:20.060Z"
 }
