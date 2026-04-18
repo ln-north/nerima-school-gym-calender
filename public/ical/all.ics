@@ -6,9 +6,9 @@ X-WR-CALNAME:練馬区 学校体育館個人開放
 TIMEZONE-ID:Asia/Tokyo
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jXEyHhFbeVqVLAg6k9ovn
+UID:PGevyWRpinUsXaxPFFYex
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260301T150000
 DTEND:20260301T170000
 SUMMARY:光和小学校 - 卓球
@@ -20,9 +20,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:jMfzUKwkN0bvBpLT5L1fb
+UID:ZH_4rkU5cy3esF-toJ6wk
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260301T123000
 DTEND:20260301T143000
 SUMMARY:関中学校 - バレーボール
@@ -34,9 +34,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:boUoreoTVfrHcMwrzxzag
+UID:DSf-VFd4Y2RNUujH3OYfe
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260302T190000
 DTEND:20260302T210000
 SUMMARY:春日小学校 - ボッチャ
@@ -48,9 +48,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:3MzDrDt8jD-Et0qv76hxu
+UID:5mznIqSSED1sbca_cU6ix
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260302T190000
 DTEND:20260302T210000
 SUMMARY:春日小学校 - 卓球
@@ -62,9 +62,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:o_-Ea77X4Cte3kgQ6CDc_
+UID:8ag-WfhDZXVTwfQBZvxjm
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260302T190000
 DTEND:20260302T210000
 SUMMARY:豊玉中学校 - バドミントン
@@ -76,9 +76,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:dh-NKU_igzd14lxoxOcif
+UID:XLOOV1gqwdMAt2eWQZJlO
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260302T190000
 DTEND:20260302T210000
 SUMMARY:大泉中学校 - ラケットテニス
@@ -90,9 +90,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2snTZcIbvpO1a6HpdSJ2h
+UID:4ABUqR7-Iy7RcUM12SVCa
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260302T190000
 DTEND:20260302T210000
 SUMMARY:大泉中学校 - バドミントン
@@ -104,9 +104,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:hYvJtGXh9cJ-X3cnNVFq0
+UID:fV3J-g_DJjTgpRMJ0HxEf
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260303T190000
 DTEND:20260303T210000
 SUMMARY:豊渓小学校 - 卓球
@@ -118,9 +118,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:jrjXIz1kN027s2oKmXBKr
+UID:h4-DkLSuowzHEkWnn0XMz
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260303T190000
 DTEND:20260303T210000
 SUMMARY:大泉学園桜小学校 - 卓球
@@ -132,9 +132,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:4hrGHTWRdiKimtU6fh3GB
+UID:b2ZACH4B77-W39VESo7L_
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260303T190000
 DTEND:20260303T210000
 SUMMARY:大泉学園桜小学校 - ラケットテニス
@@ -146,9 +146,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Vq9pjQXiN5qIxw_Addx-2
+UID:9a40CQbq6LXYN0Y7Ol9OH
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260303T190000
 DTEND:20260303T210000
 SUMMARY:開進第三中学校 - 硬式テニス
@@ -160,9 +160,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:b0uHyaIxEaHMyc_Hin0-Z
+UID:Ib92sGL2lqqIHp_VGHsvl
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260304T190000
 DTEND:20260304T210000
 SUMMARY:南町小学校 - パドルテニス
@@ -174,9 +174,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:EGSr32f-zAuwrP_uTeHho
+UID:GlAEznlrMUkxz9GMg0azy
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260304T190000
 DTEND:20260304T210000
 SUMMARY:南町小学校 - 卓球
@@ -188,9 +188,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:fMbkF451g-15DfDoP9efB
+UID:BT8jdvOHFZPjEM9qimBW4
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260304T190000
 DTEND:20260304T210000
 SUMMARY:北町西小学校 - ラケットテニス
@@ -202,9 +202,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:s7ONbCznsXq0qtDz190dx
+UID:Um7rggL3rVvFoG0KNjEO_
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260304T190000
 DTEND:20260304T210000
 SUMMARY:春日小学校 - バレーボール
@@ -216,9 +216,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:wvoirO58BwbnF1nuDrTsy
+UID:4K_9nylixhrHvuIeHllTG
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260304T190000
 DTEND:20260304T210000
 SUMMARY:光が丘夏の雲小学校 - 軽スポーツ
@@ -230,9 +230,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:7i7GgbUF4MYlnSasWGvJ1
+UID:OZwWkki4pV3jnxoYYI9Ek
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260304T190000
 DTEND:20260304T210000
 SUMMARY:橋戸小学校 - 卓球
@@ -244,9 +244,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:w45iOHxRXbXTWjNxW25Oi
+UID:bFd0OCizEft4kZYb67jao
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260304T190000
 DTEND:20260304T210000
 SUMMARY:豊玉中学校 - 硬式テニス
@@ -258,9 +258,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:LozLzRDpzhl6ZUx9E8u1l
+UID:NfamCbmlTD5B58QHKMCH6
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260305T190000
 DTEND:20260305T210000
 SUMMARY:豊渓小学校 - バドミントン
@@ -272,9 +272,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:0Q-9qiLN2e3fDjMkf6xJQ
+UID:hEn2PC-Is56wX_vrz6Me0
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260305T190000
 DTEND:20260305T210000
 SUMMARY:光が丘夏の雲小学校 - バドミントン
@@ -286,9 +286,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ebakLNGgojSZqI6xn7Jfg
+UID:zdm7GQy1y4aMmGYFnJYHS
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260305T190000
 DTEND:20260305T210000
 SUMMARY:光が丘夏の雲小学校 - 卓球
@@ -300,9 +300,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:05_EjPo0xmpdNq3lnqbYp
+UID:WMzsv3V0xT75INWEznDRX
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260306T190000
 DTEND:20260306T210000
 SUMMARY:北町西小学校 - 軽スポーツ
@@ -314,9 +314,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:1NXGS0eBASfk9wqGEv_E4
+UID:8UP9Vz_b3sBRGYVWLaUKw
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260306T190000
 DTEND:20260306T210000
 SUMMARY:春日小学校 - バドミントン
@@ -328,9 +328,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:JT1ZJUHvXyunSPndj-tjn
+UID:7ZCgRl-DmP_BLj3OLYXNg
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260306T190000
 DTEND:20260306T210000
 SUMMARY:春日小学校 - ラケットテニス
@@ -342,9 +342,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:_IG83oOUzIkE3tB3hXfXp
+UID:EPffJyB1TUQljfEAvIXGp
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260306T190000
 DTEND:20260306T210000
 SUMMARY:関中学校 - バドミントン
@@ -356,9 +356,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ySh5fYMKOzI0sxojXIKLn
+UID:fHaKq7L6NAv-LV3hHule-
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260307T183000
 DTEND:20260307T203000
 SUMMARY:大泉学園桜小学校 - バスケットボール
@@ -370,9 +370,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lbTTsK5WzpWS-zr4GDRAm
+UID:V_Yrwu6_m1b6wi-dwKdrt
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260307T190000
 DTEND:20260307T210000
 SUMMARY:豊玉中学校 - フットサル
@@ -384,9 +384,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:4sAKDIaKKpZi22RD7eHuX
+UID:0gNbiCr8WB4mGeNusaFWx
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260309T190000
 DTEND:20260309T210000
 SUMMARY:豊玉中学校 - バドミントン
@@ -398,9 +398,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:yqwKcK30mKoSdOmU2rWjd
+UID:QzEQV9B9gRJN7JTaJeCf5
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260309T190000
 DTEND:20260309T210000
 SUMMARY:関中学校 - バドミントン
@@ -412,9 +412,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:XoANPWKQvj5g4uTGHZ8vI
+UID:ntkSyWmscClULN_oBWTuu
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260310T190000
 DTEND:20260310T210000
 SUMMARY:大泉学園桜小学校 - 卓球
@@ -426,9 +426,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:uDWPEmhc8WLJV_QdEdZhY
+UID:x4XfOQ59NhlKsdpcod3PQ
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260310T190000
 DTEND:20260310T210000
 SUMMARY:大泉学園桜小学校 - ラケットテニス
@@ -440,9 +440,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:MTWHdjg_xgsCR-dkwGTkQ
+UID:-dqCJ6p6oWmtACl5y_Kvb
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260310T190000
 DTEND:20260310T210000
 SUMMARY:開進第三中学校 - 硬式テニス
@@ -454,9 +454,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:pG7cJpOjQZs4R_yOHXUlE
+UID:MuVmdn5UBQPYLUNC44zx5
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260311T190000
 DTEND:20260311T210000
 SUMMARY:豊玉中学校 - 硬式テニス
@@ -468,9 +468,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:y9N3zNTZH-Iqdd2xtEc2w
+UID:hRwU3FSUQwJLI0VVZmEPi
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260312T190000
 DTEND:20260312T210000
 SUMMARY:開進第三中学校 - 硬式テニス
@@ -482,9 +482,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2R1ehqyngwvEpIlhaiTez
+UID:-Mmm74nUPWjquFrc7qIs8
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260313T190000
 DTEND:20260313T210000
 SUMMARY:関中学校 - バドミントン
@@ -496,9 +496,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:H-q9rbErnMJGvytOein6b
+UID:V5zM8KFFiq5Z9j9RngZS8
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260314T183000
 DTEND:20260314T203000
 SUMMARY:大泉学園桜小学校 - バスケットボール
@@ -510,9 +510,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2vIoItBjGvWzM41c4nwJ1
+UID:Xklt7-ZBgPmE5oFxisSA0
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260317T190000
 DTEND:20260317T210000
 SUMMARY:大泉学園桜小学校 - 卓球
@@ -524,9 +524,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lEPkjogWnA4olNNO5IWFA
+UID:AyJXoXXL2sMn4a1Mo7zTN
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260317T190000
 DTEND:20260317T210000
 SUMMARY:大泉学園桜小学校 - ラケットテニス
@@ -538,9 +538,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:aeVvYFf-K3JvD5KvHYs6k
+UID:GWZZi8u1Td5B2o3raQsCY
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260319T190000
 DTEND:20260319T210000
 SUMMARY:開進第三中学校 - 硬式テニス
@@ -552,9 +552,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:k9kevaEFa_yaGTPC-a7er
+UID:_TbXV6gZNssUGMgeyA2Ta
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260320T190000
 DTEND:20260320T210000
 SUMMARY:関中学校 - バドミントン
@@ -566,9 +566,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:YHTiGWchqkHeu1qWFP43l
+UID:s6DupZfBfB5QYwIDo2hqR
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260321T183000
 DTEND:20260321T203000
 SUMMARY:大泉学園桜小学校 - バスケットボール
@@ -580,9 +580,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:raiQcV-gWIljbt8Zkv2MQ
+UID:jLedVd03crYL7C0V4aHLK
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260323T190000
 DTEND:20260323T210000
 SUMMARY:豊玉中学校 - バドミントン
@@ -594,9 +594,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Bw10irOx1tP41VEm9eY-j
+UID:coF1XBpezd5vSMzTudwee
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260323T190000
 DTEND:20260323T210000
 SUMMARY:関中学校 - バドミントン
@@ -608,9 +608,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:k7jDxC3LGk2c7MW0wqRGA
+UID:BawijxEq47WYVOXhAzzF3
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260324T190000
 DTEND:20260324T210000
 SUMMARY:大泉学園桜小学校 - 卓球
@@ -622,9 +622,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:niYWArpRAE6zB0KiKTiOJ
+UID:9Uxv6NyP3ftwD8_mX5U3f
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260324T190000
 DTEND:20260324T210000
 SUMMARY:大泉学園桜小学校 - ラケットテニス
@@ -636,9 +636,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:AbW6RGpY0EH5YC3aFPfOm
+UID:sUjjAec_naCDAOxVIFP7K
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260324T190000
 DTEND:20260324T210000
 SUMMARY:開進第三中学校 - 硬式テニス
@@ -650,9 +650,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:yF9hRZBAuvjmn2jtyhgbH
+UID:cS_RtoUAEvDB9Rwp6Mwmc
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260325T190000
 DTEND:20260325T210000
 SUMMARY:光が丘夏の雲小学校 - 軽スポーツ
@@ -664,9 +664,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:n_I04y2imV76f2qLE_Bks
+UID:slDwW9u2QtsTrFpFMZHFe
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260325T190000
 DTEND:20260325T210000
 SUMMARY:豊玉中学校 - 硬式テニス
@@ -678,9 +678,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:zAlfElTUv3cr66h5bsre0
+UID:K61T5MYCv7sQ4m39F1REQ
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260325T190000
 DTEND:20260325T210000
 SUMMARY:大泉中学校 - 卓球
@@ -692,9 +692,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gil3CgjmlcuZjg3UAy1Xt
+UID:pSxF_ybSvd4ZGsMTzfe6z
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260325T190000
 DTEND:20260325T210000
 SUMMARY:大泉中学校 - ラケットテニス
@@ -706,9 +706,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:1tTnSXwyY0lR9_hzwLGjT
+UID:DSY1Kwj4QsDLXuoRqR9CH
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260325T190000
 DTEND:20260325T210000
 SUMMARY:大泉中学校 - バドミントン
@@ -720,9 +720,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:nlf5sUCdXhpv5a1cLWCHA
+UID:KdWiVHoyw1-DzIyEY6Cz9
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260326T190000
 DTEND:20260326T210000
 SUMMARY:光が丘夏の雲小学校 - バドミントン
@@ -734,9 +734,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:vDqskFZfyRRvK0I-Epii9
+UID:rInMggkcx_eZOaIfiBehV
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260326T190000
 DTEND:20260326T210000
 SUMMARY:光が丘夏の雲小学校 - 卓球
@@ -748,9 +748,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:cROGWyX8m0h6_mbcwZCLf
+UID:wEgKT2ZWXww5TYLRsS2x9
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260326T190000
 DTEND:20260326T210000
 SUMMARY:光和小学校 - バドミントン
@@ -762,9 +762,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:9TAY1y6YAIXeTOka-rZw1
+UID:uAE7yyPDMt9F1s7Gg7CIm
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260326T190000
 DTEND:20260326T210000
 SUMMARY:開進第三中学校 - 硬式テニス
@@ -776,9 +776,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:36nzd_-ESAr5m6FzV9-St
+UID:7xemJOCPJvlL3ZbfUZ4_9
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260327T190000
 DTEND:20260327T210000
 SUMMARY:関中学校 - バドミントン
@@ -790,9 +790,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:cKUtTElcHan4SKkVZQfKc
+UID:Nkc0ye_8nZ7hZU4LELXZq
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260328T183000
 DTEND:20260328T203000
 SUMMARY:大泉学園桜小学校 - バスケットボール
@@ -804,9 +804,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:36PGCEKzd1ZmVMXK54vEZ
+UID:vqjwTlrlnk-QOQBNmv5U-
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260329T150000
 DTEND:20260329T170000
 SUMMARY:光和小学校 - 卓球
@@ -818,9 +818,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:LKM5qAqHDGpqfQFBglaSP
+UID:or0T2W5I6JooND2NfEVhN
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260330T190000
 DTEND:20260330T210000
 SUMMARY:豊玉中学校 - バドミントン
@@ -832,9 +832,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:p_vDUVMDOZrKhn2eEz04L
+UID:MPPK2bk8Xjs0-io2WI3DC
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260330T190000
 DTEND:20260330T210000
 SUMMARY:大泉中学校 - ラケットテニス
@@ -846,9 +846,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:HPfJM1tCwqz4v4JCZI6GB
+UID:3syiateG4wkAF9kpS2qrj
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260330T190000
 DTEND:20260330T210000
 SUMMARY:大泉中学校 - バドミントン
@@ -860,9 +860,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:RPU7asrk1dpyElaIT3TQF
+UID:MBWKGqdcZKoqHjj9KgzA_
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260331T190000
 DTEND:20260331T210000
 SUMMARY:大泉学園桜小学校 - 卓球
@@ -874,9 +874,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:B4CTJJOvIowUdk-UG7TFG
+UID:xV7_7qgWCmL1r-vggPlHw
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260331T190000
 DTEND:20260331T210000
 SUMMARY:大泉学園桜小学校 - ラケットテニス
@@ -888,9 +888,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Py7930cVnlqNdT8xzzEEW
+UID:VsbpLQ3CxrvswI-uDEEa7
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260331T190000
 DTEND:20260331T210000
 SUMMARY:開進第三中学校 - 硬式テニス
@@ -902,9 +902,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:05tTpIKKUNd5MHxu4xWe9
+UID:lZfZbQ9V3zDW5DDjKL6lw
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260401T190000
 DTEND:20260401T210000
 SUMMARY:光が丘夏の雲小学校 - 軽スポーツ
@@ -916,9 +916,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:GCKgKIKgYwmjy0xOdCl3k
+UID:Aa8wd659uedkxyojmlETo
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260401T190000
 DTEND:20260401T210000
 SUMMARY:大泉中学校 - 卓球
@@ -930,9 +930,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:shgJyfT5H1KMCQ6oahEdO
+UID:CQj6ZqOMLYiQtxgUrEDUw
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260401T190000
 DTEND:20260401T210000
 SUMMARY:大泉中学校 - ラケットテニス
@@ -944,9 +944,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Qp67wHHUduDF9v0bcymrh
+UID:dIJ_kGQE6P-RxJNBNgDQF
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260401T190000
 DTEND:20260401T210000
 SUMMARY:大泉中学校 - バドミントン
@@ -958,9 +958,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:1FSslaJZM9r-yPMCT7t7h
+UID:cK7YckLJFsjblHrVmmzQs
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260402T190000
 DTEND:20260402T210000
 SUMMARY:光が丘夏の雲小学校 - バドミントン
@@ -972,9 +972,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:aPQ_plJVPFzrryGxrwrng
+UID:Zkke9d4cHCOeqeq2r6urf
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260402T190000
 DTEND:20260402T210000
 SUMMARY:光が丘夏の雲小学校 - 卓球
@@ -986,9 +986,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2UktK4vsbVPUC63M4zIsB
+UID:YFmIiUbbgaEyJc-uyaGL9
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260402T190000
 DTEND:20260402T210000
 SUMMARY:光和小学校 - バドミントン
@@ -1000,9 +1000,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lkO0h86dSsu5smYx1cM5-
+UID:zoQt67VacntlbHx-rMRbB
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260402T190000
 DTEND:20260402T210000
 SUMMARY:開進第三中学校 - 硬式テニス
@@ -1014,9 +1014,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:R5bay693ECV-krV4-seCU
+UID:NJJn1DqD-8UwUXcMRQAU5
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260403T190000
 DTEND:20260403T210000
 SUMMARY:関中学校 - バドミントン
@@ -1028,9 +1028,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Co9EPUJlD63pNCxVVEMyB
+UID:8vD-BiMpRNNMYz_pf3dKE
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260404T183000
 DTEND:20260404T203000
 SUMMARY:大泉学園桜小学校 - バスケットボール
@@ -1042,9 +1042,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:nVbiUBB29IJm7w2c5G17R
+UID:lq-WsoLa7iQR5O_MpVO53
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260405T150000
 DTEND:20260405T170000
 SUMMARY:光和小学校 - 卓球
@@ -1056,9 +1056,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:HWGMvwpf6RazQvwu_Wm-B
+UID:piAI4BOFcESgTt46e4BSC
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260406T190000
 DTEND:20260406T210000
 SUMMARY:大泉中学校 - ラケットテニス
@@ -1070,9 +1070,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:5QRDO4gcgU-kXIIj6NN1D
+UID:L-vTDaJzdSKLM0D4-ZgO-
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260406T190000
 DTEND:20260406T210000
 SUMMARY:大泉中学校 - バドミントン
@@ -1084,9 +1084,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:VU5_hppRliKqHVd7k-sCO
+UID:kA2kA7e61OSriZI8Qsx36
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260406T190000
 DTEND:20260406T210000
 SUMMARY:関中学校 - バドミントン
@@ -1098,9 +1098,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:qVbqdrbUOQnI0ccE-t-4f
+UID:TfmlPcbdk48z3v5voFAoX
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260407T190000
 DTEND:20260407T210000
 SUMMARY:大泉学園桜小学校 - 卓球
@@ -1112,9 +1112,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:nkRjvIpAjp4THC7I4YRzQ
+UID:SQ0xabMDLCmvq4cQszm_Y
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260407T190000
 DTEND:20260407T210000
 SUMMARY:大泉学園桜小学校 - ラケットテニス
@@ -1126,9 +1126,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Kzg9Ru9eGc0r6OkcNu5Hf
+UID:I2rnTMt31h3K6xPArCdqW
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260408T183000
 DTEND:20260408T210000
 SUMMARY:旭町小学校 - バドミントン
@@ -1140,9 +1140,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:b7XPW8blzgMz4FEP5EC8q
+UID:ZOG_wzb7vwLY5w4fBDiKV
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260408T190000
 DTEND:20260408T210000
 SUMMARY:光が丘夏の雲小学校 - 軽スポーツ
@@ -1154,9 +1154,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:x_3gYqppATQO54br4Ad1l
+UID:nOAIAGJkhIAYtbv_AJkK_
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260409T190000
 DTEND:20260409T210000
 SUMMARY:豊玉小学校 - バドミントン
@@ -1168,9 +1168,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ATKrMZfdPZ9TpaQSOXpQh
+UID:lAmx1UIjnmy8K_IyDH5TU
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260409T190000
 DTEND:20260409T210000
 SUMMARY:豊玉東小学校 - ラケットテニス
@@ -1182,9 +1182,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:9klNkE45XTr5AQ9RikhHg
+UID:bhrIjU94wYwCY_vkvSyZO
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260409T190000
 DTEND:20260409T210000
 SUMMARY:練馬小学校 - 軽スポーツ
@@ -1196,9 +1196,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:wSEB0-bnpEpARiWZdxfcp
+UID:OjYl3K30zeMoMADBPb3I5
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260409T180000
 DTEND:20260409T200000
 SUMMARY:光が丘春の風小学校 - バドミントン
@@ -1210,9 +1210,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:8lPpgoE2hUOwkUufPL1BW
+UID:q6OUfcHv3q9TE7nrsndIw
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260409T190000
 DTEND:20260409T210000
 SUMMARY:光が丘夏の雲小学校 - バドミントン
@@ -1224,9 +1224,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:c8K0-rQ5oIvxaQa-6VX0c
+UID:oqKu6Oj4DaFFsttVQfRX4
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260409T190000
 DTEND:20260409T210000
 SUMMARY:光が丘夏の雲小学校 - 卓球
@@ -1238,9 +1238,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:rGfejAwXL__rl6Hmv1KS-
+UID:E96hCO9UL3Lugbzq-zyEg
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260409T190000
 DTEND:20260409T210000
 SUMMARY:光が丘秋の陽小学校 - 軽スポーツ
@@ -1252,9 +1252,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:xo-3qpnpLtSpvq16S7uIW
+UID:88BulDHlD4jkxpeXUMB2l
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260409T190000
 DTEND:20260409T210000
 SUMMARY:上石神井北小学校 - 卓球
@@ -1266,9 +1266,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Xjvs9lIBw7N4eQ5f4d4Nl
+UID:AIgHgYD8d8Zoir-Y5VqM7
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260409T190000
 DTEND:20260409T210000
 SUMMARY:光和小学校 - バドミントン
@@ -1280,9 +1280,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:LsH2fVhHGjsvyIuqtKiO1
+UID:3SptdbuJyABusZxzB__1o
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260409T190000
 DTEND:20260409T210000
 SUMMARY:大泉南小学校 - バドミントン
@@ -1294,9 +1294,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:9ebPrMAjJT6qaGotAr463
+UID:zpnlJ8CqXfHbviuiLuhzi
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260409T190000
 DTEND:20260409T210000
 SUMMARY:南が丘小学校 - インディアカ
@@ -1308,9 +1308,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:rJWrA94avLSQoCiXwJFZ-
+UID:LZ4-gcEMgUFmyA47O7TzA
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260409T190000
 DTEND:20260409T210000
 SUMMARY:開進第三中学校 - 硬式テニス
@@ -1322,9 +1322,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:CjXrZ7iBu2fWcI-gRRvW4
+UID:V0bVlIsKtK53l66inzCEN
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260410T190000
 DTEND:20260410T210000
 SUMMARY:小竹小学校 - ラケットテニス
@@ -1336,9 +1336,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:WgTLFMUIIiF_ghKst8KWa
+UID:9SRYs-wTfjnkGInIP285_
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260410T190000
 DTEND:20260410T210000
 SUMMARY:豊玉小学校 - ラケットテニス
@@ -1350,9 +1350,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ejaXTFitvrcObStTW5x0j
+UID:He4HpLDzmDngHshnpxWzf
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260410T190000
 DTEND:20260410T210000
 SUMMARY:早宮小学校 - 卓球
@@ -1364,9 +1364,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:akgPC3bSPfaOe1bnTzTXY
+UID:Eo--MaVJ-CXFSJ_c2NUvw
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260410T190000
 DTEND:20260410T210000
 SUMMARY:光が丘四季の香小学校 - 卓球
@@ -1378,9 +1378,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:axMKL1OQjWukm9XhBOYtO
+UID:raO-0_nAhM6nrc94Sq5Xi
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260410T190000
 DTEND:20260410T210000
 SUMMARY:大泉南小学校 - バレーボール
@@ -1392,9 +1392,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:pwKB3fD5-Pr5-urqfWxNF
+UID:58IyRcL9sJ4w4kF1ZEvum
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260410T190000
 DTEND:20260410T210000
 SUMMARY:関中学校 - バドミントン
@@ -1406,9 +1406,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:9i1oxeOymX3GHYi_DK6OH
+UID:nS2IFWfVTghZVtF6P94hT
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260411T190000
 DTEND:20260411T210000
 SUMMARY:橋戸小学校 - 軽スポーツ
@@ -1420,9 +1420,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:-xyX2Uzk15QfsKqZ0lDbe
+UID:GpY0daozYpReRvR_NkDmp
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260412T140000
 DTEND:20260412T160000
 SUMMARY:石神井小学校 - ラケットテニス
@@ -1434,9 +1434,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Wr2jcE7EFZt9IOlp74oV0
+UID:EuNXOGWveTZP0hZfxfcUr
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260412T123000
 DTEND:20260412T143000
 SUMMARY:関中学校 - バレーボール
@@ -1448,9 +1448,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:QRZZJ8YbeRXcZwjKuEVB_
+UID:hDkPDBqfmyhx3VJTp02xw
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260413T190000
 DTEND:20260413T210000
 SUMMARY:豊玉小学校 - 卓球
@@ -1462,9 +1462,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:HModZnZ8o-ggEpSTXX8OB
+UID:2k_AhsBoxnmlPwZC0DFH2
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260413T190000
 DTEND:20260413T210000
 SUMMARY:早宮小学校 - バレーボール
@@ -1476,9 +1476,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:nZlhEbXLQbbESa9awvYRv
+UID:E08Lwvlu0vVrD6wzMlmm0
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260413T180000
 DTEND:20260413T203000
 SUMMARY:開進第一小学校 - キャッチバレー
@@ -1490,9 +1490,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:9QcG1RqSUCj3gAnIL4qxK
+UID:_pEhWVgsdthZPLxPE03mI
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260413T180000
 DTEND:20260413T203000
 SUMMARY:開進第一小学校 - バドミントン
@@ -1504,9 +1504,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oiUZgeA0iCZ5g6EirCg2r
+UID:3Zogvmdpn6_q8mg70CA0p
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260413T190000
 DTEND:20260413T210000
 SUMMARY:南町小学校 - テニス
@@ -1518,9 +1518,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:zlWpLtd-Pdnu_t5-XbImt
+UID:BaxlMfRydt14i-T6gfUzF
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260413T190000
 DTEND:20260413T210000
 SUMMARY:春日小学校 - ボッチャ
@@ -1532,9 +1532,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ZoKuWViGKhABKDYPUQfO6
+UID:O4JSK26W7XuWo26vkEFaj
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260413T190000
 DTEND:20260413T210000
 SUMMARY:春日小学校 - 卓球
@@ -1546,9 +1546,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:YNDOqXsDu9iNtJnABwh0V
+UID:gF_TArg2LAT2XSYlRSDu_
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260413T190000
 DTEND:20260413T210000
 SUMMARY:光が丘秋の陽小学校 - 卓球
@@ -1560,9 +1560,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:CHQ3PvIk1qUhwva7L1cRr
+UID:Rpnj5o-NX8C1CMrAGbOHx
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260413T190000
 DTEND:20260413T210000
 SUMMARY:石神井小学校 - バドミントン
@@ -1574,9 +1574,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:CyC_DfBHqObzxD3KnqjJI
+UID:JjjVf0VPD2TQiw9CwM2-e
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260413T190000
 DTEND:20260413T210000
 SUMMARY:上石神井北小学校 - ソフトバレーボール
@@ -1588,9 +1588,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:skr8viOD3H9ulpWVbvq7p
+UID:jAY4ZHSJRnYLNc4YaQBI6
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260413T190000
 DTEND:20260413T210000
 SUMMARY:大泉第四小学校 - 卓球
@@ -1602,9 +1602,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:74ZmSp9GTNkn2P1F861rP
+UID:xMv3B4gWfspfpNg0ytLfa
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260413T190000
 DTEND:20260413T210000
 SUMMARY:大泉第四小学校 - バドミントン
@@ -1616,9 +1616,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:N_3WBKDX5i-aTHMMVGnNW
+UID:PsCJBhOBi77XOD1y-Lfk2
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260413T190000
 DTEND:20260413T210000
 SUMMARY:南が丘小学校 - インディアカ
@@ -1630,9 +1630,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gz50X7BZ1dmy9F86t697c
+UID:OIEIPWWZjK7uMaZD3b8ks
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260413T190000
 DTEND:20260413T210000
 SUMMARY:豊玉中学校 - バドミントン
@@ -1644,9 +1644,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:aaNeT5kVBkzY_Nfqn4bMP
+UID:p-WOeUR9PhnkQs8-Fj0NF
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260413T190000
 DTEND:20260413T210000
 SUMMARY:大泉中学校 - ラケットテニス
@@ -1658,9 +1658,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:W-8fz19YU1Y_hl7UNdhfL
+UID:0d1ayAXGISgOiu-oXAI98
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260413T190000
 DTEND:20260413T210000
 SUMMARY:大泉中学校 - バドミントン
@@ -1672,9 +1672,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:wXHcnrWjhZSHlZbD68JNq
+UID:HD0szIOrB6Iqe5VsKedBD
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260414T190000
 DTEND:20260414T210000
 SUMMARY:小竹小学校 - バレーボール
@@ -1686,9 +1686,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:5FqtYVYvpiLX7Xg_ba976
+UID:lOMs50WjFu_5bbIvpILpR
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260414T190000
 DTEND:20260414T210000
 SUMMARY:豊玉東小学校 - ラケットテニス
@@ -1700,9 +1700,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:R2g8_bdh7yBFVgzusWAGW
+UID:ZrPhd3x5vMnO6iPoazGzI
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260414T180000
 DTEND:20260414T203000
 SUMMARY:開進第一小学校 - 卓球
@@ -1714,9 +1714,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:dJnzmyOOCkq0zUdFOv--q
+UID:TXRFWrTVWjNa4nrUwz2gC
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260414T180000
 DTEND:20260414T203000
 SUMMARY:開進第一小学校 - バドミントン
@@ -1728,9 +1728,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Nv0OtD-XvZjN29bX7fdDX
+UID:UUw-RtFI5b-SQqlnzgwF1
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260414T190000
 DTEND:20260414T210000
 SUMMARY:南町小学校 - バドミントン
@@ -1742,9 +1742,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:vmTqZLI_hjMPaQ2BJeJDV
+UID:zuEMtJFdMD6Vbd3BPzkIX
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260414T190000
 DTEND:20260414T210000
 SUMMARY:練馬小学校 - 卓球
@@ -1756,9 +1756,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:DYNBEn7yKuOdnHOxF-XGo
+UID:ZwOg6izB19BC3SBenFfeO
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260414T190000
 DTEND:20260414T210000
 SUMMARY:練馬小学校 - ラケットテニス
@@ -1770,9 +1770,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:qLFYK3ZFd45c7Hu3pfvrF
+UID:eJuQ8MutdpHdgXxt_C60z
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260414T190000
 DTEND:20260414T210000
 SUMMARY:豊渓小学校 - 卓球
@@ -1784,9 +1784,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:biHaNLEOe3PtA8h2iRZv8
+UID:AmIxAKIhk-J1xvNFA6r1y
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260414T190000
 DTEND:20260414T210000
 SUMMARY:光が丘四季の香小学校 - バレーボール
@@ -1798,9 +1798,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:a-zze_DIEhRpbghbRs6hf
+UID:Djim3GTFW9AipFCHPmQog
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260414T190000
 DTEND:20260414T210000
 SUMMARY:大泉第一小学校 - バレーボール
@@ -1812,9 +1812,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:1mjS3KW9L4ew2Dmziy67f
+UID:azZlaGPcBXhHmsf5pVbRE
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260414T190000
 DTEND:20260414T210000
 SUMMARY:大泉学園桜小学校 - 卓球
@@ -1826,9 +1826,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:IJ37sXaw32eqLim0GhWGg
+UID:71Ntrf5tmLnlls6xwkh5f
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260414T190000
 DTEND:20260414T210000
 SUMMARY:大泉学園桜小学校 - ラケットテニス
@@ -1840,9 +1840,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:PoJXy_Eh8_GqUQNH3AsuU
+UID:31KckpSiaakva1_79shik
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260414T190000
 DTEND:20260414T210000
 SUMMARY:南が丘小学校 - バドミントン
@@ -1854,9 +1854,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:iTc8gGIYOraMAIw9YUeLy
+UID:5vQ8Hdk5bO6VYro40UzBz
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260415T190000
 DTEND:20260415T210000
 SUMMARY:仲町小学校 - バレーボール
@@ -1868,9 +1868,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:iGsQPS50JoQdsZKvleIPc
+UID:aPS0XWpIuUZrihFo9F08_
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260415T190000
 DTEND:20260415T210000
 SUMMARY:南町小学校 - 卓球
@@ -1882,9 +1882,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Hx3pHK5UhRq_3d-etBNA7
+UID:av-ptMig6ks55H9vGMiA3
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260415T190000
 DTEND:20260415T210000
 SUMMARY:北町西小学校 - ラケットテニス
@@ -1896,9 +1896,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:zhUPL6AkwVDPGHpCZ4Wyt
+UID:HXYDjbdSPNLoI99StTISd
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260415T183000
 DTEND:20260415T210000
 SUMMARY:旭町小学校 - バドミントン
@@ -1910,9 +1910,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:O4SEYzzexfZFrkHloKMyY
+UID:HvFjHM8JrU4oSgfZjCgU7
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260415T190000
 DTEND:20260415T210000
 SUMMARY:春日小学校 - バレーボール
@@ -1924,9 +1924,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:qGZ_JRCMxLSMVveWA75Mn
+UID:OdfzDRuRJK8Xh_10li-I_
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260415T190000
 DTEND:20260415T210000
 SUMMARY:光が丘四季の香小学校 - ラケットテニス
@@ -1938,9 +1938,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:1ki148h6m1ZOt9WioX1Ur
+UID:TRAl7FqkHbLeEZBrbihyJ
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260415T180000
 DTEND:20260415T200000
 SUMMARY:光が丘春の風小学校 - バスケットボール
@@ -1952,9 +1952,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:scJxowO7cXfW59It8ybzO
+UID:Q_U_vx8U9z4gvM_r9Efh7
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260415T190000
 DTEND:20260415T210000
 SUMMARY:光が丘夏の雲小学校 - 軽スポーツ
@@ -1966,9 +1966,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:O4PKAvPYub16s4wbSjANf
+UID:9Z5W5uD5tCKSEjxWiiqPh
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260415T190000
 DTEND:20260415T210000
 SUMMARY:石神井小学校 - 卓球
@@ -1980,9 +1980,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Ra7moBgNkdZrphSlWMoA5
+UID:iyaa8YlWRd9ZvLtIgbZTl
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260415T190000
 DTEND:20260415T210000
 SUMMARY:石神井小学校 - インディアカ
@@ -1994,9 +1994,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ZqdaxMoIJJgoGnn3gkxPv
+UID:3JuxQ6b2i7Oav6rwoTW38
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260415T190000
 DTEND:20260415T210000
 SUMMARY:上石神井北小学校 - バドミントン
@@ -2008,9 +2008,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:yW3iM-kno2-4PGIQCRLNH
+UID:c1m1RMKblxuwim5T0l_eG
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260415T190000
 DTEND:20260415T210000
 SUMMARY:大泉西小学校 - 卓球
@@ -2022,9 +2022,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:jUqIqpcfxaSxPOu4sm0uV
+UID:wFP6J9C53dcoriBGZGClD
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260415T190000
 DTEND:20260415T210000
 SUMMARY:豊玉中学校 - 硬式テニス
@@ -2036,9 +2036,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:dYXvlyut9DQdr_Bwhmd12
+UID:16C9VropYUTchMzNKCK-g
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260415T190000
 DTEND:20260415T210000
 SUMMARY:大泉中学校 - 卓球
@@ -2050,9 +2050,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:c9JmsjVAC5r3V0t-aAuTh
+UID:r61nG8OQHWeJd5Zy6uUa-
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260415T190000
 DTEND:20260415T210000
 SUMMARY:大泉中学校 - ラケットテニス
@@ -2064,9 +2064,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ZiZrgCDLxMFg8Ak3NXq05
+UID:bFAIlXfSHeF5URHL6xVV9
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260415T190000
 DTEND:20260415T210000
 SUMMARY:大泉中学校 - バドミントン
@@ -2078,9 +2078,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:vLrTrbu3d6O3AV19J_Sqj
+UID:qv24bBbETee0sKzZ75NVp
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260416T190000
 DTEND:20260416T210000
 SUMMARY:豊玉小学校 - バドミントン
@@ -2092,9 +2092,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:StEfcONejijPbQbPX5Wfn
+UID:pXKPMRslQBncI57GPGu3k
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260416T190000
 DTEND:20260416T210000
 SUMMARY:豊玉東小学校 - ラケットテニス
@@ -2106,9 +2106,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:TUhhoEbNqjF7-UD0kwihy
+UID:Wdv56jhUlfbBtUZ33x0sx
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260416T190000
 DTEND:20260416T210000
 SUMMARY:豊玉東小学校 - バドミントン
@@ -2120,9 +2120,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:HHDvKruE6pRWPjggzbpyW
+UID:23-R_qR24wFwAiGl-IBDF
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260416T190000
 DTEND:20260416T210000
 SUMMARY:練馬小学校 - 軽スポーツ
@@ -2134,9 +2134,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:7_Vyv3ZbGhiOxHNVd_9v-
+UID:QRhnrDy7TXk3yk8h-Ezo6
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260416T190000
 DTEND:20260416T210000
 SUMMARY:豊渓小学校 - バドミントン
@@ -2148,9 +2148,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:hJhYlMY4A9zBktwoPk6n6
+UID:P0t_O8A5kK8rn9p4tqISA
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260416T180000
 DTEND:20260416T200000
 SUMMARY:光が丘春の風小学校 - バドミントン
@@ -2162,9 +2162,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:rHB8kmbhOTtEzx76_fntv
+UID:qaIq73sxPYW_TQQiG5u0W
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260416T190000
 DTEND:20260416T210000
 SUMMARY:光が丘夏の雲小学校 - バドミントン
@@ -2176,9 +2176,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:qzdG_GMK3i-sd2HNQb6s-
+UID:JzKAkVOK05vaXoBwGfJ7R
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260416T190000
 DTEND:20260416T210000
 SUMMARY:光が丘夏の雲小学校 - 卓球
@@ -2190,9 +2190,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:T-phVqhn7JziOiIwam6_-
+UID:PEgFPSTwxsl1qDkfhHp6N
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260416T190000
 DTEND:20260416T210000
 SUMMARY:光が丘秋の陽小学校 - 軽スポーツ
@@ -2204,9 +2204,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Ee-G51YEIXArPC-ygT03g
+UID:NodukmMiwsaqY4PNehSKf
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260416T190000
 DTEND:20260416T210000
 SUMMARY:石神井台小学校 - バドミントン
@@ -2218,9 +2218,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ivnBWZcgWVMqH3QJV5srZ
+UID:PCGCujzQ10oWirqiQqKwP
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260416T190000
 DTEND:20260416T210000
 SUMMARY:上石神井北小学校 - 卓球
@@ -2232,9 +2232,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:aOAdzYjztj41iWKeM2Q--
+UID:3G889O_C7ibmYamYvJVXV
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260416T190000
 DTEND:20260416T210000
 SUMMARY:光和小学校 - バドミントン
@@ -2246,9 +2246,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Yh-VhLGv9QdjAaKSwV0y8
+UID:eFLDrTyvvHJvz9V00RT4d
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260416T190000
 DTEND:20260416T210000
 SUMMARY:大泉南小学校 - バドミントン
@@ -2260,9 +2260,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Jz8vMSDmKY0N24zP0Q2gs
+UID:4QIreaWngfiftz_YoGrPz
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260416T190000
 DTEND:20260416T210000
 SUMMARY:南が丘小学校 - インディアカ
@@ -2274,9 +2274,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:w-5W1yrNwXDYOVaN-fglo
+UID:wnOqtK9XvNdmCebjQ1Avf
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260416T190000
 DTEND:20260416T210000
 SUMMARY:開進第三中学校 - 硬式テニス
@@ -2288,9 +2288,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:P5Kwt34yBMQKQUlwdjo89
+UID:JlSNNyJ85uEllHisrrxRT
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260417T190000
 DTEND:20260417T210000
 SUMMARY:小竹小学校 - ラケットテニス
@@ -2302,9 +2302,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:pN4taTtHEJv-UrwBLsREU
+UID:bhO0dlxRFXXX3Q6Lgum2_
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260417T190000
 DTEND:20260417T210000
 SUMMARY:豊玉小学校 - ラケットテニス
@@ -2316,9 +2316,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:1nUJcC738v3vaP9WYTngZ
+UID:48TPtCvtxKcjaJnBpOC8H
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260417T190000
 DTEND:20260417T210000
 SUMMARY:早宮小学校 - キャッチバレー
@@ -2330,9 +2330,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:tQVbijEdPjysX2iwZXDSf
+UID:x0DZthOHzzOYw56U7rhwj
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260417T190000
 DTEND:20260417T210000
 SUMMARY:仲町小学校 - ラケットテニス
@@ -2344,9 +2344,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:QpaoAigElaHZta4BFmmre
+UID:j6ZZuQ-5MkxHFklD4bzkc
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260417T190000
 DTEND:20260417T210000
 SUMMARY:北町西小学校 - 軽スポーツ
@@ -2358,9 +2358,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Y-7fsmHv1wbN0AvBZXoip
+UID:S6R3zaQtjWaq9wwkACcAD
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260417T190000
 DTEND:20260417T210000
 SUMMARY:練馬第三小学校 - バレーボール
@@ -2372,9 +2372,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:SWf5RdigkVd2S-GYKdaJO
+UID:Lo8AsKd5AX3gGhy35la-A
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260417T190000
 DTEND:20260417T210000
 SUMMARY:春日小学校 - バドミントン
@@ -2386,9 +2386,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Ud_hnBIUX37TzLM1rHDDG
+UID:njyBsvR-wbKzCYaeJb6k6
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260417T190000
 DTEND:20260417T210000
 SUMMARY:春日小学校 - ラケットテニス
@@ -2400,9 +2400,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:hmOVlhTtu3BnlsLtK38Ni
+UID:yRrgn4I_G7pOnu6eWyQPN
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260417T190000
 DTEND:20260417T210000
 SUMMARY:光が丘四季の香小学校 - 卓球
@@ -2414,9 +2414,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ZGFn7ehd2QbyofUJxEX1K
+UID:vXuEP_Bw9UA0DTvx0tuK2
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260417T190000
 DTEND:20260417T210000
 SUMMARY:大泉南小学校 - バレーボール
@@ -2428,9 +2428,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:k_4jO1eiOy-i7I1ruLWTg
+UID:h0-TMOS_PAyHckQD7K4TY
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260417T190000
 DTEND:20260417T210000
 SUMMARY:関中学校 - バドミントン
@@ -2442,9 +2442,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:iEVu4Zi8KS5yWHAav0HsK
+UID:YHLDH_mgfUwE5PikMpYvu
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260418T190000
 DTEND:20260418T210000
 SUMMARY:早宮小学校 - インディアカ
@@ -2456,9 +2456,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:1GtCiCDP7ejUfZre3qeW-
+UID:1F_yoDFMYj1JfJOLlDjFp
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260418T180000
 DTEND:20260418T210000
 SUMMARY:旭町小学校 - ミニテニス
@@ -2470,9 +2470,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:1HJTVKRB5s22E4ueiKwc9
+UID:48W6liYSDzFcgaPoI2o-6
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260418T180000
 DTEND:20260418T200000
 SUMMARY:光が丘春の風小学校 - バドミントン
@@ -2484,9 +2484,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:NH5B3k29zjFDBxech18FA
+UID:4hXBQmz-YD0RWav58mrRo
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260418T130000
 DTEND:20260418T150000
 SUMMARY:石神井西小学校 - ラケットテニス
@@ -2498,9 +2498,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:vsmmdkvcuqkGgxlSlG8sJ
+UID:b_3HYp1T-jGTILhspkpGY
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260418T190000
 DTEND:20260418T210000
 SUMMARY:大泉第四小学校 - 卓球
@@ -2512,9 +2512,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:WbatZhvX0uUiB4t5oburM
+UID:gPRteCfAbOiXlmL0CjkfB
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260418T190000
 DTEND:20260418T210000
 SUMMARY:大泉第四小学校 - バドミントン
@@ -2526,9 +2526,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:OtB2qsfQ4w-fDLMXsBHQV
+UID:6Lgj5Eva-8Usp9KU_de-W
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260418T140000
 DTEND:20260418T160000
 SUMMARY:大泉西小学校 - バレーボール
@@ -2540,9 +2540,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:hr2a52MMTcaY3a9QER3wR
+UID:PVQW_6E3AZjcju-BeS0pM
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260418T183000
 DTEND:20260418T203000
 SUMMARY:大泉学園桜小学校 - バスケットボール
@@ -2554,9 +2554,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:BOLpZZliQlUmFwNb5Z-xP
+UID:JKLUj_8pt_aU0lUB5tRRq
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260418T190000
 DTEND:20260418T210000
 SUMMARY:橋戸小学校 - 軽スポーツ
@@ -2568,9 +2568,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:AfTSBBGP8ECk-iCrvVTSc
+UID:B0guI6FM2TcsJDDhKxHJq
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260418T190000
 DTEND:20260418T210000
 SUMMARY:豊玉中学校 - フットサル
@@ -2582,9 +2582,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:YoSFALLNiwKY6EedFj3xJ
+UID:nLQ5UT5qIzQYN1-bR6Yhm
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260419T130000
 DTEND:20260419T150000
 SUMMARY:南町小学校 - パドルテニス
@@ -2596,9 +2596,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:L6rSAJAwzdepaiGetZktN
+UID:aX9jW1ugzIfCL3R_Kcj5I
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260419T120000
 DTEND:20260419T140000
 SUMMARY:北町西小学校 - バレーボール
@@ -2610,9 +2610,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ebxtZx84FttdatFUHEnje
+UID:4_G3h2Y2_EIxI5cb0tBJ4
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260419T140000
 DTEND:20260419T160000
 SUMMARY:石神井小学校 - ラケットテニス
@@ -2624,9 +2624,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Lj6sGI8HY-cTGos3Gu5h1
+UID:0fXOjVrB2ypv70Q6A5hWh
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260419T100000
 DTEND:20260419T120000
 SUMMARY:石神井西小学校 - バドミントン
@@ -2638,9 +2638,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Coca777HOFAiGHS4Pux8l
+UID:v1LVcsFJMLeeBo1rMJQ80
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260419T150000
 DTEND:20260419T170000
 SUMMARY:光和小学校 - 卓球
@@ -2652,9 +2652,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:rDa7w4sL-eP4zWcxEMKcP
+UID:fg8uNf0PWjoUXPXk1nQXB
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260420T190000
 DTEND:20260420T210000
 SUMMARY:豊玉小学校 - 卓球
@@ -2666,9 +2666,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Pj_Kj3GJngx6rotZr5_B6
+UID:Mqp8E0KyOmE0CxO4C3Th1
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260420T180000
 DTEND:20260420T203000
 SUMMARY:開進第一小学校 - キャッチバレー
@@ -2680,9 +2680,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:DgonLoOmmzaeKNaiFcWaj
+UID:Jd8QN-KkLoBCM_vp0Hr5H
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260420T180000
 DTEND:20260420T203000
 SUMMARY:開進第一小学校 - バドミントン
@@ -2694,9 +2694,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:CslAdSDXawNXHIoPVuKUT
+UID:yIkU3OIjGjDZ4LKD1ZxhB
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260420T190000
 DTEND:20260420T210000
 SUMMARY:春日小学校 - ボッチャ
@@ -2708,9 +2708,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Gt1q-DPhkVqhgr7nPquRK
+UID:9gTrTkP1EJTaQjEOw8uQy
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260420T190000
 DTEND:20260420T210000
 SUMMARY:春日小学校 - 卓球
@@ -2722,9 +2722,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:RpeiRwyJUxhLaUVuFiiTL
+UID:SYqDvPv7EgXDNFbuDqb2v
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260420T190000
 DTEND:20260420T210000
 SUMMARY:光が丘秋の陽小学校 - 卓球
@@ -2736,9 +2736,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:FQW5CuoqUehdQe12sklmH
+UID:UM5RQU7EqcoyARoRig2Jl
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260420T190000
 DTEND:20260420T210000
 SUMMARY:石神井小学校 - バドミントン
@@ -2750,9 +2750,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:TLgQ6wrTUmc-8Qy_80OGH
+UID:XGJCL9sezgtJr-QCkgq7o
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260420T190000
 DTEND:20260420T210000
 SUMMARY:上石神井北小学校 - ソフトバレーボール
@@ -2764,9 +2764,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:7_HJbEMhcExnJoJEgFehZ
+UID:2KyOrjugsYQYoFdA9ztaP
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260420T190000
 DTEND:20260420T210000
 SUMMARY:大泉第四小学校 - 卓球
@@ -2778,9 +2778,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:KFMEcE-gh4xWHVLJ1Rv4t
+UID:yJloeT8MRx_8IsQ54Qr5j
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260420T190000
 DTEND:20260420T210000
 SUMMARY:大泉第四小学校 - バドミントン
@@ -2792,9 +2792,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:NsVscv4ps-DLi__0wkAti
+UID:HSS2jLNZI4Blh00CSUdk7
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260420T190000
 DTEND:20260420T210000
 SUMMARY:南が丘小学校 - インディアカ
@@ -2806,9 +2806,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:7E4ItKrKPbigAL_PL9qm-
+UID:wP21NlHdvNno8kTBIMeQr
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260420T190000
 DTEND:20260420T210000
 SUMMARY:豊玉中学校 - バドミントン
@@ -2820,9 +2820,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:D3meyxD3WRv5hLnDHQCWs
+UID:TqkBytdA96MCah8G6kqIR
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260420T190000
 DTEND:20260420T210000
 SUMMARY:大泉中学校 - ラケットテニス
@@ -2834,9 +2834,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:0EffOyCs7kW5s7zr-vX_8
+UID:d6avQyauAuOrIYpp88fzk
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260420T190000
 DTEND:20260420T210000
 SUMMARY:大泉中学校 - バドミントン
@@ -2848,9 +2848,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:yrnkwFYJBzT4DLWtJhhlZ
+UID:5lhWqtirFZ8LAo9vFRydR
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260421T190000
 DTEND:20260421T210000
 SUMMARY:小竹小学校 - バレーボール
@@ -2862,9 +2862,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gwALF9pzxC5st71K5T23l
+UID:iwr4Oa10iR40mgBeG04d6
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260421T190000
 DTEND:20260421T210000
 SUMMARY:豊玉東小学校 - ラケットテニス
@@ -2876,9 +2876,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:XG5iPRq2lLBzbk9D6Ik8f
+UID:JhPeG6EtfcZ5m3ETVnOHW
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260421T190000
 DTEND:20260421T210000
 SUMMARY:開進第四小学校 - ラケットテニス
@@ -2890,9 +2890,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:yLvW20PYM8tORu_IHyKkW
+UID:EdshWs0tvDqNstv_VJkeF
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260421T190000
 DTEND:20260421T210000
 SUMMARY:練馬小学校 - 卓球
@@ -2904,9 +2904,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lDbpVq74RnmFAkCGP1y4k
+UID:8ir9V-Y7fbyPR3EEj0WL6
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260421T190000
 DTEND:20260421T210000
 SUMMARY:練馬小学校 - ラケットテニス
@@ -2918,9 +2918,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Kt35DcYaGY572om_X4nlY
+UID:uB9ji91Al5-mnMPZlJS0h
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260421T190000
 DTEND:20260421T210000
 SUMMARY:練馬第三小学校 - 卓球
@@ -2932,9 +2932,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:5YbuCGzWxWYPDN0Jo98k0
+UID:Y3gvRt4gzveae_5mfKfrr
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260421T190000
 DTEND:20260421T210000
 SUMMARY:豊渓小学校 - 卓球
@@ -2946,9 +2946,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:vJHRdQl67xB3o6n2LQFvb
+UID:vrw9SDCvV2k7X67nUSu8Y
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260421T190000
 DTEND:20260421T210000
 SUMMARY:光が丘四季の香小学校 - バレーボール
@@ -2960,9 +2960,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:jiiQptuZjurfRUEw4dHZv
+UID:kPlme5v7zknSTKnh2myaJ
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260421T190000
 DTEND:20260421T210000
 SUMMARY:大泉第一小学校 - バレーボール
@@ -2974,9 +2974,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Xm_XEDtJyHH1pSEl-9zHk
+UID:umkqSUeqxXcQzEjnPnY9v
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260421T190000
 DTEND:20260421T210000
 SUMMARY:大泉学園桜小学校 - 卓球
@@ -2988,9 +2988,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:7Kxuag4gehvfFsxveq7mP
+UID:pUStrW39651Lmql-AH-d6
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260421T190000
 DTEND:20260421T210000
 SUMMARY:大泉学園桜小学校 - ラケットテニス
@@ -3002,9 +3002,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:4sr8v2zwDrHRpZvuh07wa
+UID:yfRUU-L4LmE0VTM4FuTNW
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260421T190000
 DTEND:20260421T210000
 SUMMARY:南が丘小学校 - バドミントン
@@ -3016,9 +3016,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:wQTJ_Ssb-d-Hw-1MBlEkx
+UID:qK1jOMjQsUMThi08vmMui
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260421T190000
 DTEND:20260421T210000
 SUMMARY:開進第三中学校 - 硬式テニス
@@ -3030,9 +3030,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:GQopg0Il051dVtbyIDv60
+UID:Hsuzsx28hGL-MiEMQdaEE
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:早宮小学校 - バドミントン
@@ -3044,9 +3044,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:M-GUo62gJdXhOASnb2u7N
+UID:jwaY4pNzwF3RbvhdEVg7X
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:仲町小学校 - バレーボール
@@ -3058,9 +3058,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:p-csWvFXNl-ly9vdoVeh7
+UID:3lHyDw1BRACZqSQav_tZa
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:南町小学校 - 卓球
@@ -3072,9 +3072,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:krWR--A9zAsQ6ecO9jBGj
+UID:E0r7_WE3Dr6FkbJYDA18r
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:北町西小学校 - ラケットテニス
@@ -3086,9 +3086,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:rr5ZxyUXfOdMeQB5xx3YS
+UID:qgzcWh0nlIWAyXYQ3xTVY
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T183000
 DTEND:20260422T210000
 SUMMARY:豊渓小学校 - バレーボール
@@ -3100,9 +3100,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:gBpmiG8HkQ3aB60EqA2dj
+UID:vhj40EHviF6WezDcl8NAS
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T183000
 DTEND:20260422T210000
 SUMMARY:旭町小学校 - バドミントン
@@ -3114,9 +3114,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:0qqIJn3Jc77MMFQ3_ny0g
+UID:cvCEOji2s1eptYiY61HL5
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:春日小学校 - バレーボール
@@ -3128,9 +3128,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:GxIGarvimBrA5FOMXgdPp
+UID:or1ucWJzYQLZMALr7hrbz
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:光が丘四季の香小学校 - ラケットテニス
@@ -3142,9 +3142,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:AgSZ6c8ZLjPWCaUA3bxyo
+UID:6QD5YLO9M7YKV2VXW12Aw
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T180000
 DTEND:20260422T200000
 SUMMARY:光が丘春の風小学校 - バスケットボール
@@ -3156,9 +3156,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:P2SkMYE7Dy5MT3pLpIZJl
+UID:cHmLZepvXJ60JNC3_zl7r
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:光が丘夏の雲小学校 - 軽スポーツ
@@ -3170,9 +3170,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:xUkf0qkkpwkJuyaZW5BcE
+UID:nLddcYpALMOfgJv_YBD0L
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:石神井小学校 - 卓球
@@ -3184,9 +3184,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:wlzRwW2Qc55aVCaR8CWfD
+UID:gt-TvuGGdOrTXV0Hv0sUB
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:石神井小学校 - インディアカ
@@ -3198,9 +3198,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:hvDrQK0VtPnk4be7qat4u
+UID:TFrUcp7bUj0mN0C3HTlxC
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:上石神井北小学校 - バドミントン
@@ -3212,9 +3212,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:7KRjuKJeW3mPRzz2TJUDa
+UID:Xd-o_57YrXAgntXUQnX2T
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:大泉西小学校 - 卓球
@@ -3226,9 +3226,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:hgIHnjGjF1KyGCqcsrPfH
+UID:Hbvu-E8LUiie4JmQObKJV
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:大泉学園緑小学校 - ソフトバレーボール
@@ -3240,9 +3240,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:XvfcPh9dpgyhXoRFi8ySd
+UID:KChCkmnsJOAM7LlY6ns6p
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:大泉学園緑小学校 - バドミントン
@@ -3254,9 +3254,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:qDU6ppa0MWvwMjJ5tnsvc
+UID:Ovkhx9VJDqzP4UhDxa0rf
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:豊玉中学校 - 硬式テニス
@@ -3268,9 +3268,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:trNrup5DQSzS96tsrKgdF
+UID:3IS0tiFqEYiRrzbXHQ5_9
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:大泉中学校 - 卓球
@@ -3282,9 +3282,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:nrVKiexaLIoe-hRuWgTOu
+UID:1DaqhiGplFA0MG6qnNSeA
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:大泉中学校 - ラケットテニス
@@ -3296,9 +3296,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:fInh-rbfqaJYctKE0WiIZ
+UID:fpo4wKfeQCBbYV-c91KMx
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260422T190000
 DTEND:20260422T210000
 SUMMARY:大泉中学校 - バドミントン
@@ -3310,9 +3310,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:FrTiT5xsJKkCh-SfMO99u
+UID:3c2_mYARz3sRhtZxEB9KU
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260423T190000
 DTEND:20260423T210000
 SUMMARY:豊玉小学校 - バドミントン
@@ -3324,9 +3324,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:R1jHDASVFgUYVjpkJikRu
+UID:RJ_SoboFAPhudze-86B-M
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260423T190000
 DTEND:20260423T210000
 SUMMARY:豊玉東小学校 - ラケットテニス
@@ -3338,9 +3338,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:PaWkYbe3QAoqB7xJ1-h7z
+UID:prHDkKZ1UCtWECeUHhzhh
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260423T190000
 DTEND:20260423T210000
 SUMMARY:練馬小学校 - 軽スポーツ
@@ -3352,9 +3352,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:kyq6jN0dhsrqnl_iZy8gC
+UID:NcPbWut1GgNYjP9T3EcKO
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260423T180000
 DTEND:20260423T200000
 SUMMARY:光が丘春の風小学校 - バドミントン
@@ -3366,9 +3366,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:vVQ_80aTkglJcRPwLkCcv
+UID:9w7Cb3pZtEHtlonCaR3CW
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260423T190000
 DTEND:20260423T210000
 SUMMARY:光が丘夏の雲小学校 - バドミントン
@@ -3380,9 +3380,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:tI4rbCFGlDLoDrvyfjn_f
+UID:cm_5oYsTFZKQFEooYWa2Y
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260423T190000
 DTEND:20260423T210000
 SUMMARY:光が丘夏の雲小学校 - 卓球
@@ -3394,9 +3394,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:5gu68l9MUJ3_XQ2iBvenZ
+UID:VkIl7f3bEYBrMDc6wTe1L
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260423T190000
 DTEND:20260423T210000
 SUMMARY:光が丘秋の陽小学校 - 軽スポーツ
@@ -3408,9 +3408,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:VxqUyp2ggxuHm1_jBDV62
+UID:g3v2ZsHID4cwehyZdfioI
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260423T190000
 DTEND:20260423T210000
 SUMMARY:石神井台小学校 - バドミントン
@@ -3422,9 +3422,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:1htO1QT_vkCGE2thUmRTI
+UID:CmzH4NH49RNdDdmaCvgQp
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260423T190000
 DTEND:20260423T210000
 SUMMARY:上石神井北小学校 - 卓球
@@ -3436,9 +3436,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:SyY-THecnR65sLlgJSgvo
+UID:M-YlXUzCZ8GmBgdiqeItA
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260423T190000
 DTEND:20260423T210000
 SUMMARY:光和小学校 - バドミントン
@@ -3450,9 +3450,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ERJm0SFeLq0GiCdvqAHhU
+UID:A3Fxd6q1sMjR-ez3JN3NV
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260423T190000
 DTEND:20260423T210000
 SUMMARY:大泉第一小学校 - 卓球
@@ -3464,9 +3464,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:clJHGK3aSn83KSFQBCw8v
+UID:91YxSbLgxTMzp3QXmg_kX
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260423T190000
 DTEND:20260423T210000
 SUMMARY:大泉第一小学校 - バドミントン
@@ -3478,9 +3478,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:HE1dMgDJ3GSVpJEIye4yQ
+UID:NbVVUbGtv1iod53L7QYU_
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260423T190000
 DTEND:20260423T210000
 SUMMARY:大泉南小学校 - バドミントン
@@ -3492,9 +3492,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:oFWEn1fnfzBr7Ge1c821Y
+UID:n9cTp8u76FH4LcCQBpLET
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260423T190000
 DTEND:20260423T210000
 SUMMARY:南が丘小学校 - インディアカ
@@ -3506,9 +3506,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:neH171OhiPQL_VRPivL-1
+UID:didDX1An6N1JW82os6ZxR
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260423T190000
 DTEND:20260423T210000
 SUMMARY:開進第三中学校 - 硬式テニス
@@ -3520,9 +3520,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:xUWoDzHX1ojLA4iBsr2Pr
+UID:NPpUBKF9vsdvAM5d7UUOo
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260424T190000
 DTEND:20260424T210000
 SUMMARY:小竹小学校 - ラケットテニス
@@ -3534,9 +3534,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Ry0z3xSscWwlWcCok9L3U
+UID:PS5ynhClKdm6PgKjp0n4r
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260424T190000
 DTEND:20260424T210000
 SUMMARY:豊玉小学校 - ラケットテニス
@@ -3548,9 +3548,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Vk8WMuSBSHsriHoMBT22W
+UID:TQcthJyShxaU4xa-sA0tb
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260424T190000
 DTEND:20260424T210000
 SUMMARY:早宮小学校 - 卓球
@@ -3562,9 +3562,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:OQxEcrqdMMYMSTfgDLcjN
+UID:AdK2UqjQZ6WxBOmg5kUyz
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260424T190000
 DTEND:20260424T210000
 SUMMARY:開進第四小学校 - バドミントン
@@ -3576,9 +3576,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:VqGJtrI6HVmVNhcTFW-c-
+UID:Oie995ldU0Wrn9PN_lLwZ
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260424T190000
 DTEND:20260424T210000
 SUMMARY:仲町小学校 - ラケットテニス
@@ -3590,9 +3590,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:1BgoVQOczhSGuc_uhmgg4
+UID:PyGfprlweEl5xE8aCWb7I
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260424T190000
 DTEND:20260424T210000
 SUMMARY:北町西小学校 - 軽スポーツ
@@ -3604,9 +3604,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:EfCkXt7EGTYwBCdr1oZQ5
+UID:tIb9uOHF5kQ_RMcJr6HQf
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260424T190000
 DTEND:20260424T210000
 SUMMARY:練馬第三小学校 - バレーボール
@@ -3618,9 +3618,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:c5t0N9BKwy5jgLkkmt3Mj
+UID:lVs7I5u0W4hotslusqUSu
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260424T190000
 DTEND:20260424T210000
 SUMMARY:春日小学校 - バドミントン
@@ -3632,9 +3632,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:4XhpifYOyac-9uPEsrYOt
+UID:5f6bgZjmZTrt538vJpRRN
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260424T190000
 DTEND:20260424T210000
 SUMMARY:春日小学校 - ラケットテニス
@@ -3646,9 +3646,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:a4mR1qTq7dgJxG3RkZN40
+UID:oofY_hIq9uFTUwQqunRd3
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260424T190000
 DTEND:20260424T210000
 SUMMARY:光が丘四季の香小学校 - 卓球
@@ -3660,9 +3660,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:x81eits6ywieOuKA596Fz
+UID:nArkdey00N_hVAqxypyVa
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260424T190000
 DTEND:20260424T210000
 SUMMARY:大泉南小学校 - バレーボール
@@ -3674,9 +3674,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ISBLWDj_NlOI397XPMI8m
+UID:fXe8a5FcCqDU6rwsPshaQ
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260424T190000
 DTEND:20260424T210000
 SUMMARY:関中学校 - バドミントン
@@ -3688,9 +3688,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:DwqTII4gl9ZKCnSbNmJUY
+UID:tMPGUQpCHcjQk0tuF5Sck
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260425T190000
 DTEND:20260425T210000
 SUMMARY:早宮小学校 - インディアカ
@@ -3702,9 +3702,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:xCb9KtWDIKm8bcEbMmQfk
+UID:HDghV217vfN9eine_kbdR
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260425T180000
 DTEND:20260425T200000
 SUMMARY:光が丘春の風小学校 - バドミントン
@@ -3716,9 +3716,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:cLEDXWjGBROp2Ek5Flzyv
+UID:W8ZHmznhSewMsjrPSktlf
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260425T130000
 DTEND:20260425T150000
 SUMMARY:石神井西小学校 - ラケットテニス
@@ -3730,9 +3730,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:TJt-iNa_RHf91sGskUeEv
+UID:zKoGBN8piKC2QOFegwdnd
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260425T190000
 DTEND:20260425T210000
 SUMMARY:大泉第四小学校 - 卓球
@@ -3744,9 +3744,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:exPOEFBzwWTKswpGPwpSB
+UID:sm9TvwtqYQ1AP1NZs4axJ
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260425T190000
 DTEND:20260425T210000
 SUMMARY:大泉第四小学校 - バドミントン
@@ -3758,9 +3758,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Gi6yJIOU7DiQ_EYHKfqVB
+UID:Hh7PFG7A73mJwNKZmyXjC
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260425T140000
 DTEND:20260425T160000
 SUMMARY:大泉西小学校 - バレーボール
@@ -3772,9 +3772,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Gah_vxeStz4Xhe6sPtIEJ
+UID:YeRwi8z0Pchag20mHqeQv
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260425T183000
 DTEND:20260425T203000
 SUMMARY:大泉学園桜小学校 - バスケットボール
@@ -3786,9 +3786,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:EbjM2kV4OVmc-8UIWwI_C
+UID:dm4LaYBO0tEl2027KlxHP
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260425T190000
 DTEND:20260425T210000
 SUMMARY:橋戸小学校 - 軽スポーツ
@@ -3800,9 +3800,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:4aBsb7D7fuX6ABisDIQ2p
+UID:sp2uj4MBhir37UB26E2tQ
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260426T120000
 DTEND:20260426T140000
 SUMMARY:北町西小学校 - バレーボール
@@ -3814,9 +3814,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:5KIJ-sl1jlB5t3aR-vF9r
+UID:ZPVUkLdpq9SegAOAoORml
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260426T140000
 DTEND:20260426T160000
 SUMMARY:石神井小学校 - ラケットテニス
@@ -3828,9 +3828,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:IPXzNepay7ooIGcNgzrUN
+UID:l2_4yzodvtfUphFHTJbD7
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260426T100000
 DTEND:20260426T120000
 SUMMARY:石神井西小学校 - バドミントン
@@ -3842,9 +3842,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2ZDSrlX-jWDL379c6ncbz
+UID:3bzdgoGx-CepHzVRyqnUG
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260426T123000
 DTEND:20260426T143000
 SUMMARY:関中学校 - バレーボール
@@ -3856,9 +3856,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Jab6tHapO_mf5NpFVDK6V
+UID:BkJren4D0IQxpuvAbhxN3
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260427T190000
 DTEND:20260427T210000
 SUMMARY:豊玉小学校 - 卓球
@@ -3870,9 +3870,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:o0bu02X8zT_x0p_Q62nCZ
+UID:rRd1RrlYnvMZsdd8bUA76
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260427T180000
 DTEND:20260427T203000
 SUMMARY:開進第一小学校 - キャッチバレー
@@ -3884,9 +3884,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:NtkyqDcWah_ndzP0y17AH
+UID:2otnkJWbfuebRtL1k7fD2
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260427T180000
 DTEND:20260427T203000
 SUMMARY:開進第一小学校 - バドミントン
@@ -3898,9 +3898,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Oz5r9zgzIYa-6EZBg9kJx
+UID:mL1Da34pZXrxohlGOPbT8
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260427T190000
 DTEND:20260427T210000
 SUMMARY:旭町小学校 - バレーボール
@@ -3912,9 +3912,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:F4-aZ3eAU3olupy_s-Brv
+UID:kL6wrf8uOo7fte9cqsp-H
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260427T190000
 DTEND:20260427T210000
 SUMMARY:春日小学校 - ボッチャ
@@ -3926,9 +3926,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:kKNMgc7rk8lds-4Mdctg-
+UID:FtaTDj1lZj70yi9vGKL7X
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260427T190000
 DTEND:20260427T210000
 SUMMARY:春日小学校 - 卓球
@@ -3940,9 +3940,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:LmYmE0qPOZPMcHR8Ep4vM
+UID:k_zleNHu6AwPe56sgOXXW
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260427T190000
 DTEND:20260427T210000
 SUMMARY:光が丘秋の陽小学校 - 卓球
@@ -3954,9 +3954,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:WqfAPtj18eL691ZDu7TVo
+UID:ur7v6vw4f_j85uOBtrTXb
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260427T190000
 DTEND:20260427T210000
 SUMMARY:石神井小学校 - バドミントン
@@ -3968,9 +3968,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Ihj4NU3jhQbSFP3_43kVj
+UID:ZgCn1d9mQk8wMzVvznHuz
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260427T190000
 DTEND:20260427T210000
 SUMMARY:上石神井北小学校 - ソフトバレーボール
@@ -3982,9 +3982,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:9K7Kthq8FINrEfTEiJlwC
+UID:ACqazQoKelPuh2gwj3LUq
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260427T190000
 DTEND:20260427T210000
 SUMMARY:大泉第四小学校 - 卓球
@@ -3996,9 +3996,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:HsJdizgH0qVtVoYtwEgDx
+UID:ksUn4BNJi5c6BfOGsLgI7
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260427T190000
 DTEND:20260427T210000
 SUMMARY:大泉第四小学校 - バドミントン
@@ -4010,9 +4010,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:MXjIKKFGG3O-hDMFGEBwY
+UID:u5v3ioelSeKnKo3_p1AMg
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260427T190000
 DTEND:20260427T210000
 SUMMARY:南が丘小学校 - インディアカ
@@ -4024,9 +4024,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:X2ISPhmBeAI2bXmJ2TouB
+UID:yQbs6zahGgH1zZ27q9w14
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260427T190000
 DTEND:20260427T210000
 SUMMARY:豊玉中学校 - バドミントン
@@ -4038,9 +4038,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2gswELYVahDABMXZjswSS
+UID:4HyEqsFtkOCuSl0e2XF_A
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260427T190000
 DTEND:20260427T210000
 SUMMARY:大泉中学校 - ラケットテニス
@@ -4052,9 +4052,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:M7y3wK751DRJENEwpMKCE
+UID:7mgQWOJeiFukEhf51VQ65
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260427T190000
 DTEND:20260427T210000
 SUMMARY:大泉中学校 - バドミントン
@@ -4066,9 +4066,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:_f1mF1mgPOuvVNEeU13Gt
+UID:Y36waBs8luuMlzyK1fbxL
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260427T190000
 DTEND:20260427T210000
 SUMMARY:関中学校 - バドミントン
@@ -4080,9 +4080,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:BH3YZbXzEo2ridq1SJGDm
+UID:Q02g4oTu5O_2hI2s3Mx9V
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260428T190000
 DTEND:20260428T210000
 SUMMARY:小竹小学校 - バレーボール
@@ -4094,9 +4094,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:tSrwMFAzUldthd-s7CE92
+UID:pAFOnCk3wTU9GA0tHNdK4
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260428T190000
 DTEND:20260428T210000
 SUMMARY:豊玉東小学校 - ラケットテニス
@@ -4108,9 +4108,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:mmq0lAUXyS9p6Pv8UK91K
+UID:G0GWxDQf1UAWPjaSqrOAl
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260428T180000
 DTEND:20260428T203000
 SUMMARY:開進第一小学校 - 卓球
@@ -4122,9 +4122,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:KOe4MU-9Q0jr_5eue2iSP
+UID:vd80gqLqbchMqB1XDaVtX
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260428T180000
 DTEND:20260428T203000
 SUMMARY:開進第一小学校 - バドミントン
@@ -4136,9 +4136,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:-9LdtLW0mKfel7XpN2DII
+UID:PFUTy6YlV7DNUAnVRafjw
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260428T190000
 DTEND:20260428T210000
 SUMMARY:開進第四小学校 - ラケットテニス
@@ -4150,9 +4150,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:h04hdCHedVMcX3nsVutE6
+UID:Ybau6JVr2u2H6qpcjshpU
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260428T190000
 DTEND:20260428T210000
 SUMMARY:練馬小学校 - 卓球
@@ -4164,9 +4164,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:4KbfA22AaJxPZ8u-toqac
+UID:h87hnH7ZbGY4pWrmow9fT
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260428T190000
 DTEND:20260428T210000
 SUMMARY:練馬小学校 - ラケットテニス
@@ -4178,9 +4178,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:U89ffcgb_LYul9EsxVSLF
+UID:0uncdZiJRFnhD8zK4bujf
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260428T190000
 DTEND:20260428T210000
 SUMMARY:練馬第三小学校 - 卓球
@@ -4192,9 +4192,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:DWtNWMbxHmyxKIPDUWko3
+UID:g5OQmTGsPdDOqLZaDutbU
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260428T190000
 DTEND:20260428T210000
 SUMMARY:豊渓小学校 - 卓球
@@ -4206,9 +4206,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:TNS02CpLhNl-8dT68tbZi
+UID:FGehthDzyKXuYMRP7DyHp
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260428T190000
 DTEND:20260428T210000
 SUMMARY:光が丘四季の香小学校 - バレーボール
@@ -4220,9 +4220,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Jrjp68IDDuubjTZ1ZqCdz
+UID:AlOpmn_scrifFDjLTtRH7
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260428T190000
 DTEND:20260428T210000
 SUMMARY:大泉第一小学校 - バレーボール
@@ -4234,9 +4234,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:5M7_rwZjUu4KQv8oMtzFn
+UID:-aud_buEEsg8IbfZyKq1k
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260428T190000
 DTEND:20260428T210000
 SUMMARY:大泉学園桜小学校 - 卓球
@@ -4248,9 +4248,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:40dPU8WDg341z1tZUU9W7
+UID:SDSsLHipmk1Ud-F8Pkl-C
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260428T190000
 DTEND:20260428T210000
 SUMMARY:大泉学園桜小学校 - ラケットテニス
@@ -4262,9 +4262,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Y2czWgoI3DI_pclxgpdbn
+UID:QoNeuPFmmoSoelvqdiaOP
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260428T190000
 DTEND:20260428T210000
 SUMMARY:南が丘小学校 - バドミントン
@@ -4276,9 +4276,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:zXeipVqbDG_y90TcughGN
+UID:QKqylZHRi5OD5PgXYxAnW
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260428T190000
 DTEND:20260428T210000
 SUMMARY:開進第三中学校 - 硬式テニス
@@ -4290,9 +4290,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Qw_9-yVnGSWbmu2LyEWXk
+UID:zQw-ykzAyIaO5x99r7_y1
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260429T190000
 DTEND:20260429T210000
 SUMMARY:北町西小学校 - ラケットテニス
@@ -4304,9 +4304,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:lAFklesR0f82rbA4DT8L4
+UID:T0yiUnF3SvqujusCtWXcX
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260429T183000
 DTEND:20260429T210000
 SUMMARY:旭町小学校 - バドミントン
@@ -4318,9 +4318,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:hT7pziIdy0KQweE5WU2u5
+UID:2AynHOVZnoDKx48ZIy8jq
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260429T190000
 DTEND:20260429T210000
 SUMMARY:春日小学校 - バレーボール
@@ -4332,9 +4332,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:p0_-9KyXwKsZCUc1gFEWi
+UID:PpUcvpOiP1ARNMsIKfufl
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260429T180000
 DTEND:20260429T200000
 SUMMARY:光が丘春の風小学校 - バスケットボール
@@ -4346,9 +4346,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:RIVlIgawETPhttQNgVZ-h
+UID:D0ANyHx_fexQ145FP1dBy
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260429T190000
 DTEND:20260429T210000
 SUMMARY:光が丘夏の雲小学校 - 軽スポーツ
@@ -4360,9 +4360,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:5hTX_lUr4NeJpAkx6-jLW
+UID:jCdSF_9jkQkzgPIjXYeY9
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260429T190000
 DTEND:20260429T210000
 SUMMARY:石神井小学校 - 卓球
@@ -4374,9 +4374,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:i87eACjgF8fJn2f3_rdG9
+UID:GXxWSe3N30ACQSssNxDC1
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260429T190000
 DTEND:20260429T210000
 SUMMARY:石神井小学校 - インディアカ
@@ -4388,9 +4388,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:4gzrJCvD5-Yq8iy7TaBRS
+UID:hd4b6h9Jio4WsZ60URfZn
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260429T190000
 DTEND:20260429T210000
 SUMMARY:上石神井北小学校 - バドミントン
@@ -4402,9 +4402,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:-TyEyfYBjcgqCz48XWHN4
+UID:Fbt7Nr9eW6K8EEgj0VLSM
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260429T190000
 DTEND:20260429T210000
 SUMMARY:大泉西小学校 - 卓球
@@ -4416,9 +4416,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:KC5dQQ0K2hKX_7_J2_jZG
+UID:8WprVzd80wJExuOfgsDrL
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260430T190000
 DTEND:20260430T210000
 SUMMARY:豊玉小学校 - バドミントン
@@ -4430,9 +4430,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Brqhy4B6ivELWdilByCVb
+UID:CZP-eB0WdYIGc8ln_lotX
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260430T190000
 DTEND:20260430T210000
 SUMMARY:豊玉東小学校 - ラケットテニス
@@ -4444,9 +4444,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:AxkND43kpCtTLXKdswwqW
+UID:AM8ino7O5OPH0sB6Yf8A8
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260430T190000
 DTEND:20260430T210000
 SUMMARY:練馬小学校 - 軽スポーツ
@@ -4458,9 +4458,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:0NjQGBF3Rs7-1huAd8kMW
+UID:YVLlkkOWEyWtHe1pN2Byd
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260430T190000
 DTEND:20260430T210000
 SUMMARY:豊渓小学校 - バドミントン
@@ -4472,9 +4472,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:O7oJcKRT_wgHcYIsbwiM8
+UID:haW8J7CqmpSLN19P6V-v0
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260430T180000
 DTEND:20260430T200000
 SUMMARY:光が丘春の風小学校 - バドミントン
@@ -4486,9 +4486,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:yhnFc4nU9bBDzR4ZfnZ07
+UID:e54t4LOxMcUJJ5oYUQpva
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260430T190000
 DTEND:20260430T210000
 SUMMARY:光が丘夏の雲小学校 - バドミントン
@@ -4500,9 +4500,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:R20u2jiq0BdeDYayn_Nqs
+UID:_dHFNdW92gG8PA97hfmPn
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260430T190000
 DTEND:20260430T210000
 SUMMARY:光が丘夏の雲小学校 - 卓球
@@ -4514,9 +4514,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:V-dV2nvfzl1Pw_RUQv7Oz
+UID:4H9_UISU1JbO_69drLPG2
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260430T190000
 DTEND:20260430T210000
 SUMMARY:石神井台小学校 - バドミントン
@@ -4528,9 +4528,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:C6ypUDNrPaWqBuR3pSXqo
+UID:2Ntr3zAPcLVrbsYfypg9M
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260430T190000
 DTEND:20260430T210000
 SUMMARY:上石神井北小学校 - 卓球
@@ -4542,9 +4542,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:Yv3dZFi7Uajgc0WNGGd1N
+UID:43wGMKvArYvNCVwnUTjqJ
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260430T190000
 DTEND:20260430T210000
 SUMMARY:光和小学校 - バドミントン
@@ -4556,9 +4556,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:sBnsYAHgxEgvl8l04q1R-
+UID:Hbtptkb-7YT66hXEZvTvk
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260430T190000
 DTEND:20260430T210000
 SUMMARY:大泉第一小学校 - 卓球
@@ -4570,9 +4570,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:NQwu9QBNzFHu1Y6nRUVCt
+UID:CXeJryfi1tT-MY3_GRrWw
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260430T190000
 DTEND:20260430T210000
 SUMMARY:大泉第一小学校 - バドミントン
@@ -4584,9 +4584,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:yJw4mjkCXHnI1-SPTNGtF
+UID:ai5kLThyk8lT3X6ALwztv
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260430T190000
 DTEND:20260430T210000
 SUMMARY:大泉南小学校 - バドミントン
@@ -4598,9 +4598,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:wlB3rZjQ7tDTGgQqzFlur
+UID:V3j9niOKPfJQGw5w_PZp3
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260430T190000
 DTEND:20260430T210000
 SUMMARY:南が丘小学校 - インディアカ
@@ -4612,9 +4612,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ANDV6ChoTPNRVtygqSdWu
+UID:7Oc2_06vcMKZ32O4cvkrr
 SEQUENCE:0
-DTSTAMP:20260418T045041
+DTSTAMP:20260418T053555
 DTSTART:20260430T190000
 DTEND:20260430T210000
 SUMMARY:開進第三中学校 - 硬式テニス
