@@ -6,121 +6,9 @@ X-WR-CALNAME:練馬区 学校体育館個人開放 - 関中学校
 TIMEZONE-ID:Asia/Tokyo
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:mGVE7ieAL_9ZHLjoukt6F
+UID:nCDRHiKgsay1Y31cUVMu3
 SEQUENCE:0
-DTSTAMP:20260527T005730
-DTSTART:20260403T190000
-DTEND:20260403T210000
-SUMMARY:関中学校 - バドミントン
-LOCATION:関中学校
-DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
- s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
- ihounittei.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
-END:VEVENT
-BEGIN:VEVENT
-UID:IEG8GSnYfDbePorcdjN34
-SEQUENCE:0
-DTSTAMP:20260527T005730
-DTSTART:20260406T190000
-DTEND:20260406T210000
-SUMMARY:関中学校 - バドミントン
-LOCATION:関中学校
-DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
- s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
- ihounittei.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
-END:VEVENT
-BEGIN:VEVENT
-UID:o-sZdalOz8i4QjFA0uW4J
-SEQUENCE:0
-DTSTAMP:20260527T005730
-DTSTART:20260410T190000
-DTEND:20260410T210000
-SUMMARY:関中学校 - バドミントン
-LOCATION:関中学校
-DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
- s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
- ihounittei.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
-END:VEVENT
-BEGIN:VEVENT
-UID:AFMMEFN6LrmK-o78LRY_K
-SEQUENCE:0
-DTSTAMP:20260527T005730
-DTSTART:20260412T123000
-DTEND:20260412T143000
-SUMMARY:関中学校 - バレーボール
-LOCATION:関中学校
-DESCRIPTION:学校: 関中学校\n種目: バレーボール\n詳細: http
- s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
- ihounittei.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
-END:VEVENT
-BEGIN:VEVENT
-UID:wr5YIH2zm5aLUc3iuCnXs
-SEQUENCE:0
-DTSTAMP:20260527T005730
-DTSTART:20260417T190000
-DTEND:20260417T210000
-SUMMARY:関中学校 - バドミントン
-LOCATION:関中学校
-DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
- s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
- ihounittei.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
-END:VEVENT
-BEGIN:VEVENT
-UID:oMEAavhIbPZI7A9gwPBpZ
-SEQUENCE:0
-DTSTAMP:20260527T005730
-DTSTART:20260424T190000
-DTEND:20260424T210000
-SUMMARY:関中学校 - バドミントン
-LOCATION:関中学校
-DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
- s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
- ihounittei.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
-END:VEVENT
-BEGIN:VEVENT
-UID:i5xM7qVCL63eDAc34G5Rl
-SEQUENCE:0
-DTSTAMP:20260527T005730
-DTSTART:20260426T123000
-DTEND:20260426T143000
-SUMMARY:関中学校 - バレーボール
-LOCATION:関中学校
-DESCRIPTION:学校: 関中学校\n種目: バレーボール\n詳細: http
- s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
- ihounittei.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
-END:VEVENT
-BEGIN:VEVENT
-UID:b-cOBlPA1StiWCYD4xcYt
-SEQUENCE:0
-DTSTAMP:20260527T005730
-DTSTART:20260427T190000
-DTEND:20260427T210000
-SUMMARY:関中学校 - バドミントン
-LOCATION:関中学校
-DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
- s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
- ihounittei.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
-END:VEVENT
-BEGIN:VEVENT
-UID:WPT8vY0G7uv4106dLJhUZ
-SEQUENCE:0
-DTSTAMP:20260527T005730
+DTSTAMP:20260527T014930
 DTSTART:20260501T190000
 DTEND:20260501T210000
 SUMMARY:関中学校 - バドミントン
@@ -132,9 +20,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:yqFkUM4q-_tUEUp6MzKIo
+UID:2_TXFxR_GtJmD8J-d8T5S
 SEQUENCE:0
-DTSTAMP:20260527T005730
+DTSTAMP:20260527T014930
 DTSTART:20260508T190000
 DTEND:20260508T210000
 SUMMARY:関中学校 - バドミントン
@@ -146,9 +34,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:8CqlNrPnJDrZb7eDQmpSf
+UID:hKxuRze_dv9DEofyCWmn4
 SEQUENCE:0
-DTSTAMP:20260527T005730
+DTSTAMP:20260527T014930
 DTSTART:20260510T123000
 DTEND:20260510T143000
 SUMMARY:関中学校 - バレーボール
@@ -160,9 +48,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:4Zc5Rl4CbwNURNefl_E8j
+UID:6PkuxaPSkrI9hJoP5xRX1
 SEQUENCE:0
-DTSTAMP:20260527T005730
+DTSTAMP:20260527T014930
 DTSTART:20260511T190000
 DTEND:20260511T210000
 SUMMARY:関中学校 - バドミントン
@@ -174,9 +62,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:60c-MZVtOXWjIJunEO1R8
+UID:UsgKyKQu-bEgfKF0WZF6U
 SEQUENCE:0
-DTSTAMP:20260527T005730
+DTSTAMP:20260527T014930
 DTSTART:20260515T190000
 DTEND:20260515T210000
 SUMMARY:関中学校 - バドミントン
@@ -188,9 +76,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:aBeRHlAQ0zefNigle0zmH
+UID:3RLxuMgk8vcWukaXqyjXW
 SEQUENCE:0
-DTSTAMP:20260527T005730
+DTSTAMP:20260527T014930
 DTSTART:20260522T190000
 DTEND:20260522T210000
 SUMMARY:関中学校 - バドミントン
@@ -202,9 +90,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:c51vIH5vx9qT1qHa-yaTl
+UID:-rhUQPaOQV9bYCoaVAjzp
 SEQUENCE:0
-DTSTAMP:20260527T005730
+DTSTAMP:20260527T014930
 DTSTART:20260524T123000
 DTEND:20260524T143000
 SUMMARY:関中学校 - バレーボール
@@ -216,9 +104,9 @@ URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:yz17DwR-uth9mbD_L3gcf
+UID:jtlsCZqbwyTteIJC8O9H6
 SEQUENCE:0
-DTSTAMP:20260527T005730
+DTSTAMP:20260527T014930
 DTSTART:20260529T190000
 DTEND:20260529T210000
 SUMMARY:関中学校 - バドミントン
@@ -228,5 +116,117 @@ DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
  annkaihou3.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:LrQPCsaZ8So6-SJuwt6pO
+SEQUENCE:0
+DTSTAMP:20260527T014930
+DTSTART:20260605T190000
+DTEND:20260605T210000
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
+URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
+ gakkokaiho/kojinkaihounittei.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bKwRSteB8bJkph806nRAh
+SEQUENCE:0
+DTSTAMP:20260527T014930
+DTSTART:20260612T190000
+DTEND:20260612T210000
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
+URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
+ gakkokaiho/kojinkaihounittei.html
+END:VEVENT
+BEGIN:VEVENT
+UID:VYQeyOJbknYVB44jcAH1P
+SEQUENCE:0
+DTSTAMP:20260527T014930
+DTSTART:20260614T123000
+DTEND:20260614T143000
+SUMMARY:関中学校 - バレーボール
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バレーボール\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
+URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
+ gakkokaiho/kojinkaihounittei.html
+END:VEVENT
+BEGIN:VEVENT
+UID:PMbtb_LPcKEQ2TuHl7iNY
+SEQUENCE:0
+DTSTAMP:20260527T014930
+DTSTART:20260615T190000
+DTEND:20260615T210000
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
+URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
+ gakkokaiho/kojinkaihounittei.html
+END:VEVENT
+BEGIN:VEVENT
+UID:pyXrkcxYNMHYT3H9FKXi4
+SEQUENCE:0
+DTSTAMP:20260527T014930
+DTSTART:20260619T190000
+DTEND:20260619T210000
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
+URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
+ gakkokaiho/kojinkaihounittei.html
+END:VEVENT
+BEGIN:VEVENT
+UID:PURNTqY6ZKGXWXZ_Db4MM
+SEQUENCE:0
+DTSTAMP:20260527T014930
+DTSTART:20260626T190000
+DTEND:20260626T210000
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
+URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
+ gakkokaiho/kojinkaihounittei.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aXN19gSZvVHPRq-BOOkUN
+SEQUENCE:0
+DTSTAMP:20260527T014930
+DTSTART:20260628T123000
+DTEND:20260628T143000
+SUMMARY:関中学校 - バレーボール
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バレーボール\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
+URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
+ gakkokaiho/kojinkaihounittei.html
+END:VEVENT
+BEGIN:VEVENT
+UID:uki74NfjeKDYBEraSu7ko
+SEQUENCE:0
+DTSTAMP:20260527T014930
+DTSTART:20260629T190000
+DTEND:20260629T210000
+SUMMARY:関中学校 - バドミントン
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バドミントン\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
+URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
+ gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 END:VCALENDAR
