@@ -1,22 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:--//Nerima Gym Calendar//NONSGML v1.0//EN
-NAME:練馬区 学校体育館個人開放 - ミニバス
-X-WR-CALNAME:練馬区 学校体育館個人開放 - ミニバス
+NAME:練馬区 学校体育館個人開放 - バドミントン（大会
+ ）
+X-WR-CALNAME:練馬区 学校体育館個人開放 - バドミントン（
+ 大会）
 TIMEZONE-ID:Asia/Tokyo
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:22O4ccOZ_qirnFweDgmH7
+UID:HIZHvokE1ls4JpzD6lsDu
 SEQUENCE:0
-DTSTAMP:20260625T052616
-DTSTART:20260614T173000
-DTEND:20260614T200000
-SUMMARY:開進第一小学校 - ミニバス
-LOCATION:開進第一小学校
-DESCRIPTION:学校: 開進第一小学校\n種目: ミニバス\n詳細: h
- ttps://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/koji
- nkaihounittei.html
+DTSTAMP:20260625T071930
+DTSTART:20260723T190000
+DTEND:20260723T210000
+SUMMARY:石神井台小学校 - バドミントン（大会）
+LOCATION:石神井台小学校
+DESCRIPTION:学校: 石神井台小学校\n種目: バドミントン（
+ 大会）\n詳細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigak
+ ushu/gakkokaiho/taiikukannkaihou3.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
+ gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 END:VCALENDAR
