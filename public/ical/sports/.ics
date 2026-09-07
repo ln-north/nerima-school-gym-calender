@@ -1,35 +1,35 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:--//Nerima Gym Calendar//NONSGML v1.0//EN
-NAME:練馬区 学校体育館個人開放 - フットサル
-X-WR-CALNAME:練馬区 学校体育館個人開放 - フットサル
+NAME:練馬区 学校体育館個人開放 - ボッチャ
+X-WR-CALNAME:練馬区 学校体育館個人開放 - ボッチャ
 TIMEZONE-ID:Asia/Tokyo
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:tehg5e0h1wBYy5wk-CGYH
+UID:hMX7GBP70lJ7AMZ3rQAXM
 SEQUENCE:0
-DTSTAMP:20260906T233407
-DTSTART:20260905T190000
-DTEND:20260905T210000
-SUMMARY:豊玉中学校 - フットサル
-LOCATION:豊玉中学校
-DESCRIPTION:学校: 豊玉中学校\n種目: フットサル\n詳細: http
- s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikuk
- annkaihou3.html
+DTSTAMP:20260907T032621
+DTSTART:20260914T190000
+DTEND:20260914T210000
+SUMMARY:春日小学校 - ボッチャ
+LOCATION:春日小学校
+DESCRIPTION:学校: 春日小学校\n種目: ボッチャ\n詳細: https:/
+ /www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukann
+ kaihou3.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 BEGIN:VEVENT
-UID:uGcMOtYJ3uy_QwaaTkf6a
+UID:WfEaEpUTvFNcumWfzmiKw
 SEQUENCE:0
-DTSTAMP:20260906T233407
-DTSTART:20260919T190000
-DTEND:20260919T210000
-SUMMARY:豊玉中学校 - フットサル
-LOCATION:豊玉中学校
-DESCRIPTION:学校: 豊玉中学校\n種目: フットサル\n詳細: http
- s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikuk
- annkaihou3.html
+DTSTAMP:20260907T032621
+DTSTART:20260928T190000
+DTEND:20260928T210000
+SUMMARY:春日小学校 - ボッチャ
+LOCATION:春日小学校
+DESCRIPTION:学校: 春日小学校\n種目: ボッチャ\n詳細: https:/
+ /www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukann
+ kaihou3.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
  gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
