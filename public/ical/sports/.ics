@@ -1,36 +1,25 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:--//Nerima Gym Calendar//NONSGML v1.0//EN
-NAME:練馬区 学校体育館個人開放 - ボッチャ
-X-WR-CALNAME:練馬区 学校体育館個人開放 - ボッチャ
+NAME:練馬区 学校体育館個人開放 - 軽スポーツ（バドミ
+ ントン・卓球他）
+X-WR-CALNAME:練馬区 学校体育館個人開放 - 軽スポーツ（バ
+ ドミントン・卓球他）
 TIMEZONE-ID:Asia/Tokyo
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:ZeaOhqDdPwSksXqWxwoZ_
+UID:RCKaH6GK7Gix7--3zslaS
 SEQUENCE:0
-DTSTAMP:20260927T125038
-DTSTART:20260914T190000
-DTEND:20260914T210000
-SUMMARY:春日小学校 - ボッチャ
-LOCATION:春日小学校
-DESCRIPTION:学校: 春日小学校\n種目: ボッチャ\n詳細: https:/
- /www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukann
- kaihou3.html
+DTSTAMP:20261006T083107
+DTSTART:20261014T190000
+DTEND:20261014T210000
+SUMMARY:光が丘夏の雲小学校 - 軽スポーツ（バドミントン
+ ・卓球他）
+LOCATION:光が丘夏の雲小学校
+DESCRIPTION:学校: 光が丘夏の雲小学校\n種目: 軽スポーツ
+ （バドミントン・卓球他）\n詳細: https://www.city.nerima.toky
+ o.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/taiikukannkaihou3.html
-END:VEVENT
-BEGIN:VEVENT
-UID:1Mb7_vrzE26okL8zq9OZT
-SEQUENCE:0
-DTSTAMP:20260927T125038
-DTSTART:20260928T190000
-DTEND:20260928T210000
-SUMMARY:春日小学校 - ボッチャ
-LOCATION:春日小学校
-DESCRIPTION:学校: 春日小学校\n種目: ボッチャ\n詳細: https:/
- /www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/taiikukann
- kaihou3.html
-URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/taiikukannkaihou3.html
+ gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 END:VCALENDAR
