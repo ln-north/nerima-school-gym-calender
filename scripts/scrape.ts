@@ -130,6 +130,52 @@ function getYearMonthFromUrl(url: string): { year: number; month: number } {
 }
 
 /**
+ * ページ内の全テーブルの rowspan / colspan を展開し、各行を列位置の揃ったセル文字列の配列にする
+ *
+ * 結合セルの値は、結合範囲に含まれるすべての行・列へ複製する。
+ * 複数テーブルがある場合は文書順に行を連結する。
+ * 返り値は新規に生成した配列で、行は th / td の両方を含む。完全実装。
+ */
+function readTableRows($: cheerio.CheerioAPI): string[][] {
+  const rows: string[][] = [];
+
+  $('table').each((_, table) => {
+    const grid: string[][] = [];
+
+    $(table)
+      .find('tr')
+      .each((rowIndex, row) => {
+        grid[rowIndex] ??= [];
+        let column = 0;
+
+        $(row)
+          .find('th, td')
+          .each((_, cell) => {
+            // 上の行からの rowspan で埋まっている列を飛ばす
+            while (grid[rowIndex][column] !== undefined) column++;
+
+            const $cell = $(cell);
+            const text = $cell.text().trim();
+            const rowspan = parseInt($cell.attr('rowspan') ?? '1', 10);
+            const colspan = parseInt($cell.attr('colspan') ?? '1', 10);
+
+            for (let rowOffset = 0; rowOffset < rowspan; rowOffset++) {
+              grid[rowIndex + rowOffset] ??= [];
+              for (let columnOffset = 0; columnOffset < colspan; columnOffset++) {
+                grid[rowIndex + rowOffset][column + columnOffset] = text;
+              }
+            }
+            column += colspan;
+          });
+      });
+
+    rows.push(...grid);
+  });
+
+  return rows;
+}
+
+/**
  * 月別ページからイベント情報を抽出
  */
 async function parseMonthlyPage(url: string): Promise<ScheduleEvent[]> {
@@ -145,40 +191,29 @@ async function parseMonthlyPage(url: string): Promise<ScheduleEvent[]> {
 
   console.log(`Parsing page for ${year}年${month}月: ${url}`);
 
-  // テーブル構造: 学校名 | 内容 | 時間 | 日 | 備考
-  let currentSchoolName = '';
-  $('table tr').each((_, row) => {
+  // 列の並びは月によって変わる（例: 「学校名|内容|時間|日|備考」「学校名|内容|曜日|時間|実施日」）ため、
+  // 見出し行の列名から各列の位置を決める
+  const rows = readTableRows($);
+  const header = rows.find((cells) => cells.includes('学校名'));
+  if (!header) {
+    console.warn(`Header row not found: ${url}`);
+    return events;
+  }
+  const schoolColumn = header.indexOf('学校名');
+  const contentColumn = header.indexOf('内容');
+  const timeColumn = header.indexOf('時間');
+  const daysColumn = header.findIndex((label) => label === '日' || label === '実施日');
+
+  for (const cells of rows) {
     try {
-      const $row = $(row);
-      const cells = $row.find('td');
+      if (cells === header || cells.length < header.length) continue;
 
-      if (cells.length < 4) return; // データ行でない場合はスキップ
+      const schoolNameRaw = cells[schoolColumn];
+      const contentText = cells[contentColumn];
+      const timeText = cells[timeColumn];
+      const daysText = cells[daysColumn];
 
-      // rowspanで学校名が結合されている可能性を考慮
-      let schoolNameRaw: string;
-      let contentText: string;
-      let timeText: string;
-      let daysText: string;
-
-      if (cells.length === 5) {
-        // 5セル: 学校名がある行
-        schoolNameRaw = $(cells[0]).text().trim();
-        contentText = $(cells[1]).text().trim();
-        timeText = $(cells[2]).text().trim();
-        daysText = $(cells[3]).text().trim();
-        currentSchoolName = schoolNameRaw; // 学校名を保存
-      } else if (cells.length === 4) {
-        // 4セル: 学校名が省略されている行（rowspan）
-        schoolNameRaw = currentSchoolName; // 前の行の学校名を使用
-        contentText = $(cells[0]).text().trim();
-        timeText = $(cells[1]).text().trim();
-        daysText = $(cells[2]).text().trim();
-      } else {
-        // その他のセル数は想定外
-        return;
-      }
-
-      if (!schoolNameRaw || !contentText || !timeText || !daysText) return;
+      if (!schoolNameRaw || !contentText || !timeText || !daysText) continue;
 
       // 学校名をそのまま使用
       const schoolName = schoolNameRaw;
@@ -187,14 +222,14 @@ async function parseMonthlyPage(url: string): Promise<ScheduleEvent[]> {
       const timeMatch = timeText.match(/(\d+)[：:](\d+).*?(\d+)[：:](\d+)/);
       if (!timeMatch) {
         console.warn(`Failed to parse time: ${timeText}`);
-        return;
+        continue;
       }
 
       const startTime = `${timeMatch[1].padStart(2, '0')}:${timeMatch[2].padStart(2, '0')}`;
       const endTime = `${timeMatch[3].padStart(2, '0')}:${timeMatch[4].padStart(2, '0')}`;
 
-      // 日付のパース（例: "2（日）、30（日）" or "3（月）"）
-      const dayMatches = daysText.matchAll(/(\d+)[（(]/g);
+      // 日付のパース（例: "2（日）、30（日）" or "11日、25日"）
+      const dayMatches = daysText.matchAll(/(\d+)(?:[（(]|日)/g);
       const days: number[] = [];
       for (const match of dayMatches) {
         days.push(parseInt(match[1], 10));
@@ -202,7 +237,7 @@ async function parseMonthlyPage(url: string): Promise<ScheduleEvent[]> {
 
       if (days.length === 0) {
         console.warn(`Failed to parse days: ${daysText}`);
-        return;
+        continue;
       }
 
       // 種目のパース（複数ある場合もある）
@@ -227,7 +262,7 @@ async function parseMonthlyPage(url: string): Promise<ScheduleEvent[]> {
     } catch (error) {
       console.error('Error parsing row:', error);
     }
-  });
+  }
 
   console.log(`Extracted ${events.length} events from ${url}`);
   return events;
