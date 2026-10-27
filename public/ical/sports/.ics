@@ -1,25 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:--//Nerima Gym Calendar//NONSGML v1.0//EN
-NAME:練馬区 学校体育館個人開放 - 軽スポーツ（バドミ
- ントン・卓球他）
-X-WR-CALNAME:練馬区 学校体育館個人開放 - 軽スポーツ（バ
- ドミントン・卓球他）
+NAME:練馬区 学校体育館個人開放 - バレーボールお楽し
+ み会
+X-WR-CALNAME:練馬区 学校体育館個人開放 - バレーボールお
+ 楽しみ会
 TIMEZONE-ID:Asia/Tokyo
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:haHkr7Br7d1iqBfjbeLNF
+UID:eARRuEwLXDwMGnM43mskk
 SEQUENCE:0
-DTSTAMP:20261027T011424
-DTSTART:20261014T190000
-DTEND:20261014T210000
-SUMMARY:光が丘夏の雲小学校 - 軽スポーツ（バドミントン
- ・卓球他）
-LOCATION:光が丘夏の雲小学校
-DESCRIPTION:学校: 光が丘夏の雲小学校\n種目: 軽スポーツ
- （バドミントン・卓球他）\n詳細: https://www.city.nerima.toky
- o.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinkaihounittei.html
+DTSTAMP:20261027T072601
+DTSTART:20261129T123000
+DTEND:20261129T143000
+SUMMARY:関中学校 - バレーボールお楽しみ会
+LOCATION:関中学校
+DESCRIPTION:学校: 関中学校\n種目: バレーボールお楽しみ
+ 会\n詳細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/g
+ akkokaiho/taiikukannkaihou3.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/kojinkaihounittei.html
+ gakkokaiho/taiikukannkaihou3.html
 END:VEVENT
 END:VCALENDAR
