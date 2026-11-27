@@ -1,24 +1,22 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:--//Nerima Gym Calendar//NONSGML v1.0//EN
-NAME:練馬区 学校体育館個人開放 - バレーボールお楽し
- み会
-X-WR-CALNAME:練馬区 学校体育館個人開放 - バレーボールお
- 楽しみ会
+NAME:練馬区 学校体育館個人開放 - ミニテニス
+X-WR-CALNAME:練馬区 学校体育館個人開放 - ミニテニス
 TIMEZONE-ID:Asia/Tokyo
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:_Byer1CUVvX802e6u2SXk
+UID:jMZegPk9DYV1DpnqrkGU8
 SEQUENCE:0
-DTSTAMP:20261126T134454
-DTSTART:20261129T123000
-DTEND:20261129T143000
-SUMMARY:関中学校 - バレーボールお楽しみ会
-LOCATION:関中学校
-DESCRIPTION:学校: 関中学校\n種目: バレーボールお楽しみ
- 会\n詳細: https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/g
- akkokaiho/taiikukannkaihou3.html
+DTSTAMP:20261127T035755
+DTSTART:20261219T180000
+DTEND:20261219T210000
+SUMMARY:旭町小学校 - ミニテニス
+LOCATION:旭町小学校
+DESCRIPTION:学校: 旭町小学校\n種目: ミニテニス\n詳細: http
+ s://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/gakkokaiho/kojinka
+ ihounittei.html
 URL;VALUE=URI:https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/
- gakkokaiho/taiikukannkaihou3.html
+ gakkokaiho/kojinkaihounittei.html
 END:VEVENT
 END:VCALENDAR
